@@ -1,0 +1,310 @@
+
+...	...	@@ -622,7 +622,7 @@
+622	622	   		<fanart>https://www.themoviedb.org/t/p/original/3aefwvGlKL9Z6e7boxk40VF7Ggs.jpg</fanart>
+623	623	   		<date>2020</date>
+624	624	   		<genre>Intriga. Thriller. Terror</genre>
+625		-  		<extra>Estreno</extra>
+625	+  		<extra>NA</extra>
+626	626	   		<info>Verónica es una escritora de éxito que queda atrapada en una terrorífica realidad cuyo misterio debe resolver antes de que sea demasiado tarde.</info>
+627	627	   	</item>
+628	628	   	<item>
+...	...	@@ -651,6 +651,19 @@
+651	651	   		<extra>NA</extra>
+652	652	   		<info>uando Arthur Curry (Jason Momoa) descubre que es mitad humano y mitad atlante, emprenderá el viaje de su vida en esta aventura que no sólo le obligará a enfrentarse a quién es en realidad, sino también a descubrir si es digno de cumplir con su destino: ser rey, y convertirse en Aquaman.</info>
+653	653	   	</item>
+654	+  	<item>
+655	+  		<title>ARCHENEMY</title>
+656	+  		<microhd>8f28b93dff8b480cc09d6e5a0977c6b93e4673c7</microhd>
+657	+  		<fullhd>4204a655c9b05e4589629d59da6edddd2eeb64e6</fullhd>
+658	+  		<tresd>NA</tresd>
+659	+  		<cuatrok>NA</cuatrok>
+660	+  		<thumbnail>https://www.themoviedb.org/t/p/original/4H54bQrCM6NBm9sqw911scGd4hb.jpg</thumbnail>
+661	+  		<fanart>https://www.themoviedb.org/t/p/original/9j7VovzODcb1xQ1kKm68i8XC2bj.jpg</fanart>
+662	+  		<date>2020</date>
+663	+  		<genre>Acción. Aventuras</genre>
+664	+  		<extra>Estreno</extra>
+665	+  		<info>Max Fist asegura ser un héroe de otra dimensión que cayó por accidente en la Tierra, donde no puede emplear sus poderes, a través de una brecha en el espacio-tiempo. Sólo un adolescente local a quien todos conocen por el sobrenombre de "Hamster" cree en él. </info>
+666	+  	</item>
+654	667	   	<item>
+655	668	   		<title>ARCHIVE</title>
+656	669	   		<microhd>eef113b30cd263f9b15dcb1cbdf6af4c9840e1d7</microhd>
+...	...	@@ -2130,7 +2143,7 @@
+2130	2143	   		<fanart>https://www.themoviedb.org/t/p/original/llMc0bO5G8jpkMqqcLNy7Y8LYBf.jpg</fanart>
+2131	2144	   		<date>2020</date>
+2132	2145	   		<genre>Drama. Comedia </genre>
+2133		-  		<extra>Estreno</extra>
+2146	+  		<extra>NA</extra>
+2134	2147	   		<info>Theresa (Debra Winger) y Robert (Richard Jenkins) son dos estafadores profesionales que llevan 26 años formando a su única hija, Old Dolio (Evan Rachel Wood), para timar, estafar y robar a cada oportunidad que se le presente. Durante un golpe mal planificado y a la desesperada, la familia convence a una desconocida (Gina Rodriguez) para que se una a su siguiente fraude, algo que sin duda acabará poniendo patas arriba todo su mundo.</info>
+2135	2148	   	</item>
+2136	2149	   	<item>
+...	...	@@ -2407,6 +2420,71 @@
+2407	2420	   		<extra>Mis</extra>
+2408	2421	   		<info>La Tierra, año 2084. Doug Quaid, un hombre que lleva una vida aparentemente tranquila, vive atormentado por una pesadilla que todas las noches lo transporta a Marte. Decide entonces recurrir al laboratorio de Recall, una empresa de vacaciones virtuales que le ofrece la oportunidad de materializar su sueño gracias a un fuerte alucinógeno, pero la droga hace aflorar a su memoria una estancia verdadera en Marte cuando era el más temido agente del cruel Coohagen.</info>
+2409	2422	   	</item>
+2423	+  	<item>
+2424	+  		<title>DESTINO FATAL II</title>
+2425	+  		<microhd>NA</microhd>
+2426	+  		<fullhd>53acc9e356e8b1c2778ea3b9882b30ee0212ec39</fullhd>
+2427	+  		<tresd>NA</tresd>
+2428	+  		<cuatrok>NA</cuatrok>
+2429	+  		<thumbnail>https://www.themoviedb.org/t/p/original/6m4TTnatasZcMi6qE4Hbe9LdJgz.jpg</thumbnail>
+2430	+  		<fanart>https://www.themoviedb.org/t/p/original/x9EWK3SbrDGpcpJbkg8VGXr9nHv.jpg</fanart>
+2431	+  		<date>2003</date>
+2432	+  		<genre>Terror. Saga</genre>
+2433	+  		<extra>NA</extra>
+2434	+  		<info>Ha pasado un año desde el accidente del vuelo 180. Ahora, un grupo de jóvenes estudiantes que se dirigen a Florida en las vacaciones de primavera, evitan un mortal accidente de tráfico gracias a las premoniciones de uno de los chicos.</info>
+2435	+  	</item>
+2436	+  	<item>
+2437	+  		<title>DESTINO FINAL</title>
+2438	+  		<microhd>NA</microhd>
+2439	+  		<fullhd>8d2de17c26ef61348e974be88b070d811bb2167b</fullhd>
+2440	+  		<tresd>NA</tresd>
+2441	+  		<cuatrok>NA</cuatrok>
+2442	+  		<thumbnail>https://www.themoviedb.org/t/p/original/omO4gpAlImEQOVVEHRTAIHfmAGK.jpg</thumbnail>
+2443	+  		<fanart>https://www.themoviedb.org/t/p/original/7LU0ryVKd0AkmENyEzCYiGullu5.jpg</fanart>
+2444	+  		<date>2000</date>
+2445	+  		<genre>Terror. Saga</genre>
+2446	+  		<extra>NA</extra>
+2447	+  		<info>Un joven estudiante tiene una premonición al subirse al avión en el que se dispone a ir a París con sus compañeros. Presintiendo que algo grave va a pasar, él y sus amigos desembarcan antes del despegue. Efectivamente, el avión sufre un trágico accidente, y los jóvenes piensan que se han librado de una muerte segura gracias a la premonición de su amigo. Pero el destino no ha sido vencido todavía...</info>
+2448	+  	</item>
+2449	+  	<item>
+2450	+  		<title>DESTINO FINAL III</title>
+2451	+  		<microhd>NA</microhd>
+2452	+  		<fullhd>a65d4050a718bb6b4a4851bac4bbd55e847bfd3b</fullhd>
+2453	+  		<tresd>NA</tresd>
+2454	+  		<cuatrok>NA</cuatrok>
+2455	+  		<thumbnail>https://www.themoviedb.org/t/p/original/icB8NTqRMsTm9UKl6PlDMKJOEZq.jpg</thumbnail>
+2456	+  		<fanart>https://www.themoviedb.org/t/p/original/iiKTyL7jTw5FzVBlhLCu9I7M86w.jpg</fanart>
+2457	+  		<date>2006</date>
+2458	+  		<genre>Terror. Saga</genre>
+2459	+  		<extra>NA</extra>
+2460	+  		<info>Una estudiante del instituto (Winstead) tiene una premonición sobre una tragedia en un parque de atracciones local, por lo que decide no montarse en una montaña rusa que presiente va a descarrilar... (</info>
+2461	+  	</item>
+2462	+  	<item>
+2463	+  		<title>DESTINO FINAL IV</title>
+2464	+  		<microhd>NA</microhd>
+2465	+  		<fullhd>ceeb42cc55270ae15a8a36800ba03a080de466ad</fullhd>
+2466	+  		<tresd>NA</tresd>
+2467	+  		<cuatrok>NA</cuatrok>
+2468	+  		<thumbnail>https://www.themoviedb.org/t/p/original/rvvKHROhxc6pMOfeYqWbUqUZYvS.jpg</thumbnail>
+2469	+  		<fanart>https://www.themoviedb.org/t/p/original/iVJL9RamSBUcW7BzzvU8eHeIsA8.jpg</fanart>
+2470	+  		<date>2009</date>
+2471	+  		<genre>Terror. Thriller . Saga</genre>
+2472	+  		<extra>NA</extra>
+2473	+  		<info>Nick O’Bannon y unos amigos acuden a un circuito de carreras para presenciar una prueba del Nascar. Durante ésta tiene lugar un terrible accidente que conlleva desastrosas consecuencias para el estadio. Pero Nick descubre que se trata de sólo una visión de algo que está a punto de suceder, y junto con otras doce personas consigue salir del recinto y escapar de una tragedia segura. Pensando que han burlado a la muerte, el grupo continúa con su vida, pero desafortunadamente para Nick, Lori y sus amigos sólo es el principio, ya que la muerte no deja cabos sueltos, y regresará para llevarse a los supervivientes de una manera brutal.</info>
+2474	+  	</item>
+2475	+  	<item>
+2476	+  		<title>DESTINO FINAL V</title>
+2477	+  		<microhd>NA</microhd>
+2478	+  		<fullhd>ecd73e3bfc1464a02ec13070748349dd5a111672</fullhd>
+2479	+  		<tresd>NA</tresd>
+2480	+  		<cuatrok>NA</cuatrok>
+2481	+  		<thumbnail>https://www.themoviedb.org/t/p/original/wRzqLektUs0R6i84sjvF2dS69BW.jpg</thumbnail>
+2482	+  		<fanart>https://www.themoviedb.org/t/p/original/g3jvFCHwMxslAuHdgsC1S0wgLrC.jpg</fanart>
+2483	+  		<date>2011</date>
+2484	+  		<genre>Terror. Thriller. Saga</genre>
+2485	+  		<extra>NA</extra>
+2486	+  		<info>Sam Lawton (Nicholas D'Agosto) tiene una premonición sobre la destrucción de un puente colgante que causaría su muerte y la de otras personas. La visión se hace realidad, pero Sam se las arregla para salvarse a sí mismo y a algunos otros de la catastrófica tragedia. Sin embargo, Sam y su novia Molly (Emma Bell) descubren que no están realmente a salvo: la muerte los persigue a ellos y a los que sobrevivieron al horrible accidente... Quinta entrega de la popular serie de terror "Destino final". </info>
+2487	+  	</item>
+2410	2488	   	<item>
+2411	2489	   		<title>DETROIT</title>
+2412	2490	   		<microhd>b73068b76b5b9a7d1f983babb3f9c37070171e7f</microhd>
+...	...	@@ -2810,6 +2888,19 @@
+2810	2888	   		<extra>NA</extra>
+2811	2889	   		<info>Conocemos a Sam, una princesa nacida en segundo lugar. No es la típica princesa y no encaja en ese mundo. Cuando su madre, la reina, la envía a clases de verano en un internado, Sam averigua que es una tapadera: ella y los demás alumnos descubren que tienen superpoderes y que están ahí para entrenar y entrar a formar parte del club secreto de los no herederos al trono. ¿Serán capaces de aprender a usar sus poderes para salvar sus reinos?</info>
+2812	2890	   	</item>
+2891	+  	<item>
+2892	+  		<title>EL CODIGO DA VINCI</title>
+2893	+  		<microhd>NA</microhd>
+2894	+  		<fullhd>NA</fullhd>
+2895	+  		<tresd>NA</tresd>
+2896	+  		<cuatrok>c2ac13a24abeeb9a203ce4248daa844c31d54e27</cuatrok>
+2897	+  		<thumbnail>https://www.themoviedb.org/t/p/original/n5N1pdoAqSkO6ZmiTdryBS4jmCO.jpg</thumbnail>
+2898	+  		<fanart>https://www.themoviedb.org/t/p/original/rbeXab3IISrxL7jVPjb7jZ4TdeE.jpg</fanart>
+2899	+  		<date>2006</date>
+2900	+  		<genre>Intriga. Thriller</genre>
+2901	+  		<extra>Mis</extra>
+2902	+  		<info>El catedrático y afamado simbologista Robert Langdon (Tom Hanks) se ve obligado a acudir una noche al Museo del Louvre, cuando el asesinato de un restaurador deja tras de sí un misterioso rastro de símbolos y pistas. Con la ayuda de la criptógrafa de la policía Sophie Neveu (Audrey Tautou) y poniendo en juego su propia vida, Langdon descubre que la obra de Leonardo Da Vinci esconde una serie de misterios que apuntan a una sociedad secreta encargada de custodiar un antiguo secreto que ha permanecido oculto durante dos mil años... </info>
+2903	+  	</item>
+2813	2904	   	<item>
+2814	2905	   		<title>EL COLECCIONISTA DE HUESOS</title>
+2815	2906	   		<microhd>b0dba9325fd3d7cdd3445ad5d09bf6766151cec7</microhd>
+...	...	@@ -3028,7 +3119,7 @@
+3028	3119	   		<fanart>https://www.themoviedb.org/t/p/original/tEBmjclGd6oVxin8axu4ELf10bl.jpg</fanart>
+3029	3120	   		<date>2019</date>
+3030	3121	   		<genre>Thriller. Acción. Drama. Cine negro</genre>
+3031		-  		<extra>Estreno</extra>
+3122	+  		<extra>NA</extra>
+3032	3123	   		<info>Un jefe de la mafia (Ma Dong-Seok) y un oficial de policía responsable de un sanguinario comando (Kim Mu-Yeol) tendrán que dejar a un lado sus diferencias para unirse en la persecución de un asesino de nombre K (Kim Sung-Kyun).</info>
+3033	3124	   	</item>
+3034	3125	   	<item>
+...	...	@@ -3756,7 +3847,7 @@
+3756	3847	   		<fanart>https://www.themoviedb.org/t/p/original/vKzbIoHhk1z9DWYi8kyFe9Gg0HF.jpg</fanart>
+3757	3848	   		<date>2021</date>
+3758	3849	   		<genre>Comedia </genre>
+3759		-  		<extra>Estreno</extra>
+3850	+  		<extra>NA</extra>
+3760	3851	   		<info>Akeem vuelve a América cuando descubre que tiene un hijo que llevaba buscando mucho tiempo, para así lograr que se convierta en el rey de Zamunda.</info>
+3761	3852	   	</item>
+3762	3853	   	<item>
+...	...	@@ -4094,7 +4185,7 @@
+4094	4185	   		<fanart>https://www.themoviedb.org/t/p/original/9uAAieZy0B6bkfy6IL8KIrPEnGL.jpg</fanart>
+4095	4186	   		<date>2020</date>
+4096	4187	   		<genre>Romance. Drama</genre>
+4097		-  		<extra>Estreno</extra>
+4188	+  		<extra>NA</extra>
+4098	4189	   		<info>Año 1998. Isabel, estudiante de periodismo, se ve obligada a realizar sus prácticas en el diario de un pequeño pueblo costero gallego para terminar la carrera. Al llegar, quiere empezar cuanto antes a investigar, a demostrar todo lo que ha aprendido para convertirse en una auténtica periodista. Pero el puesto que le asignan es el último que ella esperaba: la escritura y gestión de las esquelas que llegan a la redacción. Pero esto, que podría parecer en principio algo aburrido, se convierte en la puerta a una investigación que la llevará por diferentes puntos de la geografía española en busca de una historia de amor imposible.</info>
+4099	4190	   	</item>
+4100	4191	   	<item>
+...	...	@@ -4695,6 +4786,19 @@
+4695	4786	   		<extra>NA</extra>
+4696	4787	   		<info>Desde que se cruzaron los caminos del agente Hobbs (Johnson), un leal miembro de los servicios de Seguridad del Cuerpo Diplomático estadounidense, y del solitario mercenario Shaw (Statham), ex miembro de un cuerpo de élite del ejército británico, los insultos, golpes y burlas no han cesado entre ellos para ver cuál de los dos cae antes. Pero cuando un anarquista mejorado ciber-genéticamente llamado Brixton (Elba) se hace con el control de una peligrosa arma biológica, el mundo se enfrenta a una de sus mayores amenazas. Cuando Shaw se entera de que además Brixton ha derrotado a su hermana, una brillante e intrépida agente secreta del M16 (Kirby), él y Hobbs no tendrán más remedio que dejar su mortal enemistad a un lado para salvar el mundo y derrotar al único hombre capaz de acabar con ellos.</info>
+4697	4788	   	</item>
+4789	+  	<item>
+4790	+  		<title>FATALE</title>
+4791	+  		<microhd>392d4c04db2c22aac5a15d5963727fda591f8f38</microhd>
+4792	+  		<fullhd>19d7d80ba43cb12386bfa94424a0a346cb0c998c</fullhd>
+4793	+  		<tresd>NA</tresd>
+4794	+  		<cuatrok>NA</cuatrok>
+4795	+  		<thumbnail>https://www.themoviedb.org/t/p/original/9v43jAAfCYcQEgeMJ1H0rghN0of.jpg</thumbnail>
+4796	+  		<fanart>https://www.themoviedb.org/t/p/original/ggSL2sBEQW7GvjPog62xUZmaamv.jpg</fanart>
+4797	+  		<date>2020</date>
+4798	+  		<genre>Thriller</genre>
+4799	+  		<extra>Estreno</extra>
+4800	+  		<info>Darren (Michael Ealy), un exitoso agente deportivo y hombre casado, se adentra en un mundo de pesadilla cuando comienza a ser manipulado por una mujer detective (Hilary Swank) con la que ha tenido una noche de pasión. La pregunta es: ¿hasta dónde estará dispuesto a llegar para salvar su matrimonio del error que ha cometido?</info>
+4801	+  	</item>
+4698	4802	   	<item>
+4699	4803	   		<title>FEEDBACK</title>
+4700	4804	   		<microhd>499a8b0b86488ae53ad97ab465542a84cf9ec854</microhd>
+...	...	@@ -4864,6 +4968,19 @@
+4864	4968	   		<extra>NA</extra>
+4865	4969	   		<info>Después de escapar de una emboscada, un sicario enfermo vuelve a su ciudad natal de Galveston donde planea su venganza. Roy Cady es un asesino a sueldo en New Orleans al que le fue diagnosticado cáncer de pulmón a los 40 años. Ante la sospecha de que su jefe quiere eliminarle, Roy trata de huir hacia el horizonte desconocido. En su camino, se encontrará con una joven desamparada que le da la oportunidad de darle un nuevo sentido a su vida... Basada en la novela del creador de 'True Detective'.</info>
+4866	4970	   	</item>
+4971	+  	<item>
+4972	+  		<title>GANGS OF NEW YORK</title>
+4973	+  		<microhd>3e54580be60c091c5e66d0340b9483e9d1012cc7</microhd>
+4974	+  		<fullhd>2ec278238925513938931f59113e226b55e02198</fullhd>
+4975	+  		<tresd>NA</tresd>
+4976	+  		<cuatrok>NA</cuatrok>
+4977	+  		<thumbnail>https://www.themoviedb.org/t/p/original/lemqKtcCuAano5aqrzxYiKC8kkn.jpg</thumbnail>
+4978	+  		<fanart>https://www.themoviedb.org/t/p/original/ykqSwE2vUrcocu4w9e99bxLBrXd.jpg</fanart>
+4979	+  		<date>2002</date>
+4980	+  		<genre>Drama </genre>
+4981	+  		<extra>Mis</extra>
+4982	+  		<info>Nueva York, 1863. La ciudad está dominada por la corrupción política, y la guerra entre bandas provoca muertos y disturbios. En este contexto, el joven inmigrante irlandés Amsterdam Vallon (Leonardo DiCaprio) quiere vengarse de William Cutting, "Bill el carnicero" (Daniel Day-Lewis), el hombre que mató a su padre (Liam Neeson).</info>
+4983	+  	</item>
+4867	4984	   	<item>
+4868	4985	   		<title>GATTACA</title>
+4869	4986	   		<microhd>NA</microhd>
+...	...	@@ -5254,6 +5371,19 @@
+5254	5371	   		<extra>NA</extra>
+5255	5372	   		<info>El final ha llegado. Harry, Hermione y Ron tendrán que recuperar la espada de Gryffindor para encontrar y destruir los últimos horrocruxes. Mientras tanto, Lord Voldemort está a punto de apoderarse por completo de Hogwarts y de conseguir su objetivo: matar a Harry Potter. La única esperanza de Harry es encontrar los horrocruxes antes de que Voldemort lo encuentre a él. Buscando pistas, descubre una antigua y olvidada historia: la leyenda de las reliquias de la muerte, que podría dar al malvado Lord el poder definitivo. Pero el futuro de Harry está escrito desde que nació e incluye una misión para la que se ha estado preparando desde que llegó a Hogwarts: la batalla final contra Voldemort. </info>
+5256	5373	   	</item>
+5374	+  	<item>
+5375	+  		<title>HASTA EL ULTMO HOMBRE</title>
+5376	+  		<microhd>357e072c7cf16342e39509453227e2047538f1b9</microhd>
+5377	+  		<fullhd>B63544343488A8C9289EF6AD9B6D3D5DEAF1A5EB</fullhd>
+5378	+  		<tresd>NA</tresd>
+5379	+  		<cuatrok>NA</cuatrok>
+5380	+  		<thumbnail>https://www.themoviedb.org/t/p/original/m3jj8IJ7uP5p4MqMzgtGW5l4ECd.jpg</thumbnail>
+5381	+  		<fanart>https://www.themoviedb.org/t/p/original/pqv1Li4kUc96LmrLutdJm6aQi0y.jpg</fanart>
+5382	+  		<date>2016</date>
+5383	+  		<genre>Bélico. Drama</genre>
+5384	+  		<extra>Mis</extra>
+5385	+  		<info>Narra la historia de Desmond Doss, un joven médico militar que participó en la sangrienta batalla de Okinawa, en el Pacífico durante la II Guerra Mundial, y se convirtió en el primer objetor de conciencia en la historia estadounidense en recibir la Medalla de Honor del Congreso. Doss quería servir a su país, pero desde pequeño se había hecho una promesa a sí mismo: no coger jamás ningún arma.</info>
+5386	+  	</item>
+5257	5387	   	<item>
+5258	5388	   		<title>HASTA QUE LA BODA NOS SEPARE</title>
+5259	5389	   		<microhd>837204652c4ccbd0d31e65a66d9cbbccd77a0bf9</microhd>
+...	...	@@ -7942,7 +8072,7 @@
+7942	8072	   		<fanart>https://www.themoviedb.org/t/p/original/DnjwdbjdR2c5MFhKv5ZSRf8rDU.jpg</fanart>
+7943	8073	   		<date>2020</date>
+7944	8074	   		<genre>Terror. Thriller</genre>
+7945		-  		<extra>Estreno</extra>
+8075	+  		<extra>NA</extra>
+7946	8076	   		<info>Dicen que el amor de una madre es para siempre... pero para Chloe esto no es un consuelo, sino una amenaza. Hay algo extraño, incluso siniestro en la relación de Chloe (Kiera Allen) y su madre, Diane (Sarah Paulson). Diane ha criado a su hija completamente aislada, controlando cada uno de sus movimientos, pero Chloe pronto empezará a descubrir los oscuros secretos que guarda su madre.</info>
+7947	8077	   	</item>
+7948	8078	   	<item>
+...	...	@@ -7968,7 +8098,7 @@
+7968	8098	   		<fanart>https://www.themoviedb.org/t/p/original/hBOH4PNnhcGPgZbZjBwkx9gnNxI.jpg</fanart>
+7969	8099	   		<date>2020</date>
+7970	8100	   		<genre>Drama. Comedia</genre>
+7971		-  		<extra>Estreno</extra>
+8101	+  		<extra>NA</extra>
+7972	8102	   		<info>Biopic sobre Herman Mankiewicz, guionista de 'Ciudadano Kane', que repasa el proceso de rodaje de la obra maestra de Orson Welles, dirigida y estrenada en 1941. La película toma como base un guión escrito por Jack Fincher, padre de David Fincher, antes de morir en 2003.</info>
+7973	8103	   	</item>
+7974	8104	   	<item>
+...	...	@@ -8878,7 +9008,7 @@
+8878	9008	   		<fanart>https://www.themoviedb.org/t/p/original/jjPpjUYf3o698cPx06FHZ5zqomv.jpg</fanart>
+8879	9009	   		<date>2020</date>
+8880	9010	   		<genre>Drama</genre>
+8881		-  		<extra>Estreno</extra>
+9011	+  		<extra>NA</extra>
+8882	9012	   		<info>Cinco años después del fin de la Guerra Civil estadounidense, el veterano capitán Jefferson Kyle Kidd (Tom Hanks) viaja de ciudad en ciudad narrando noticias, hablando de historias que tienen lugar en cualquier rincón del mundo. Un día, en Texas el capitán se encuentra a Johanna, una niña de diez años secuestrada seis años atrás por la tribu india Kiowa, y que durante ese tiempo fue educada como uno de ellos. Johanna, en contra de su voluntad, debe ir a vivir a casa de sus tíos carnales. El capitán Kidd acepta entregar a la niña a sus tutores legales. En el viaje, ambos recorrerán cientos de kilómetros y deberán enfrentarse a enormes dificultades, humanas y naturales, en búsqueda de un lugar al que puedan llamar “hogar”.</info>
+8883	9013	   	</item>
+8884	9014	   	<item>
+...	...	@@ -9125,7 +9255,7 @@
+9125	9255	   		<fanart>https://www.themoviedb.org/t/p/original/eCzgK2kMLBMgRCPDB9MthT4aw14.jpg</fanart>
+9126	9256	   		<date>2020</date>
+9127	9257	   		<genre>Bélico. Fantástico. Acción. Terror </genre>
+9128		-  		<extra>Estreno</extra>
+9258	+  		<extra>NA</extra>
+9129	9259	   		<info>Año 1943. En plena Segunda Guerra Mundial, la oficial de vuelo Maude Garrett se une a la tripulación masculina de un bombardero B-17 llevando consigo un paquete ultrasecreto. Durante el vuelo desde Nueva Zelanda hasta Samoa, sucesos extraños comienzan a incitar cierta paranoia en torno a su verdadera misión, y lo cierto es que la tripulación tiene mucho que temer: acechando en las sombras, algo siniestro, una presencia maligna está destrozando el interior del avión. Atrapada entre la emboscada japonesa que se avecina y el mal que les acecha en el interior del avión, Maude debe sobrepasar sus límites para intentar salvar a la tripulación y proteger su misteriosa carga. </info>
+9130	9260	   	</item>
+9131	9261	   	<item>
+...	...	@@ -9495,7 +9625,7 @@
+9495	9625	   	<item>
+9496	9626	   		<title>PREDATOR</title>
+9497	9627	   		<microhd>13c331a9932e48b6aa17a77497405ae36c64bcf2</microhd>
+9498		-  		<fullhd>NA</fullhd>
+9628	+  		<fullhd>126e60ec0145ff2286c1d92437527f2db4304858</fullhd>
+9499	9629	   		<tresd>NA</tresd>
+9500	9630	   		<cuatrok>NA</cuatrok>
+9501	9631	   		<thumbnail>https://image.tmdb.org/t/p/original/mMNnrjCFRIczAVNINTNtxKgAbff.jpg</thumbnail>
+...	...	@@ -9645,7 +9775,7 @@
+9645	9775	   		<fanart>https://www.themoviedb.org/t/p/original/7KL4yJ4JsbtS1BNRilUApLvMnc5.jpg</fanart>
+9646	9776	   		<date>2021</date>
+9647	9777	   		<genre>Thriller. Drama. Terror</genre>
+9648		-  		<extra>Estreno</extra>
+9778	+  		<extra>NA</extra>
+9649	9779	   		<info>Cuando Nadja queda embarazada, tanto ella como su pareja intentan reconducir su relación viajando al norte de Suecia para practicar montañismo. Sin embargo, su escapada romántica no tarda en convertirse en una auténtica pesadilla.</info>
+9650	9780	   	</item>
+9651	9781	   	<item>
+...	...	@@ -10259,6 +10389,19 @@
+10259	10389	   		<extra>NA</extra>
+10260	10390	   		<info>El misterioso pasado de Baker Dill (Matthew McConaughey), un capitán de un barco pesquero que vive en una pequeña isla del Caribe, vuelve para atormentarle, atrapándolo en una nueva realidad que podría no ser lo que parece. Su vida tranquila desaparece cuando aparece su ex mujer Karen (Anne Hathaway) pidiéndole ayuda para ella y su hijo en común.</info>
+10261	10391	   	</item>
+10392	+  	<item>
+10393	+  		<title>SERPICO</title>
+10394	+  		<microhd>ade9bea3fef159bcb6342e860169fa952cadf186</microhd>
+10395	+  		<fullhd>NA</fullhd>
+10396	+  		<tresd>NA</tresd>
+10397	+  		<cuatrok>bc8e58651e8f6016a1dbcafab655bdcecf574ae1</cuatrok>
+10398	+  		<thumbnail>https://www.themoviedb.org/t/p/original/aMkyqIjXjg8Q9hiuY9gpvZoHvFT.jpg</thumbnail>
+10399	+  		<fanart>https://www.themoviedb.org/t/p/original/zvNMZl0l2qYq0x0ntq8sILiIpLw.jpg</fanart>
+10400	+  		<date>1973</date>
+10401	+  		<genre>Drama</genre>
+10402	+  		<extra>Mis</extra>
+10403	+  		<info>Años 70. Relato biográfico sobre Frank Serpico, un policía íntegro de principios incorruptibles que, a diferencia de sus colegas, nunca se dejó sobornar, y precisamente por ello siempre tuvo problemas con sus compañeros de profesión y se vio expuesto a situaciones muy peligrosas</info>
+10404	+  	</item>
+10262	10405	   	<item>
+10263	10406	   		<title>SEVEN</title>
+10264	10407	   		<microhd>NA</microhd>
+...	...	@@ -11231,7 +11374,7 @@
+11231	11374	   		<fanart>https://www.themoviedb.org/t/p/original/8tWEG0VSJQzsdJIgFSWEV9RinX0.jpg</fanart>
+11232	11375	   		<date>2020</date>
+11233	11376	   		<genre>Drama</genre>
+11234		-  		<extra>Estreno</extra>
+11377	+  		<extra>NA</extra>
+11235	11378	   		<info>La historia de Gloria Steinem, quien se convirtió en la principal portavoz del movimiento feminista en los años sesenta y setenta.</info>
+11236	11379	   	</item>
+11237	11380	   	<item>
+...	...	@@ -11777,7 +11920,7 @@
+11777	11920	   		<fanart>https://www.themoviedb.org/t/p/original/ybGEvB6725PkVuUfEo2txLGRwTj.jpg</fanart>
+11778	11921	   		<date>2020</date>
+11779	11922	   		<genre>Infantil</genre>
+11780		-  		<extra>Estreno</extra>
+11923	+  		<extra>NA</extra>
+11781	11924	   		<info>En una aventura que les llevará más allá de todo lo que habían conocido, Poppy y Branch descubren que su tribu de Trolls es solo una de las seis que existen, que el resto están repartidas en seis reinos y consagradas a seis tipos distintos de música: funk, country, tecno, clásica, pop y rock. La reina Bárbara, miembro de la realeza del hard rock, y su padre, el Rey Metal, quieren acabar con el resto de géneros musicales e imponer el reinado del rock. Con el destino del mundo en juego, Poppy y Branch, junto con el resto de la pandilla — Grandullón, Chanelle, Satén, Cooper y Guy Diamante—, visitarán los demás reinos para unir a los Trolls contra los planes de Barb de eclipsarlos a todos.</info>
+11782	11925	   	</item>
+11783	11926	   	<item>
