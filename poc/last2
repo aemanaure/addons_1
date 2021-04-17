@@ -1,6 +1,6 @@
   	<item>
   		<title>ÚLTIMAS AÑADIDAS</title>
-  		<microhd>+1</microhd>
+  		<microhd>+2</microhd>
   		<fullhd>NA</fullhd>
   		<tresd>NA</tresd>
   		<cuatrok>NA</cuatrok>
@@ -50,6 +50,19 @@
 7256	+  		<extra>Mis</extra>
 7257	+  		<info>Un equipo comandado por el teniente Waters (Bruce Willis), un veterano oficial de la unidad especial SEAL, se adentra en el corazón de África con la misión de rescatar a Lena Kendrick (Monica Bellucci), una doctora americana que trabaja en una zona muy conflictiva. Pero, cuando la encuentran, ella se niega a abandonar a los refugiados y exige a Waters que los escolte a todos a través de la peligrosa jungla nigeriana. El oficial tendrá que enfrentarse a un grave dilema: obedecer las órdenes recibidas o, por el contrario, seguir los dictados de su propia conciencia.</info>
 7258	+  	</item>
+        <item>
+		<title>LOS CROODS: UNA NUEVA ERA</title>
+		<microhd>f6ca6238cb2ed793aca71fc2502d95cc4c999969</microhd>
+		<fullhd>a7ba08cc8b3534bb7bc5f5b582300aa6b129b84c</fullhd>
+		<tresd>92b74ee581b3448880166db301da60b07f76f95b</tresd>
+		<cuatrok>d8094b891fb83c94b7a8831699ec30859a75627d</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/5uMWKEmegf5aTJnp1u98JF4QerP.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/rCxdJkk5PMCWIzRWcpqIxUaWnf1.jpg</fanart>
+		<date>2020</date>
+		<genre>Infantil. Saga</genre>
+		<extra>NA</extra>
+		<info>Obligados a partir en busca de un nuevo lugar donde vivir, la primera familia prehistórica se aventura a explorar el mundo con el objetivo de localizar un lugar más seguro al que llamar hogar. Pero cuando encuentran un idílico paraíso amurallado que cumple con todas sus necesidades, se encuentran con que ese lugar esconde una sorpresa: hay otra familia que ya vive allí, los Masmejor. Y es que los Masmejor, con su elaborada casa en un árbol, sus asombrosas invenciones y sus enormes huertos, van un par de pasos por delante de los Croods en la escala evolutiva. Y cuando les reciben como sus primeros invitados, no tardan en surgir tensiones entre nuestros queridos cavernícolas y sus nuevos y modernos semejantes. Cuando todo parece perdido, una nueva amenaza embarca a las dos familias en una aventura épica más allá de la seguridad de la muralla, que les obligará a aparcar sus diferencias, aunar fuerzas y luchar por un futuro juntos.</info>
+	</item>
 	<item>
 		<title>NOMADLAND</title>
 		<microhd>NA</microhd>
