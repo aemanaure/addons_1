@@ -1,16 +1,42 @@
   	<item>
   		<title>ÚLTIMAS AÑADIDAS</title>
-  		<microhd>10</microhd>
+  		<microhd>+3</microhd>
   		<fullhd>NA</fullhd>
   		<tresd>NA</tresd>
   		<cuatrok>NA</cuatrok>
   		<thumbnail>https://github.com/pepemebe/mag/raw/main/img/timg/thumb.jpg</thumbnail>
   		<fanart>https://github.com/pepemebe/mag/raw/main/img/fanart/torrents.jpg</fanart>
-  		<date>24/05/21</date>
+  		<date>231/05/21</date>
   		<genre>NA</genre>
   		<extra>NA</extra>
   		<info>Películas añadidas recientemente.</info>
   	</item>
+	<item>
+		<title>AQUELLOS QUE DESEAN MI MUERTE</title>
+		<microhd>3a8d5ff001d2a05ee867ae846d04babb411ec764</microhd>
+		<fullhd>b2fb013bc18fa019a1b61cdfba2f85c1f9b44122</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>805533f93a367ec1aadf4b08ddd3125af29fe508</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/spiKpaVilWKxLDfjIuBkKhpaRkR.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/ouOojiypBE6CD1aqcHPVq7cJf2R.jpg</fanart>
+		<date>2021</date>
+		<genre>Thriller </genre>
+		<extra>Estreno</extra>
+		<info>Connor (Finn Little), un niño testigo de un asesinato, es perseguido por dos asesinos a través de las tierras salvajes de Montana. Aunque cuenta con Hannah (Angelina Jolie), una bombero y experta en supervivencia, para evitar que los secuaces le den caza, un peligroso incendio cercano amenaza con acabar con la vida de todos los implicados.</info>
+	</item>
+	<item>
+		<title>CRUELLA</title>
+		<microhd>4c893416eee51a60302c5688962c807741873497</microhd>
+		<fullhd>5f1512feb8fba9ea1914c1a1eae1ee2a7e946894</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>599f760ce492a3577a73f3d44ca74f5bb5f67143</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/qRHphMIGRVQmdCVKnEdjwFyuk9V.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg</fanart>
+		<date>2021</date>
+		<genre>Comedia </genre>
+		<extra>Estreno</extra>
+		<info>Explora los rebeldes comienzos de una de las villanas más conocidas del cine y famosa por su elegancia: Cruella de Vil. Ambientada en el Londres de los años 70, en plena revolución del punk rock, la película muestra a una joven estafadora llamada Estella, así como la serie de acontecimientos que la llevan a asumir su lado malvado y a convertirse en la estridente y vengativa Cruella.</info>
+	</item>
 	<item>
 		<title>EJERCITO DE LOS MUERTOS</title>
 		<microhd>0ef45bf9615cec79b80883ceff93eb3498875e98</microhd>
@@ -24,6 +50,19 @@
 		<extra>Estreno</extra>
 		<info>Un grupo de mercenarios decide llevar a cabo el mayor atraco que jamás se haya realizado en la ciudad de Las Vegas justo después de que se produzca una epidemia de muertos vivientes. Para ello tendrán que adentrarse en una zona de cuarentena, con los riesgos que ello conlleva.</info>
 	</item>	
+	<item>
+		<title>LA MALDICION DE LAKE MANOR</title>
+		<microhd>615e8a340489346cb552d40c6dbfed5b68ee9dac</microhd>
+		<fullhd>059e31f4279d65c36906b861abf328f23ff39ac4</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/nwPku1PfyeKonma5lM3kFccs8fN.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/gWE2VGDx5FyVxSMv7tH38P6PFPm.jpg</fanart>
+		<date>2019</date>
+		<genre>Terror</genre>
+		<extra>Estreno</extra>
+		<info>Samuel es un niño parapléjico que vive junto a su madre Elena en Lake Manor (Torino, Italia), dentro de una mansión alejada de la civilización. El chico ha recibido órdenes de no abandonar nunca su casa, por lo que se siente seguro pero algo frustrado y oprimido. Su situación cambia cuando llega Denise, una ayudante adolescente que le ayuda a cambiar su punto de vista sobre la relación que le une con su madre. Sin embargo, Elena hará todo lo posible por impedir que su hijo se vaya de su lado, algo que confunde tanto a Denise como al propio Samuel, que sospecha que su madre oculta algo. </info>
+	</item>
 	<item>
 		<title>SAW</title>
 		<microhd>NA</microhd>
