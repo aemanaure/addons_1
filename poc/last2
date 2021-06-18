@@ -1,52 +1,130 @@
   	<item>
   		<title>ÚLTIMAS AÑADIDAS</title>
-  		<microhd>3</microhd>
+  		<microhd>9</microhd>
   		<fullhd>NA</fullhd>
   		<tresd>NA</tresd>
   		<cuatrok>NA</cuatrok>
   		<thumbnail>https://github.com/pepemebe/mag/raw/main/img/timg/thumb.jpg</thumbnail>
   		<fanart>https://github.com/pepemebe/mag/raw/main/img/fanart/torrents.jpg</fanart>
-  		<date>05/06/21</date>
+  		<date>18/06/21</date>
   		<genre>NA</genre>
   		<extra>NA</extra>
   		<info>Películas añadidas recientemente.</info>
   	</item>
 	<item>
-		<title>MY FAIR LADY</title>
+		<title>CRISIS</title>
+		<microhd>40acabb80fff7c297c68a80b3bec1f3dd54c4fee</microhd>
+		<fullhd>cab16419619236e178abde9de4bb64fdafdba059</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/ao4JajLcPITivfstlzENge3MPkq.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/gFDOQMQwo5UWegXE5kNEchn1eKx.jpg</fanart>
+		<date>2021</date>
+		<genre>Thriller. Drama</genre>
+		<extra>Estreno</extra>
+		<info>Tres historias sobre el mundo de los opiáceos chocan entre sí: un traficante de drogas planea una operación que implica a varios cárteles entre Canadá y los Estados Unidos; una arquitecta que se recupera de una fuerte adicción al OxyContin descubre la verdad que esconde su hijo de su relación con la droga; un profesor de universidad trata de averiguar qué relación une al gobierno con una compañía farmacéutica que está diseñando un nuevo analgésico que aseguran no "provoca ninguna adicción".</info>
+	</item>
+	<item>
+		<title>EL PADRE</title>
+		<microhd>NA</microhd>
+		<fullhd>6d8a0e7192a2bd0feb4e274820608e88c462fe5e</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>2419be6fd35d2c2789a66d680e74726b43b81cb8</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/yjY9ElmM48sZaW1xktVyM2aa5QB.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/xaARARWguVSXtMlr4z6xMiePe2i.jpg</fanart>
+		<date>2020</date>
+		<genre>Estreno</genre>
+		<extra>Drama</extra>
+		<info>Anthony (Anthony Hopkins), un hombre de 80 años mordaz, algo travieso y que tercamente ha decidido vivir solo, rechaza todos y cada uno de las cuidadoras que su hija Anne (Olivia Colman) intenta contratar para que le ayuden en casa. Está desesperada porque ya no puede visitarle a diario y siente que la mente de su padre empieza a fallar y se desconecta cada vez más de la realidad. Anne sufre la paulatina pérdida de su padre a medida que la mente de éste se deteriora, pero también se aferra al derecho a vivir su propia vida.</info>
+	</item>
+	<item>
+		<title>INDIANA JONES EN BUSCA DEL ARCA PERDIDA</title>
 		<microhd>NA</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>cac67286d77ea328485d3ae0146907c69ac77311</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/iA1hDrGBtfJQuMiwJS1m7AA9LhR.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/5HpzmeVrvQKKhzIhMO1IFiB1UsI.jpg</fanart>
-		<date>1964</date>
-		<genre>Musical. Romance. Comedia</genre>
-		<extra>Mis</extra>
-		<info>Versión cinematográfica del mito de Pigmalión, inspirada en la obra teatral homónima del escritor irlandés G.B. Shaw (1856-1950). En una lluviosa noche de 1912, el excéntrico y snob lingüista Henry Higgins conoce a Eliza Doolittle, una harapienta y ordinaria vendedora de violetas. El vulgar lenguaje de la florista despierta tanto su interés que hace una arriesgada apuesta con su amigo el coronel Pickering: se compromete a enseñarle a hablar correctamente el inglés y a hacerla pasar por una dama de la alta sociedad en un plazo de seis meses.</info>
+		<cuatrok>c6699d42f860ccd9d7bad858caf610137a027311</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/9QvmNoet3sZhuR225rDjTh1Hhb4.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/oxK0OlJ5brTZMLQu5AD1oLDgwt3.jpg</fanart>
+		<date>1981</date>
+		<genre>Aventuras. Acción . Saga</genre>
+		<extra>NA</extra>
+		<info>Año 1936. Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde se conservan las Tablas de la Ley que Dios entregó a Moisés. Según la leyenda, quien las posea tendrá un poder absoluto, razón por la cual también la buscan los nazis.</info>
 	</item>
 	<item>
-		<title>NADIE</title>
-		<microhd>94bbc30c4515d5c1e60a249e84dc1b3f367b5a98</microhd>
-		<fullhd>dc0f0c0eb1eec25549d6986595bc394f6f6f86d1</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>10e600c8c12d9dc82a906591d6222ba6bda40f5c</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/ddO5a3tMPpQutSDQO1bESgLWadB.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/6zbKgwgaaCyyBXE4Sun4oWQfQmi.jpg</fanart>
-		<date>2021</date>
-		<genre>Acción. Thriller</genre>
-		<extra>Estreno</extra>
-		<info>Hutch Mansell (Bob Odenkirk) es un hombre de familia corriente. Una noche unos ladrones entran a su casa y él renuncia a defenderse y defender a su familia con el fin de evitar complicaciones. Esto decepciona a su hijo Blake (Gage Munroe) y a su mujer Becca (Connie Nielsen) que empiezan a distanciarse de él. El incidente le reconcome por dentro y hace que salga a la luz su lado más oscuro.</info>
-	</item>
-	<item>
-		<title>UN EFECTO OPTICO</title>
-		<microhd>8037ea37d7ce25f6721c72b96c2b3ef35f599826</microhd>
+		<title>INDIANA JONES Y EL REINO DE LA CALAVERA DE CRISTAL</title>
+		<microhd>NA</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/sRNN7QnHDydxAMwqjJXFetrr0XB.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/bfOZuegasz1MMpWVq1iaKFDcj1O.jpg</fanart>
+		<cuatrok>5aa95f7dd6db3393e7248c043f82ce91f67eaca0</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/eahWIgjttYQu4Ih8HwhF9sdexYk.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/p96949hcwUG2BwE6MgKmw0uYNCx.jpg</fanart>
+		<date>2008</date>
+		<genre>Aventuras. Acción. Ciencia ficción. Saga</genre>
+		<extra>NA</extra>
+		<info>Año 1957, en plena guerra fría. Indiana Jones (Harrison Ford) consigue de milagro salir ileso de una explosiva situación con unos agentes soviéticos en un remoto desierto al que llegó detenido junto a su amigo Mac (Ray Winstone). El decano de la Universidad (Jim Broadbent) le confiesa a su amigo el profesor Jones que las últimas misiones de Indy han fracasado, y que está a punto de ser despedido. Mientras tanto, Indiana conoce a Mutt (Shia LaBeouf), un joven rebelde que le propone un trato: si le ayuda a resolver un problema personal, él, a cambio, le facilitaría uno de los descubrimientos más espectaculares de la historia: la Calavera de Cristal de Akator, que se encuentra en un lugar remoto del Perú. Pero los agentes soviéticos, dirigidos por la fría y bella Irina Spalko (Cate Blanchett), tienen el mismo objetivo.</info>
+	</item>
+	<item>
+		<title>INDIANA JONES Y EL TEMPLO MALDITO</title>
+		<microhd>NA</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>5b3b13c44cf9fd60f0d75b60d8fe67f0e8d38407</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/6UrznkPL4Y2f66zkoFAiSwfAYtE.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/2hMt6zKQsvYvH3ZRe8T6RzAD2XB.jpg</fanart>
+		<date>1984</date>
+		<genre>Aventuras. Acción. Saga</genre>
+		<extra>NA</extra>
+		<info>1935. Shanghai. El intrépido arqueólogo Indiana Jones, tras meterse en jaleos en un local nocturno, consigue escapar junto a una bella cantante y su joven acompañante. Tras un accidentado vuelo, los tres acaban en la India, donde intentarán ayudar a los habitantes de un pequeño poblado, cuyos niños han sido raptados.</info>
+	</item>
+	<item>
+		<title>INDIANA JONES Y LA ULTIMA CRUZADA</title>
+		<microhd>NA</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>9ba556924bd4b17a886345aa8997a2b1a7a934c8</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/osKZUgKRUK1jwYMdsmlevK7zZIY.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/267Mdb5i1AXuVN64DhVEOUPmM25.jpg</fanart>
+		<date>1989</date>
+		<genre>Aventuras. Acción . Saga</genre>
+		<extra>NA</extra>
+		<info>En esta tercera entrega, el padre del protagonista (Harrison Ford), Henry Jones, también arqueólogo (Sean Connery), es secuestrado cuando buscaba el Santo Grial. Indiana tendrá que ir a rescatarlo y, de paso, intentar hacerse con la preciada reliquia, que también ambicionan los nazis.</info>
+	</item>
+	<item>
+		<title>POSSESSOR UNCUT</title>
+		<microhd>d88f29dfbfffa2c532a6334bafca5fa677d888a0</microhd>
+		<fullhd>8f514d3f8aafc5e6a7b349f72269bd63b335909d</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>7473098da19dfcd079256c50071ba529ffb6d505</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/5Xz9A54GMf0AHCmtK19pR2QWsJd.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/yfzmUolgUOfuYP1K7IQQMcf3Yn0.jpg</fanart>
 		<date>2020</date>
-		<genre>Comedia</genre>
+		<genre>Ciencia ficción. Terror. Thriller</genre>
 		<extra>Estreno</extra>
-		<info>Alfredo y Teresa son un matrimonio de Burgos que viaja a Nueva York con la intención de "desconectar" y hacer todos los planes que vienen en la guía. Pero nada más aterrizar empiezan a percibir señales, sutiles y no tanto, de que en realidad no están en la ciudad que les vendieron en la agencia. ¿Dónde están entonces?</info>
+		<info>Tasya Vos (Riseborough) es una agente de una organización secreta que utiliza implantes cerebrales para controlar el movimiento corporal de otras personas, obligándolas a cometer asesinatos que benefician a toda clase de peces gordos del mundo corporativo. Un día, durante una misión rutinaria, algo sale mal. La agente Vos se ve atrapada dentro de la mente de uno de los sujetos que trataba de controlar (Abbot), cuyo apetito por la violencia se acaba convirtiendo en su peor aliado, superando incluso el suyo propio.</info>
+	</item>
+	<item>
+		<title>RUEGA POR NOSOTROS</title>
+		<microhd>85a3d4ced25377749d83b6bc52403b56654c282a</microhd>
+		<fullhd>659ac55a9bd3aa198dc4116293920f6ca4cad4de</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>e0b7208038326696a8f12b5b79204adfee8bfc83</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/llHklmHQEDwTgbwGrPvQ5ouSy2k.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/jw6ASGRT2gi8EjCImpGtbiJ9NQ9.jpg</fanart>
+		<date>2021</date>
+		<genre>Terror</genre>
+		<extra>Estreno</extra>
+		<info>Un periodista en horas bajas descubre una serie de aparentes milagros de una joven que dice haber sido visitada por la Virgen María, milagros acaecidos en un pequeño pueblo de Nueva Inglaterra. El periodista intentará tener la exclusiva de la historia para devolver su carrera al estrellato. Lo que desconoce es que estos milagros esconden una cara mucho más oscura de lo que él cree</info>
+	</item>
+	<item>
+		<title>UNA NOCHE DE VENGANZA (VANQUISH)</title>
+		<microhd>a4eec660dc8a3295cdceff32605de3e75c805890</microhd>
+		<fullhd>a979897f29b5cd09c7f1f57569d421b316cf6799</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/wigMEbIKapuULU40ttlPBwJUJet.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/mYM8x2Atv4MaLulaV0KVJWI1Djv.jpg</fanart>
+		<date>2021</date>
+		<genre>Acción. Thriller </genre>
+		<extra>Estreno</extra>
+		<info>Un comisionado de policía retirado chantajea a su cuidador secuestrando a su hija para que lo ayude a traicionar a sus sucios socios en un intento por limpiar la ciudad antes de que sea demasiado tarde.</info>
 	</item>
