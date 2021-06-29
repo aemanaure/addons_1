@@ -1,42 +1,16 @@
   	<item>
   		<title>ÚLTIMAS AÑADIDAS</title>
-  		<microhd>+1</microhd>
+  		<microhd>+4</microhd>
   		<fullhd>NA</fullhd>
   		<tresd>NA</tresd>
   		<cuatrok>NA</cuatrok>
   		<thumbnail>https://github.com/pepemebe/mag/raw/main/img/timg/thumb.jpg</thumbnail>
   		<fanart>https://github.com/pepemebe/mag/raw/main/img/fanart/torrents.jpg</fanart>
-  		<date>28/06/21</date>
+  		<date>29/06/21</date>
   		<genre>NA</genre>
   		<extra>NA</extra>
   		<info>Películas añadidas recientemente.</info>
   	</item>
-	<item>
-		<title>CRISIS</title>
-		<microhd>40acabb80fff7c297c68a80b3bec1f3dd54c4fee</microhd>
-		<fullhd>cab16419619236e178abde9de4bb64fdafdba059</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/ao4JajLcPITivfstlzENge3MPkq.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/gFDOQMQwo5UWegXE5kNEchn1eKx.jpg</fanart>
-		<date>2021</date>
-		<genre>Thriller. Drama</genre>
-		<extra>Estreno</extra>
-		<info>Tres historias sobre el mundo de los opiáceos chocan entre sí: un traficante de drogas planea una operación que implica a varios cárteles entre Canadá y los Estados Unidos; una arquitecta que se recupera de una fuerte adicción al OxyContin descubre la verdad que esconde su hijo de su relación con la droga; un profesor de universidad trata de averiguar qué relación une al gobierno con una compañía farmacéutica que está diseñando un nuevo analgésico que aseguran no "provoca ninguna adicción".</info>
-	</item>
-	<item>
-		<title>EL PADRE (THE FATHER)</title>
-		<microhd>NA</microhd>
-		<fullhd>6d8a0e7192a2bd0feb4e274820608e88c462fe5e</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>2419be6fd35d2c2789a66d680e74726b43b81cb8</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/yjY9ElmM48sZaW1xktVyM2aa5QB.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/xaARARWguVSXtMlr4z6xMiePe2i.jpg</fanart>
-		<date>2020</date>
-		<genre>Estreno</genre>
-		<extra>Drama</extra>
-		<info>Anthony (Anthony Hopkins), un hombre de 80 años mordaz, algo travieso y que tercamente ha decidido vivir solo, rechaza todos y cada uno de las cuidadoras que su hija Anne (Olivia Colman) intenta contratar para que le ayuden en casa. Está desesperada porque ya no puede visitarle a diario y siente que la mente de su padre empieza a fallar y se desconecta cada vez más de la realidad. Anne sufre la paulatina pérdida de su padre a medida que la mente de éste se deteriora, pero también se aferra al derecho a vivir su propia vida.</info>
-	</item>
 	<item>
 		<title>EXPEDIENTE WARREN: OBLIGADO POR EL DEMONIO</title>
 		<microhd>d5e8c31a58b53d3d3f626d7d30b6d74d2fc831a8</microhd>
@@ -49,58 +23,6 @@
 		<genre>Terror. Thriller. Intriga. Saga</genre>
 		<extra>Estreno</extra>
 		<info>Ambientada en los años 80. Ed y Lorraine Warren deberán afrontar un nuevo caso que se presenta con un hombre, Arne Cheyne Johnson, que es acusado de asesinato tras haber sido poseído por un demonio.</info>
-	</item>
-	<item>
-		<title>INDIANA JONES EN BUSCA DEL ARCA PERDIDA</title>
-		<microhd>NA</microhd>
-		<fullhd>NA</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>c6699d42f860ccd9d7bad858caf610137a027311</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/9QvmNoet3sZhuR225rDjTh1Hhb4.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/oxK0OlJ5brTZMLQu5AD1oLDgwt3.jpg</fanart>
-		<date>1981</date>
-		<genre>Aventuras. Acción . Saga</genre>
-		<extra>NA</extra>
-		<info>Año 1936. Indiana Jones es un profesor de arqueología, dispuesto a correr peligrosas aventuras con tal de conseguir valiosas reliquias históricas. Después de una infructuosa misión en Sudamérica, el gobierno estadounidense le encarga la búsqueda del Arca de la Alianza, donde se conservan las Tablas de la Ley que Dios entregó a Moisés. Según la leyenda, quien las posea tendrá un poder absoluto, razón por la cual también la buscan los nazis.</info>
-	</item>
-	<item>
-		<title>INDIANA JONES Y EL REINO DE LA CALAVERA DE CRISTAL</title>
-		<microhd>NA</microhd>
-		<fullhd>NA</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>5aa95f7dd6db3393e7248c043f82ce91f67eaca0</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/eahWIgjttYQu4Ih8HwhF9sdexYk.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/p96949hcwUG2BwE6MgKmw0uYNCx.jpg</fanart>
-		<date>2008</date>
-		<genre>Aventuras. Acción. Ciencia ficción. Saga</genre>
-		<extra>NA</extra>
-		<info>Año 1957, en plena guerra fría. Indiana Jones (Harrison Ford) consigue de milagro salir ileso de una explosiva situación con unos agentes soviéticos en un remoto desierto al que llegó detenido junto a su amigo Mac (Ray Winstone). El decano de la Universidad (Jim Broadbent) le confiesa a su amigo el profesor Jones que las últimas misiones de Indy han fracasado, y que está a punto de ser despedido. Mientras tanto, Indiana conoce a Mutt (Shia LaBeouf), un joven rebelde que le propone un trato: si le ayuda a resolver un problema personal, él, a cambio, le facilitaría uno de los descubrimientos más espectaculares de la historia: la Calavera de Cristal de Akator, que se encuentra en un lugar remoto del Perú. Pero los agentes soviéticos, dirigidos por la fría y bella Irina Spalko (Cate Blanchett), tienen el mismo objetivo.</info>
-	</item>
-	<item>
-		<title>INDIANA JONES Y EL TEMPLO MALDITO</title>
-		<microhd>NA</microhd>
-		<fullhd>NA</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>5b3b13c44cf9fd60f0d75b60d8fe67f0e8d38407</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/6UrznkPL4Y2f66zkoFAiSwfAYtE.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/2hMt6zKQsvYvH3ZRe8T6RzAD2XB.jpg</fanart>
-		<date>1984</date>
-		<genre>Aventuras. Acción. Saga</genre>
-		<extra>NA</extra>
-		<info>1935. Shanghai. El intrépido arqueólogo Indiana Jones, tras meterse en jaleos en un local nocturno, consigue escapar junto a una bella cantante y su joven acompañante. Tras un accidentado vuelo, los tres acaban en la India, donde intentarán ayudar a los habitantes de un pequeño poblado, cuyos niños han sido raptados.</info>
-	</item>
-	<item>
-		<title>INDIANA JONES Y LA ULTIMA CRUZADA</title>
-		<microhd>NA</microhd>
-		<fullhd>NA</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>9ba556924bd4b17a886345aa8997a2b1a7a934c8</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/osKZUgKRUK1jwYMdsmlevK7zZIY.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/267Mdb5i1AXuVN64DhVEOUPmM25.jpg</fanart>
-		<date>1989</date>
-		<genre>Aventuras. Acción . Saga</genre>
-		<extra>NA</extra>
-		<info>En esta tercera entrega, el padre del protagonista (Harrison Ford), Henry Jones, también arqueólogo (Sean Connery), es secuestrado cuando buscaba el Santo Grial. Indiana tendrá que ir a rescatarlo y, de paso, intentar hacerse con la preciada reliquia, que también ambicionan los nazis.</info>
 	</item>
 	<item>
 		<title>LUCA</title>
@@ -116,41 +38,54 @@
 		<info>La historia se desarrolla en un hermoso pueblo al lado del mar en la Riviera Italiana. Es la del crecimiento de un niño que experimenta un verano inolvidable con helado, pasta e interminables viajes en scooter. Luca comparte estas aventuras con su nuevo mejor amigo, pero toda la diversión se ve amenazada por un gran secreto: es un monstruo marino de otro mundo ubicado justo debajo de la superficie del agua.</info>
 	</item>
 	<item>
-		<title>POSSESSOR UNCUT</title>
-		<microhd>d88f29dfbfffa2c532a6334bafca5fa677d888a0</microhd>
-		<fullhd>8f514d3f8aafc5e6a7b349f72269bd63b335909d</fullhd>
+		<title>OTRA VUELTA DE TUERCA</title>
+		<microhd>NA</microhd>
+		<fullhd>0494e4abe73f6b1e3ff6790b055061c9ff433233</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>7473098da19dfcd079256c50071ba529ffb6d505</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/5Xz9A54GMf0AHCmtK19pR2QWsJd.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/yfzmUolgUOfuYP1K7IQQMcf3Yn0.jpg</fanart>
+		<cuatrok>e1309e5deb3bae57c2fffdf1c1c9d891e265d1a0</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/fy588otBtZqI6UBsIrZmXS0nKCH.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/tYm0Yk9k9W0hb9Xy4coOXqoGfNT.jpg</fanart>
 		<date>2020</date>
-		<genre>Ciencia ficción. Terror. Thriller</genre>
+		<genre>Terror. Thriller</genre>
 		<extra>Estreno</extra>
-		<info>Tasya Vos (Riseborough) es una agente de una organización secreta que utiliza implantes cerebrales para controlar el movimiento corporal de otras personas, obligándolas a cometer asesinatos que benefician a toda clase de peces gordos del mundo corporativo. Un día, durante una misión rutinaria, algo sale mal. La agente Vos se ve atrapada dentro de la mente de uno de los sujetos que trataba de controlar (Abbot), cuyo apetito por la violencia se acaba convirtiendo en su peor aliado, superando incluso el suyo propio.</info>
+		<info>Una joven institutriz es contratada por un hombre que se ha convertido en el tutor de sus sobrinos tras las muerte de sus padres. Pronto descubrirá que tanto los niños como la casa esconden oscuros secretos y las cosas no son lo que aparentan. Adaptación moderna de la obra de Henry James, "The Turn of the Screw".</info>
 	</item>
 	<item>
-		<title>RUEGA POR NOSOTROS</title>
-		<microhd>85a3d4ced25377749d83b6bc52403b56654c282a</microhd>
-		<fullhd>659ac55a9bd3aa198dc4116293920f6ca4cad4de</fullhd>
+		<title>RELIC</title>
+		<microhd>c32ac217ad6368054a79df4c0cb9b637585227f9</microhd>
+		<fullhd>44d19686ee2d68d532d2d35ab28b3de6a512e6e9</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>e0b7208038326696a8f12b5b79204adfee8bfc83</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/llHklmHQEDwTgbwGrPvQ5ouSy2k.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/jw6ASGRT2gi8EjCImpGtbiJ9NQ9.jpg</fanart>
-		<date>2021</date>
-		<genre>Terror</genre>
+		<cuatrok>a246e3e539445ed1c9cdee0bd4c2e9437d631cf9</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/4TinKYaZtNThqo2sac1dHYv0yic.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/vpUUznNzW85xo02H16RaSxRNS1.jpg</fanart>
+		<date>2020</date>
+		<genre>Thriller. Terror. Intriga </genre>
 		<extra>Estreno</extra>
-		<info>Un periodista en horas bajas descubre una serie de aparentes milagros de una joven que dice haber sido visitada por la Virgen María, milagros acaecidos en un pequeño pueblo de Nueva Inglaterra. El periodista intentará tener la exclusiva de la historia para devolver su carrera al estrellato. Lo que desconoce es que estos milagros esconden una cara mucho más oscura de lo que él cree</info>
+		<info>Una hija, una madre y una abuela son acosadas por un tipo de demencia que está consumiendo a la familia.</info>
 	</item>
 	<item>
-		<title>UNA NOCHE DE VENGANZA (VANQUISH)</title>
-		<microhd>a4eec660dc8a3295cdceff32605de3e75c805890</microhd>
-		<fullhd>a979897f29b5cd09c7f1f57569d421b316cf6799</fullhd>
+		<title>ROMPENIEVES (SNOWPIERCER)</title>
+		<microhd>2e40d9c733f003bc2c184a799ca183ea62e2a07e</microhd>
+		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>NA</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/wigMEbIKapuULU40ttlPBwJUJet.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/mYM8x2Atv4MaLulaV0KVJWI1Djv.jpg</fanart>
+		<thumbnail>https://www.themoviedb.org/t/p/original/eaYBtWRXjnJNlP9sKmQUWcgvBFX.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/j5STRYdaQXGfkkwFKBHBEfnoEeu.jpg</fanart>
+		<date>2013</date>
+		<genre>Ciencia ficción. Thriller. Acción</genre>
+		<extra>NA</extra>
+		<info>Un fallido experimento para solucionar el problema del calentamiento global casi acabó destruyendo la vida sobre la Tierra. Los únicos supervivientes fueron los pasajeros del Snowpiercer, un tren que recorre el mundo impulsado por un motor de movimiento eterno. Adaptación de la novela gráfica "Le Trasperceneige", escrita por Jean-Marc Rochette y Jacques Loeb.</info>
+	</item>
+	<item>
+		<title>UN LUGAR TRANQUILO 2</title>
+		<microhd>bfc5e0dbf4c74ea9e80fb0a07b2963c986839040</microhd>
+		<fullhd>1e23199ce47b6062ca87ee1a5b6dcb007b263604</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>1ce6e20fa6af2b3a616868e883fa3cde5db54c66</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/iNOCVFyrsykGqT48JNotgFF9XCf.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/z2UtGA1WggESspi6KOXeo66lvLx.jpg</fanart>
 		<date>2021</date>
-		<genre>Acción. Thriller </genre>
+		<genre>Terror. Ciencia ficción. Thriller. Saga</genre>
 		<extra>Estreno</extra>
-		<info>Un comisionado de policía retirado chantajea a su cuidador secuestrando a su hija para que lo ayude a traicionar a sus sucios socios en un intento por limpiar la ciudad antes de que sea demasiado tarde.</info>
+		<info>Tras los fatales acontecimientos sucedidos en la primera parte, la familia Abbot (Emily Blunt, Millicent Simmonds y Noah Jupe) debe enfrentarse a los peligros del mundo exterior mientras luchan en silencio por sobrevivir. Forzados a aventurarse en lo desconocido, pronto se dan cuenta de que las criaturas que cazan orientadas por el sonido no son la única amenaza que acecha más allá del camino de arena. Secuela de la exitosa producción "Un lugar tranquilo" (A Quiet Place, 2018)</info>
 	</item>
