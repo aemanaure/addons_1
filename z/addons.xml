@@ -62,7 +62,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.balandro" name="Balandro" version="2.0.1.01" provider-name="Balandro Team">
+<addon id="plugin.video.balandro" name="Balandro" version="2.0.1.02" provider-name="Balandro Team">
   <requires>
   </requires>
 
@@ -76,7 +76,7 @@
       <icon>icon.png</icon>
     </assets>
     <news>
-    2.0.1.01:
+    2.0.1.02:
       Incorporada opcion Premios Oscars
       Correcciones bugs de la version anterior
       Configuracion Visual Habilitar colores personalizados notificaciones
