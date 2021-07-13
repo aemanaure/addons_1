@@ -51,19 +51,6 @@
 		<info>La historia se desarrolla en un hermoso pueblo al lado del mar en la Riviera Italiana. Es la del crecimiento de un niño que experimenta un verano inolvidable con helado, pasta e interminables viajes en scooter. Luca comparte estas aventuras con su nuevo mejor amigo, pero toda la diversión se ve amenazada por un gran secreto: es un monstruo marino de otro mundo ubicado justo debajo de la superficie del agua.</info>
 	</item>
 	<item>
-		<title>VIUDA NEGRA (BLACK WIDOW)</title>
-		<microhd>883592ad9d28e1f493aa0d20e53202d3a7ba609a</microhd>
-		<fullhd>47c059419b48adc38f3cdb1e994c1bf71104f0e2</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>f67abe7d968147a0975be01c1647e4682358e5da</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/oggEsESyLjVGD7jbIdBfa2hFUrx.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg</fanart>
-		<date>2021</date>
-		<genre>Acción. Aventuras. Saga</genre>
-		<extra>Estreno</extra>
-		<info>Natasha Romanoff, alias Viuda Negra, se enfrenta a los capítulos más oscuros de su historia cuando surge una peligrosa conspiración relacionada con su pasado. Perseguida por una fuerza que no se detendrá ante nada para acabar con ella, Natasha debe lidiar con su historia como espía y con la estela de relaciones destruidas que dejó atrás mucho antes de convertirse en Vengadora.</info>
-	</item>
-	<item>
 		<title>OTRA VUELTA DE TUERCA</title>
 		<microhd>NA</microhd>
 		<fullhd>0494e4abe73f6b1e3ff6790b055061c9ff433233</fullhd>
@@ -114,6 +101,19 @@
 		<genre>Terror. Ciencia ficción. Thriller. Saga</genre>
 		<extra>Estreno</extra>
 		<info>Tras los fatales acontecimientos sucedidos en la primera parte, la familia Abbot (Emily Blunt, Millicent Simmonds y Noah Jupe) debe enfrentarse a los peligros del mundo exterior mientras luchan en silencio por sobrevivir. Forzados a aventurarse en lo desconocido, pronto se dan cuenta de que las criaturas que cazan orientadas por el sonido no son la única amenaza que acecha más allá del camino de arena. Secuela de la exitosa producción "Un lugar tranquilo" (A Quiet Place, 2018)</info>
+	</item>
+	<item>
+		<title>VIUDA NEGRA</title>
+		<microhd>883592ad9d28e1f493aa0d20e53202d3a7ba609a</microhd>
+		<fullhd>47c059419b48adc38f3cdb1e994c1bf71104f0e2</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>f67abe7d968147a0975be01c1647e4682358e5da</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/oggEsESyLjVGD7jbIdBfa2hFUrx.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg</fanart>
+		<date>2021</date>
+		<genre>Acción. Aventuras. Saga</genre>
+		<extra>Estreno</extra>
+		<info>Natasha Romanoff, alias Viuda Negra, se enfrenta a los capítulos más oscuros de su historia cuando surge una peligrosa conspiración relacionada con su pasado. Perseguida por una fuerza que no se detendrá ante nada para acabar con ella, Natasha debe lidiar con su historia como espía y con la estela de relaciones destruidas que dejó atrás mucho antes de convertirse en Vengadora.</info>
 	</item>
 	<item>
 		<title>WILLYS WONDERLAND</title>
