@@ -1,12 +1,12 @@
   	<item>
   		<title>ÚLTIMAS AÑADIDAS</title>
-  		<microhd>+3</microhd>
+  		<microhd>+1</microhd>
   		<fullhd>NA</fullhd>
   		<tresd>NA</tresd>
   		<cuatrok>NA</cuatrok>
   		<thumbnail>https://github.com/pepemebe/mag/raw/main/img/timg/thumb.jpg</thumbnail>
   		<fanart>https://github.com/pepemebe/mag/raw/main/img/fanart/torrents.jpg</fanart>
-  		<date>07/07/21</date>
+  		<date>13/07/21</date>
   		<genre>NA</genre>
   		<extra>NA</extra>
   		<info>Películas añadidas recientemente.</info>
@@ -62,6 +62,19 @@
 		<genre>Infantil</genre>
 		<extra>Estreno</extra>
 		<info>La historia se desarrolla en un hermoso pueblo al lado del mar en la Riviera Italiana. Es la del crecimiento de un niño que experimenta un verano inolvidable con helado, pasta e interminables viajes en scooter. Luca comparte estas aventuras con su nuevo mejor amigo, pero toda la diversión se ve amenazada por un gran secreto: es un monstruo marino de otro mundo ubicado justo debajo de la superficie del agua.</info>
+	</item>
+	<item>
+		<title>VIUDA NEGRA (BLACK WIDOW)</title>
+		<microhd>883592ad9d28e1f493aa0d20e53202d3a7ba609a</microhd>
+		<fullhd>47c059419b48adc38f3cdb1e994c1bf71104f0e2</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>f67abe7d968147a0975be01c1647e4682358e5da</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/oggEsESyLjVGD7jbIdBfa2hFUrx.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg</fanart>
+		<date>2021</date>
+		<genre>Acción. Aventuras. Saga</genre>
+		<extra>Estreno</extra>
+		<info>Natasha Romanoff, alias Viuda Negra, se enfrenta a los capítulos más oscuros de su historia cuando surge una peligrosa conspiración relacionada con su pasado. Perseguida por una fuerza que no se detendrá ante nada para acabar con ella, Natasha debe lidiar con su historia como espía y con la estela de relaciones destruidas que dejó atrás mucho antes de convertirse en Vengadora.</info>
 	</item>
 	<item>
 		<title>OTRA VUELTA DE TUERCA</title>
