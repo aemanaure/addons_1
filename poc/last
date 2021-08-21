@@ -12,19 +12,6 @@
 		<info>Siglo XIV. Fray Guillermo de Baskerville (Sean Connery), monje franciscano y antiguo inquisidor, y su inseparable discípulo, el novicio Adso de Melk (Christian Slater), visitan una abadía benedictina, situada en el norte de Italia, para esclarecer la muerte del joven miniaturista Adelmo de Otranto. Durante su estancia, desaparecen misteriosamente otros monjes que después aparecen muertos.</info>
 	</item>
 	<item>
-		<title>PINK FLOYD: THE WALL</title>
-		<microhd>NA</microhd>
-		<fullhd>b578c0f6e6bc4915fb9e56a7e96076bcf22b1715</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/pURfeC5fZGe9r9jgsozhPBTh8eg.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/tA8Kl83oyv19pQAjpj4JhVt6yEk.jpg</fanart>
-		<date>1982</date>
-		<genre>Musical. Drama. Fantástico</genre>
-		<extra>Culto</extra>
-		<info>Pink, el cantante de un grupo musical, arrastra desde su infancia una serie de traumas debido a la dura educación que recibió. Cansado de todo lo que rodea su profesión, se acaba refugiando en las drogas como única opción para romper con el muro que él mismo ha creado a su alrededor.</info>
-	</item>
-	<item>
 		<title>LA SIRENITA ( TRILOGIA )</title>
 		<microhd>f143220f191d74c68ec28cca55894162e90ab987</microhd>
 		<fullhd>NA</fullhd>
@@ -36,6 +23,19 @@
 		<genre>Infantil</genre>
 		<extra>NA</extra>
 		<info>Ariel, hija del rey Tritón, es la princesa de las sirenas. Está a punto de celebrarse su fiesta de cumpleaños y su mayor ilusión es poder conocer a los seres humanos. Con la ayuda de la bruja Úrsula, Ariel consigue subir a la superficie, donde salva de morir ahogado a un hermoso príncipe, cuyo barco acaba de naufragar, del que se enamora perdidamente.</info>
+	</item>
+	<item>
+		<title>PINK FLOYD: THE WALL</title>
+		<microhd>NA</microhd>
+		<fullhd>b578c0f6e6bc4915fb9e56a7e96076bcf22b1715</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/pURfeC5fZGe9r9jgsozhPBTh8eg.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/tA8Kl83oyv19pQAjpj4JhVt6yEk.jpg</fanart>
+		<date>1982</date>
+		<genre>Musical. Drama. Fantástico</genre>
+		<extra>Culto</extra>
+		<info>Pink, el cantante de un grupo musical, arrastra desde su infancia una serie de traumas debido a la dura educación que recibió. Cansado de todo lo que rodea su profesión, se acaba refugiando en las drogas como única opción para romper con el muro que él mismo ha creado a su alrededor.</info>
 	</item>
 	<item>
 		<title>SPACE JAM</title>
