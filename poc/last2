@@ -1,6 +1,6 @@
   	<item>
   		<title>ÚLTIMAS AÑADIDAS</title>
-  		<microhd>5</microhd>
+  		<microhd>4</microhd>
   		<fullhd>NA</fullhd>
   		<tresd>NA</tresd>
   		<cuatrok>NA</cuatrok>
@@ -12,67 +12,54 @@
   		<info>Películas añadidas recientemente.</info>
   	</item>
 	<item>
-		<title>EL ULTIMO MERCENARIO</title>
-		<microhd>e8e48922d55331f69c9c1b5cb586b5f47574e5ab</microhd>
+		<title>EL NOMBRE DE LA ROSA</title>
+		<microhd>NA</microhd>
+		<fullhd>4226708bdf0709542d3c21eb8af0f78d56c82d0d</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/f8vGTeZnZEV1Y5NEp1bjTkq5NzU.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/2JB2nJQOBZ7Q9vAtzbha2YsqJbH.jpg</fanart>
+		<date>1986</date>
+		<genre>Intriga. Drama</genre>
+		<extra>Mis</extra>
+		<info>Siglo XIV. Fray Guillermo de Baskerville (Sean Connery), monje franciscano y antiguo inquisidor, y su inseparable discípulo, el novicio Adso de Melk (Christian Slater), visitan una abadía benedictina, situada en el norte de Italia, para esclarecer la muerte del joven miniaturista Adelmo de Otranto. Durante su estancia, desaparecen misteriosamente otros monjes que después aparecen muertos.</info>
+	</item>
+	<item>
+		<title>PINK FLOYD: THE WALL</title>
+		<microhd>NA</microhd>
+		<fullhd>b578c0f6e6bc4915fb9e56a7e96076bcf22b1715</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/pURfeC5fZGe9r9jgsozhPBTh8eg.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/tA8Kl83oyv19pQAjpj4JhVt6yEk.jpg</fanart>
+		<date>1982</date>
+		<genre>Musical. Drama. Fantástico</genre>
+		<extra>Culto</extra>
+		<info>Pink, el cantante de un grupo musical, arrastra desde su infancia una serie de traumas debido a la dura educación que recibió. Cansado de todo lo que rodea su profesión, se acaba refugiando en las drogas como única opción para romper con el muro que él mismo ha creado a su alrededor.</info>
+	</item>
+	<item>
+		<title>SPACE JAM</title>
+		<microhd>811bd39aced1042783c4fb73da053fda84f8fd49</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/ttpKJ7XQxDZV252KNEHXtykYT41.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/tXcJZtsEIYkZpjonbym3GKs7pJN.jpg</fanart>
-		<date>2021</date>
-		<genre>Acción. Comedia</genre>
-		<extra>Estreno</extra>
-		<info>Cuando descubre que su hijo ha sido falsamente acusado de tráfico de drogas y armas, un misterioso ex-agente secreto (Van Damme) decide regresar a casa para ayudarle, enfrentándose a un burócrata (Alban Ivanov) y desmantelando una operación de la mafia.</info>
+		<cuatrok>2325d33337b837357bac65d8392c08e424a9b99c</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/kytBymjFdiegsSzYTWWv8DqVxsI.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/xIoWDHSA2ymOewcCpoUID4PpDb3.jpg</fanart>
+		<date>1996</date>
+		<genre>Comedia. Ciencia ficción. Fantástico. Infantil. Saga</genre>
+		<extra>NA</extra>
+		<info>Bugs Bunny y su equipo desafían a los Nerdlucks (un grupo de pequeños extraterrestres) a un partido de baloncesto para decidir si los Looney Tunes permanecen en la Tierra o se trasladan a una lejana galaxia para trabajar en un parque de atracciones de Montaña Tontolandia. Los Nerdlucks cuentan con una poderosa arma secreta que los hace superiores: se han apoderado de las mejores cualidades de las estrellas de la NBA (Charles Barkley y Patrick Ewing). Pero también los Looney poseen un arma secreta: ¡Michael Jordan! </info>
 	</item>
 	<item>
-		<title>HASTA EL HORIZONTE</title>
-		<microhd>ff4706012fe2b148fde8868f79c27448bb731d47</microhd>
-		<fullhd>4fec1167a1aa75a5f8d5771474fb3e81d1c4d505</fullhd>
+		<title>SPACE JAM: NUEVAS LEYENDAS</title>
+		<microhd>a98b422b8ad62111f1a89c982be284e4fd71f82f</microhd>
+		<fullhd>1a6bdfc3bc9e477917ca182f27c0f4ed0a7a3180</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>b8228edf203785436a8ad8864a02506975b0086c</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/vWGkIHeCLw9wWvPXnPTOM9d5GiK.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/2KX79ljurDq6bBXcyoQLROVxkU8.jpg</fanart>
-		<date>2020</date>
-		<genre>Thriller</genre>
-		<extra>Estreno</extra>
-		<info>Tiempo después de su ruptura, Sara y Jackson se reencuentran unos días antes de la boda de un amigo en común que se casa en una isla remota. Juntos atraviesan el océano camino a la boda, pero cuando el piloto de la avioneta sufre un ataque al corazón, ellos deberán hacer lo imposible para mantener la avioneta en el aire.</info>
-	</item>
-	<item>
-		<title>JUNGLE CRUISE</title>
-		<microhd>22d5c52dc892952c837397d036deade8c4073b51</microhd>
-		<fullhd>a8b17cc8eedb3f4ebbbce8dcbc209ea769601e84</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>009eba1c66e193384b5976432f62d8ddde8618a3</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/dtD417HuGTwjYtBILXZqObweL51.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/7WJjFviFBffEJvkAms4uWwbcVUk.jpg</fanart>
+		<cuatrok>f2b921b8684622cc220f534f3b715252878c6444</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/kv6NVZZSCM0VOjp02FEs928tVjS.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/rJ4dYvr703c0RnJXAgges39kbfH.jpg</fanart>
 		<date>2021</date>
-		<genre>Aventuras. Fantástico. Comedia</genre>
+		<genre> Fantástico. Comedia. Infantil. Saga</genre>
 		<extra>Estreno</extra>
-		<info>Principios del siglo XX. Frank (Dwayne Johnson) es el carismático capitán de una peculiar embarcación que recorre la selva amazónica. Allí, a pesar de los peligros que el río Amazonas les tiene preparados, Frank llevará en su barco a la científica Lily Houghton (Emily Blunt) y a su hermano McGregor Houghton (Jack Whitehall). Su misión será encontrar un árbol místico que podría tener poderes curativos. Claro que su objetivo no será fácil, y en su aventura se encontrarán con toda clase de dificultades, además de una expedición alemana que busca también este árbol con propiedades curativas. Película basada en una atracción de Disneylandia.</info>
-	</item>
-	<item>
-		<title>MUERE OTRA VEZ</title>
-		<microhd>9461b3748d7de2d0313a7df6fc66d18071bc2068</microhd>
-		<fullhd>c4deaf3a29f48cc8e04ab909509e08e06d11b34d</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/hlHAeVkX5xdfSw17j9sR2vChULc.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/1Yc5hIRh3skhsEKLbCHE7v1FBOa.jpg</fanart>
-		<date>2021</date>
-		<genre>Ciencia ficción. Acción. Thriller. Comedia</genre>
-		<extra>Estreno</extra>
-		<info>Un oficial de las fuerzas especiales, ya retirado, se ve obligado a vivir una y otra vez en bucle el día de su muerte.</info>
-	</item>
-	<item>
-		<title>PETER RABBIT 2: A LA FUGA</title>
-		<microhd>238b14d97dd6a627198d0aa923d6d867c763f5aa</microhd>
-		<fullhd>be2c06bb95eae6bd3f6df7a7e2681ea5a1e4bef7</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>bd8074913dc2d3be5a9ff9ef5ba2120cf7aad9a6</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/gj4Lwldois15IaNnl4tadesHGC4.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/5HjzYTihkH7EvOWSE7KcsF6pBMM.jpg</fanart>
-		<date>2021</date>
-		<genre> Infantil</genre>
-		<extra>Estreno</extra>
-		<info>¡El jardín fue solo el principio! Peter y sus adorables amigos vuelven con más aventuras en “Peter Rabbit 2 A La Fuga”. Bea, Thomas, y los conejos han hecho las paces como una familia, pero a pesar de sus mejores esfuerzos, Peter no parece sacudirse su traviesa reputación. Aventurándose más allá del jardín, Peter se adentra en las calles menos recomendables de la ciudad donde sus trastadas son mejor apreciadas, pero cuando su peluda familia se encuentra en peligro, Peter deberá decidir qué tipo de conejo quiere ser.</info>
+		<info>La superestrella de la NBA, LeBron James, se une a Bugs Bunny y al resto de los Looney Tunes en esta esperada secuela.</info>
 	</item>
