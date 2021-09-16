@@ -1,12 +1,12 @@
   	<item>
   		<title>ÚLTIMAS AÑADIDAS</title>
-  		<microhd>+3</microhd>
+  		<microhd>+2</microhd>
   		<fullhd>NA</fullhd>
   		<tresd>NA</tresd>
   		<cuatrok>NA</cuatrok>
   		<thumbnail>https://github.com/pepemebe/mag/raw/main/img/timg/thumb.jpg</thumbnail>
   		<fanart>https://github.com/pepemebe/mag/raw/main/img/fanart/torrents.jpg</fanart>
-  		<date>03/09/21</date>
+  		<date>16/09/21</date>
   		<genre>NA</genre>
   		<extra>NA</extra>
   		<info>Películas añadidas recientemente.</info>
@@ -64,6 +64,19 @@
 		<info>Año 2267. En un planeta lejano, en la pequeña población de Prentisstown, el joven colono Todd ha crecido creyendo que una raza alienígena asesinó a todas las mujeres y contagió con el "ruido" al resto de los hombres. El ruido permite que entre ellos todos puedan escuchar lo que están pensando. Pero todo cambia cuando un día Todd se encuentra con Viola, la superviviente de una nave espacial que se ha estrellado contra el planeta. Todd se queda perplejo y confuso, pues nunca ha visto a una mujer... y ella no tiene "ruido".</info>
 	</item>
 	<item>
+		<title>CUENTOS AL CAER LA NOCHE</title>
+		<microhd>7c3a09c616cc55bd8510f1bcf5ff8e637917a69a</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/2R9nfnwJ0N4wLCoLznI2nNUidZI.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/piz0BFUJ4Bro4BFzxxkNpsGCmOd.jpg</fanart>
+		<date>2021</date>
+		<genre>Terror. Comedia. Fantástico</genre>
+		<extra>Estreno</extra>
+		<info>Cuando Alex (Winslow Fegley), un chico obsesionado con las historias de miedo, es encerrado por una joven bruja malvada (Krysten Ritter) en su moderno apartamento de Nueva York, conoce a Yasmin (Lydia Jewett), que también está atrapada y se da cuenta de que debe contar una historia de miedo nueva cada noche para sobrevivir.</info>
+	</item>
+	<item>
 		<title>DUNE</title>
 		<microhd>NA</microhd>
 		<fullhd>NA</fullhd>
@@ -114,6 +127,19 @@
 		<genre>Thriller</genre>
 		<extra>Estreno</extra>
 		<info>El escritor Antonio Prieto decide pasar el verano en un pueblo de la serranía malagueña, donde espera encontrar tranquilidad e inspiración para su siguiente novela. Allí conoce a Berta, una mujer por la que siente una atracción instantánea, así como a algunos personajes peculiares sobre los que empieza a escribir e investigar. Antonio comienza a descubrir que los locales guardan numerosos secretos y una perturbadora leyenda oculta. Lo que vivirá en esos días le hará ir dándose cuenta que, a veces, la realidad supera con creces a los mitos.</info>
+	</item>
+	<item>
+		<title>SAW ESPIRAL</title>
+		<microhd>c5cf78dd7acb23bb56083374c49bc06c212b5f23</microhd>
+		<fullhd>94c1210d3dbf7a977a7f263c349cf09d8e3e11a6</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>8b1c5677ce021b3f9f84dd4f2e7b8dda81ab1222</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/ltBUpM2Whno1yNE9qF5E7Jrkn29.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/e17rqNSjdlpIYW4p31UXdC3ZyNu.jpg</fanart>
+		<date>2021</date>
+		<genre>Terror. Thriller. Saga</genre>
+		<extra>Estreno</extra>
+		<info>Reinicio de la saga 'Saw'.Trabajando a la sombra de un policía veterano (Samuel L. Jackson), el intrépido detective Ezekiel “Zeke” Banks (Chris Rock) y su compañero novato (Max Minghella) toman las riendas de una investigación relacionada con una serie de asesinatos que albergan ciertos paralelismos con el sangriento pasado de la ciudad. A medida que profundiza en el misterio, Zeke descubre que él mismo se ha convertido en el epicentro del macabro juego del asesino.</info>
 	</item>
 	<item>
 		<title>SWEET GIRL</title>
