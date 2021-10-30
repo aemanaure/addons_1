@@ -98,6 +98,10 @@
         "21": [
             "servers",
             "upvideo.py"
+        ],
+        "22": [
+            "channels",
+            "torrents.py"
         ]
     }
 }
