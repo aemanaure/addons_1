@@ -1,0 +1,173 @@
+{
+    "hash": "66c982960677e57b7571d04cfe0e0343",
+    "addon_version": "2.1.2.03",
+    "fix_version": 5.01,
+    "files": {
+        "0": [
+            "channels",
+            "pelisencastellano.py"
+        ],
+        "1": [
+            "channels",
+            "verpeliculasrd.json"
+        ],
+        "2": [
+            "channels",
+            "verpeliculasrd.py"
+        ],
+        "3": [
+            "core",
+            "servertools.py"
+        ],
+        "4": [
+            "lib",
+            "megaserver",
+            "client.py"
+        ],
+        "5": [
+            "lib",
+            "megaserver",
+            "cursor.py"
+        ],
+        "6": [
+            "lib",
+            "megaserver",
+            "file.py"
+        ],
+        "7": [
+            "lib",
+            "megaserver",
+            "handler.py"
+        ],
+        "8": [
+            "lib",
+            "megaserver",
+            "server.py"
+        ],
+        "9": [
+            "resources",
+            "media",
+            "channels",
+            "thumb",
+            "verpeliculasrd.png"
+        ],
+        "10": [
+            "servers",
+            "fembed.json"
+        ],
+        "11": [
+            "servers",
+            "fembed.py"
+        ],
+        "12": [
+            "servers",
+            "mega.json"
+        ],
+        "13": [
+            "servers",
+            "mega.py"
+        ],
+        "14": [
+            "servers",
+            "streamsb.json"
+        ],
+        "15": [
+            "channels",
+            "cinecalidad.py"
+        ],
+        "16": [
+            "channels",
+            "kindor.py"
+        ],
+        "17": [
+            "channels",
+            "peliseries.py"
+        ],
+        "18": [
+            "servers",
+            "highload.json"
+        ],
+        "19": [
+            "servers",
+            "highload.py"
+        ],
+        "20": [
+            "servers",
+            "nupload.py"
+        ],
+        "21": [
+            "servers",
+            "upvideo.py"
+        ],
+        "22": [
+            "resources",
+            "settings.xml"
+        ],
+        "23": [
+            "modules",
+            "tester.py"
+        ],
+        "24": [
+            "modules",
+            "proxysearch.py"
+        ],
+        "25": [
+            "lib",
+            "megaserver",
+            "__init__.py"
+        ],
+        "26": [
+            "resources",
+            "media",
+            "channels",
+            "thumb",
+            "movidytv.jpg"
+        ],
+        "27": [
+            "core",
+            "proxytools.py"
+        ],
+        "28": [
+            "channels",
+            "dontorrents.py"
+        ],
+        "29": [
+            "channels",
+            "movidytv.py"
+        ],
+        "30": [
+            "channels",
+            "movidytv.json"
+        ],
+        "31": [
+            "channels",
+            "movidymobi.json"
+        ],
+        "32": [
+            "channels",
+            "movidymobi.py"
+        ],
+        "33": [
+            "modules",
+            "generos.py",
+            "mainmenu.py"
+        ],
+        "34": [
+            "resources",
+            "media",
+            "channels",
+            "thumb",
+            "movidymobi.jpg"
+        ],
+        "35": [
+            "channels",
+            "torrents.py",
+            "torrents.json"
+        ],
+        "33": [
+            "platformcode",
+            "updater.py"
+        ],
+        
+    }
+}
