@@ -3,18 +3,18 @@
     "addon_version": "2.1.2",
     "fix_version": 6,
     "files": {
-        "01": [
+        "0": [
             "modules",
             "mainmenu.py"
         ],
-        "02": [
+        "1": [
             "channels",
             "torrents.py",
             "torrents.json",
             "pelitorrent.py",
             "pelitorrent.json"
         ],
-        "03": [
+        "2": [
             "platformcode",
             "updater.py"
         ],
