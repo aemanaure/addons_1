@@ -1,8 +1,8 @@
 {
     "hash": "66c982960677e57b7571d04cfe0e0343",
-    "addon_version": "2.1.2.08",
+    "addon_version": "2.1.2.09",
     "fix_version": 0,
-    "mod_version": 2,
+    "mod_version": 1,
     "files": {
         "0": [
             "modules",
