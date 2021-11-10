@@ -2,10 +2,11 @@
     "hash": "66c982960677e57b7571d04cfe0e0343",
     "addon_version": "2.1.2.07",
     "fix_version": 0,
-    "mod_version": 18,
+    "mod_version": 19,
     "files": {
         "0": [
             "modules",
+            "actions",
             "mainmenu.py"
         ],
         "1": [
@@ -18,6 +19,10 @@
         "2": [
             "platformcode",
             "updater.py"
+        ],
+        "3": [
+            "resources",
+            "settings.xml"
         ]
         
     }
