@@ -1,12 +1,12 @@
   	<item>
   		<title>ÚLTIMAS AÑADIDAS</title>
-  		<microhd>+7</microhd>
+  		<microhd>+1</microhd>
   		<fullhd>NA</fullhd>
   		<tresd>NA</tresd>
   		<cuatrok>NA</cuatrok>
   		<thumbnail>https://github.com/pepemebe/mag/raw/main/img/timg/thumb.jpg</thumbnail>
   		<fanart>https://github.com/pepemebe/mag/raw/main/img/fanart/torrents.jpg</fanart>
-  		<date>30/10/21</date>
+  		<date>11/11/21</date>
   		<genre>NA</genre>
   		<extra>NA</extra>
   		<info>Películas añadidas recientemente.</info>
@@ -101,6 +101,19 @@
 		<genre>Infantil</genre>
 		<extra>NA</extra>
 		<info>Cuando Jack Skellington, el Señor de Halloween, descubre la Navidad, se queda fascinado y decide mejorarla. Sin embargo, su visión de la festividad es totalmente contraria al espíritu navideño. Sus planes incluyen el secuestro de Santa Claus y la introducción de cambios bastante macabros. Sólo su novia Sally es consciente del error que está cometiendo.</info>
+	</item>
+	<item>
+		<title>SHANG-CHI Y LA LEYENDA DE LOS DIEZ ANILLOS</title>
+		<microhd>83FD51CA0367B94B5A2701FECA641D1ECAD1196B</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/9VqajJXm29uprSaxOcEh7O0d6E9.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/gdilvjBVZGoATDyXANofnPYUpyq.jpg</fanart>
+		<date>2021</date>
+		<genre>Fantástico. Acción. Ciencia ficción</genre>
+		<extra>Estreno</extra>
+		<info>Adaptación cinematográfica del héroe creado por Steve Englehart y Jim Starlin en 1973, un personaje mitad chino, mitad americano, cuyo característico estilo de combate mezclaba kung-fu, nunchacos y armas de fuego. </info>
 	</item>
 	<item>
 		<title>TIEMPO</title>
