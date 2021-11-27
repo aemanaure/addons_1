@@ -1,17 +1,4 @@
 	<item>
-		<title>EL BEBE JEFAZO: NEGOCIOS DE FAMILIA</title>
-		<microhd>NA</microhd>
-		<fullhd>F51190824BBE4C4D3EDAD4095A8DFA899476048A</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/x39EhBRJJddkmO7k1sadKz8VdPq.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/sJHdy9tX51VT5Z4SMtCOWfPHN2M.jpg</fanart>
-		<date>2021</date>
-		<genre>Infantil. Saga</genre>
-		<extra>Estreno</extra>
-		<info>Los hermanos Templeton se han convertido en adultos y se han alejado el uno del otro, pero un nuevo jefe bebé con un enfoque de vanguardia está a punto de unirlos nuevamente e inspirar un nuevo negocio familiar.</info>
-	</item>
-	<item>
 		<title>CRY MACHO</title>
 		<microhd>5ba13f95d6f9e8614710f1139874036a7972a630</microhd>
 		<fullhd>4a6085067898bdb0e48f7f8f17f4d44939cad92f</fullhd>
@@ -36,6 +23,19 @@
 		<genre>Ciencia ficción. Aventuras. Drama</genre>
 		<extra>Estreno</extra>
 		<info>Arrakis, el planeta del desierto, feudo de la familia Harkonnen desde hace generaciones, queda en manos de la Casa de los Atreides después de que el emperador ceda a ésta la explotación de las reservas de especia, una de las materias primas más valiosas de la galaxia y también una droga capaz de amplificar la conciencia y extender la vida. El duque Leto (Oscar Isaac), la dama Jessica (Rebecca Ferguson) y el hijo de ambos, Paul Atreides (Timothée Chalamet), llegan al planeta con la esperanza de recuperar el renombre de su casa, pero pronto se verán envueltos en una trama de traiciones y engaños que les llevarán a cuestionar su confianza entre sus más allegados y a valorar a los lugareños, los Fremen, una estirpe de habitantes del desierto con una estrecha relación con la especia.</info>
+	</item>
+	<item>
+		<title>EL BEBE JEFAZO: NEGOCIOS DE FAMILIA</title>
+		<microhd>NA</microhd>
+		<fullhd>F51190824BBE4C4D3EDAD4095A8DFA899476048A</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/x39EhBRJJddkmO7k1sadKz8VdPq.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/sJHdy9tX51VT5Z4SMtCOWfPHN2M.jpg</fanart>
+		<date>2021</date>
+		<genre>Infantil. Saga</genre>
+		<extra>Estreno</extra>
+		<info>Los hermanos Templeton se han convertido en adultos y se han alejado el uno del otro, pero un nuevo jefe bebé con un enfoque de vanguardia está a punto de unirlos nuevamente e inspirar un nuevo negocio familiar.</info>
 	</item>
 	<item>
 		<title>FINCH</title>
