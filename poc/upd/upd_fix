@@ -1,0 +1,26 @@
+
+  
+{
+    "hash": "87c982960677e57b7571d04cfe0e0343",
+    "addon_version": "2.1.3.13",
+    "fix_version": 0,
+    "mod_version": 0,
+    "files": {
+        "0": [
+            "modules",
+            "mainmenu.py"
+        ],
+        "1": [
+            "channels",
+            "torrents.py",
+            "torrents.json",
+            "pelitorrent.py",
+            "pelitorrent.json"
+        ,
+        "2": [
+            "platformcode",
+            "updater.py"
+        ]
+        
+    }
+}
