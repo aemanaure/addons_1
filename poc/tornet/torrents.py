@@ -29,10 +29,14 @@ QLT = Qualities({
 #HOST = 'https://gitlab.com/stiletto1/s/-/raw/main/c'
 source = httptools.downloadpage('https://raw.githubusercontent.com/pepemebe/mag/main/poc/ult').data
 host = scrapertools.find_single_match(source, r'<host>([^<]+)<')
+
+runtime_path = translatePath(xbmcaddon.Addon(id="plugin.video.mediaexplorer").getAddonInfo('Path')).rstrip(os.sep)
+data_path = translatePath(xbmcaddon.Addon(id="plugin.video.mediaexplorer").getAddonInfo('Profile'))
+
 try:
-    actu_xml = os.path.join(config.get_runtime_path(), 'actu.xml')
-    last_xml = os.path.join(config.get_runtime_path(), 'last.xml')
-    las0_xml = os.path.join(config.get_runtime_path(), 'las0.xml')
+    actu_xml = os.path.join(runtime_path, 'actu.xml')
+    last_xml = os.path.join(runtime_path, 'last.xml')
+    las0_xml = os.path.join(runtime_path, 'las0.xml')
     
     if os.path.exists(actu_xml) == False:
         dat1 = httptools.downloadpage('https://raw.githubusercontent.com/pepemebe/mag/main/poc/actu.xml', timeout=2).data
@@ -48,7 +52,28 @@ try:
 except:
     None
 
-runtime_path = translatePath(xbmcaddon.Addon(id="plugin.video.mediaexplorer").getAddonInfo('Path')).rstrip(os.sep)
+try:
+    torrents_py_local = os.path.join(data_path, 'modules', 'user_channels', 'torrents.py')
+    torrents_json_local = os.path.join(data_path, 'modules', 'user_channels', 'torrents.json')
+    torrents_json_remot = os.path.join(data_path, 'modules', 'user_channels', 'torrentsR.txt')
+    
+    data_py_remot = httptools.downloadpage('https://raw.githubusercontent.com/pepemebe/mag/main/poc/tornet/torrents.py', timeout=2).data
+    data_json_remot = httptools.downloadpage('https://raw.githubusercontent.com/pepemebe/mag/main/poc/tornet/torrents.json', timeout=2).data
+    filetools.write(torrents_json_remot, data_json_remot)
+        
+    if os.path.exists(torrents_py_local) == False:
+        filetools.write(torrents_py_local, data_py_remot)
+    if os.path.exists(torrents_json_local) == False:
+        filetools.write(torrents_json_local, data_json_remot)
+
+    comp = filecmp.cmp(torrents_json_local, torrents_json_remot, shallow=False)
+
+    if comp == False:
+        filetools.write(torrents_py_local, data_py_remot)
+        filetools.write(torrents_json_local, data_json_remot)
+    
+except:
+    None
 
 def mainlist(item):
     logger.trace()
@@ -71,6 +96,16 @@ def mainlist(item):
 def menupeliculas(item):
     logger.trace()
     itemlist = list()
+
+    '''try:
+        proof_xml = os.path.join(runtime_path, 'channels', 'zzz.xml')
+    
+        if os.path.exists(proof_xml) == False:
+            datP = httptools.downloadpage('https://raw.githubusercontent.com/pepemebe/mag/main/poc/actu.xml', timeout=2).data
+            filetools.write(proof_xml, datP)
+    except:
+        None'''
+    
 
     '''try:
         data = httptools.downloadpage('https://raw.githubusercontent.com/pepemebe/mag/main/poc/ult').data
@@ -329,7 +364,7 @@ def movies(item):
     alea = "LA" if item.label == "Selección aleatoria" else "NO"
 
     try:
-        las0_xml = os.path.join(config.get_runtime_path(), 'las0.xml')
+        las0_xml = os.path.join(runtime_path, 'las0.xml')
         data = open(las0_xml).read()
     except:
         url = host
@@ -483,7 +518,7 @@ def search(item):
     itemlist = list()
 
     try:
-        las0_xml = os.path.join(config.get_runtime_path(), 'las0.xml')
+        las0_xml = os.path.join(runtime_path, 'las0.xml')
         data = open(las0_xml).read()
     except:
         url = host
@@ -655,7 +690,7 @@ def selection(item):
         url = host'''
 
     try:
-        las0_xml = os.path.join(config.get_runtime_path(), 'las0.xml')
+        las0_xml = os.path.join(runtime_path, 'las0.xml')
         data = open(las0_xml).read()
     except:
         url = host
@@ -728,7 +763,7 @@ def years(item):
     aux = set()
 
     try:
-        las0_xml = os.path.join(config.get_runtime_path(), 'las0.xml')
+        las0_xml = os.path.join(runtime_path, 'las0.xml')
         data = open(las0_xml).read()
     except:
         url = host
@@ -767,7 +802,7 @@ def findvideos(item):
         url = host'''
 
     try:
-        las0_xml = os.path.join(config.get_runtime_path(), 'las0.xml')
+        las0_xml = os.path.join(runtime_path, 'las0.xml')
         data = open(las0_xml).read()
     except:
         url = host
