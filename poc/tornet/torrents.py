@@ -124,8 +124,8 @@ def menupeliculas(item):
         data = httptools.downloadpage('https://raw.githubusercontent.com/pepemebe/mag/main/poc/ult').data
         active = scrapertools.find_single_match(data, r'<active>([^<]+)<')
         actu_xml = os.path.join(runtime_path, 'actu.xml')
-        last_xml = os.path.join(runtime_path, 'last.xml')
-        if active == "0" and os.path.exists(actu_xml) == True and os.path.exists(last_xml) == True:
+        last_xml = os.path.join(runtime_path, 'las0.xml')
+        if active == "0" and os.path.exists(actu_xml) == True and os.path.exists(las0_xml) == True:
             itemlist.append(item.clone(
                 label="Últimas añadidas",
                 action="last",
@@ -270,7 +270,7 @@ def last(item):
         ur1 = 'https://raw.githubusercontent.com/pepemebe/mag/main/poc/actu.xml'
         dat1 = httptools.downloadpage(ur1).data
     
-    dat1 = re.sub(r"\n|\r|\t|<b>|\s{2}|&nbsp;", "", dat1)
+    dat1 = re.sub(r"\n|\r|\t|<b>|\s{2}| ", "", dat1)
     patro1 = r'<title>([^<]+)</'
     
     for tit in scrapertools.find_multiple_matches(dat1, patro1):
@@ -285,7 +285,7 @@ def last(item):
         ur0 = 'https://gitlab.com/stiletto1/s/-/raw/main/c'
         dat2 = httptools.downloadpage(ur0).data
     
-    dat2 = re.sub(r"\n|\r|\t|<b>|\s{2}|&nbsp;", "", dat2)
+    dat2 = re.sub(r"\n|\r|\t|<b>|\s{2}| ", "", dat2)
     patro2 = r'<item.*?<title>([^<]+)</.*?<micro(.*?)/cuatrok>.*?<thumbnail>([^<]+)</.*?<fanart>' \
              r'([^<]+)</.*?<date>([^<]+)</.*?<info>([^<]+)</'
 
@@ -319,12 +319,12 @@ def last(item):
     
     url = 'https://github.com/lamalanovela/tacones/commits/main/nuevo'
     data = httptools.downloadpage(url).data
-    data = re.sub(r"\n|\r|\t|<b>|\s{2}|&nbsp;", "", data)
+    data = re.sub(r"\n|\r|\t|<b>|\s{2}| ", "", data)
 
     patron = r'href="([^"]+)">Update nuevo</a>'
     commit = 'https://github.com' + scrapertools.find_single_match(data, patron)
     data = httptools.downloadpage(commit).data
-    data = re.sub(r"\n|\r|\t|<b>|\s{2}|&nbsp;|&lt;|&gt;|<span class=\"pl-ent\">|</span>", "", data)
+    data = re.sub(r"\n|\r|\t|<b>|\s{2}| |<|>|<span class=\"pl-ent\">|</span>", "", data)
 
     patron = r'data-code-marker="\+"><item>' \
              r'.*?data-code-marker="\+"><title>([^<]+)</title' \
@@ -371,7 +371,7 @@ def movies(item):
         url = host
         data = httptools.downloadpage(url).data
 
-    data = re.sub(r"\n|\r|\t|<b>|\s{2}|&nbsp;", "", data)
+    data = re.sub(r"\n|\r|\t|<b>|\s{2}| ", "", data)
 
     patron = r'<item.*?<title>([^<]+)</.*?<micro(.*?)/cuatrok>.*?<thumbnail>([^<]+)</.*?<fanart>' \
              r'([^<]+)</.*?<date>([^<]+)</.*?<info>([^<]+)</'
@@ -525,7 +525,7 @@ def search(item):
         url = host
         data = httptools.downloadpage(url).data
 
-    data = re.sub(r"\n|\r|\t|<b>|\s{2}|&nbsp;", "", data)
+    data = re.sub(r"\n|\r|\t|<b>|\s{2}| ", "", data)
 
     patron = r'<item.*?<title>([^<]+)</.*?<micro(.*?)/cuatrok>.*?<thumbnail>([^<]+)</.*?<fanart>' \
              r'([^<]+)</.*?<date>([^<]+)</.*?<genre>([^<]+)</.*?<info>([^<]+)</'
@@ -697,7 +697,7 @@ def selection(item):
         url = host
         data = httptools.downloadpage(url).data
 
-    data = re.sub(r"\n|\r|\t|<b>|\s{2}|&nbsp;", "", data)
+    data = re.sub(r"\n|\r|\t|<b>|\s{2}| ", "", data)
 
     patron = r'<item.*?<title>([^<]+)</.*?<micro(.*?)/cuatrok>.*?<thumbnail>([^<]+)</.*?<fanart>' \
              r'([^<]+)</.*?<date>([^<]+)</.*?<extra>([^<]+)</.*?<info>([^<]+)</'
@@ -740,7 +740,7 @@ def sagas(item):
 
     url = 'https://raw.githubusercontent.com/pepemebe/mag/main/poc/sag'
     data = httptools.downloadpage(url).data
-    data = re.sub(r"\n|\r|\t|\(|\)|<b>|\s{2}|&nbsp;", "", data)
+    data = re.sub(r"\n|\r|\t|\(|\)|<b>|\s{2}| ", "", data)
 
     for s in scrapertools.find_multiple_matches(data, r" '(.*?)',"):
         r = s
@@ -770,7 +770,7 @@ def years(item):
         url = host
         data = httptools.downloadpage(url).data
 
-    data = re.sub(r"\n|\r|\t|\(|\)|<b>|\s{2}|&nbsp;", "", data)
+    data = re.sub(r"\n|\r|\t|\(|\)|<b>|\s{2}| ", "", data)
 
     for year in scrapertools.find_multiple_matches(data, r'<date>([^<]+)</'):
         year = year.upper()
@@ -809,7 +809,7 @@ def findvideos(item):
         url = host
         data = httptools.downloadpage(url).data
 
-    data = re.sub(r"\n|\r|\t|\(|\)|\¿|\?|<b>|\s{2}|&nbsp;", "", data)
+    data = re.sub(r"\n|\r|\t|\(|\)|\¿|\?|<b>|\s{2}| ", "", data)
     item.lab =re.sub(r"\(|\)|\¿|\?", "", item.lab)
 
     patron = r'<item.*?<title>%s</.*?tle>(.*?)<thumb' % item.lab
