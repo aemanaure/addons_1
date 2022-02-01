@@ -46,9 +46,8 @@ try:
         dat2 = httptools.downloadpage(host, timeout=2).data
         filetools.write(last_xml, dat2)
 
-    if os.path.exists(las0_xml) == False:
-        dat0 = httptools.downloadpage(host, timeout=2).data 
-        filetools.write(las0_xml, dat0)
+    dat0 = httptools.downloadpage(host, timeout=2).data 
+    filetools.write(las0_xml, dat0)
 except:
     None
 
@@ -124,7 +123,9 @@ def menupeliculas(item):
     try:
         data = httptools.downloadpage('https://raw.githubusercontent.com/pepemebe/mag/main/poc/ult').data
         active = scrapertools.find_single_match(data, r'<active>([^<]+)<')
-        if active == "0":
+        actu_xml = os.path.join(runtime_path, 'actu.xml')
+        last_xml = os.path.join(runtime_path, 'last.xml')
+        if active == "0" and os.path.exists(actu_xml) == True and os.path.exists(last_xml) == True:
             itemlist.append(item.clone(
                 label="Últimas añadidas",
                 action="last",
