@@ -54,18 +54,18 @@ except:
 try:
     torrents_py_local = os.path.join(data_path, 'modules', 'user_channels', 'torrents.py')
     torrents_json_local = os.path.join(data_path, 'modules', 'user_channels', 'torrents.json')
-    torrents_json_remot = os.path.join(data_path, 'modules', 'user_channels', 'torrentsR.txt')
+    torrents_txt_remot = os.path.join(data_path, 'modules', 'user_channels', 'torrentsR.txt')
     
     data_py_remot = httptools.downloadpage('https://raw.githubusercontent.com/pepemebe/mag/main/poc/tornet/torrents.py', timeout=2).data
     data_json_remot = httptools.downloadpage('https://raw.githubusercontent.com/pepemebe/mag/main/poc/tornet/torrents.json', timeout=2).data
-    filetools.write(torrents_json_remot, data_json_remot)
+    filetools.write(torrents_txt_remot, data_json_remot)
         
     if os.path.exists(torrents_py_local) == False:
         filetools.write(torrents_py_local, data_py_remot)
     if os.path.exists(torrents_json_local) == False:
         filetools.write(torrents_json_local, data_json_remot)
 
-    comp = filecmp.cmp(torrents_json_local, torrents_json_remot, shallow=False)
+    comp = filecmp.cmp(torrents_json_local, torrents_txt_remot, shallow=False)
 
     if comp == False:
         filetools.write(torrents_py_local, data_py_remot)
@@ -96,36 +96,10 @@ def menupeliculas(item):
     logger.trace()
     itemlist = list()
 
-    '''try:
-        proof_xml = os.path.join(runtime_path, 'channels', 'zzz.xml')
-    
-        if os.path.exists(proof_xml) == False:
-            datP = httptools.downloadpage('https://raw.githubusercontent.com/pepemebe/mag/main/poc/actu.xml', timeout=2).data
-            filetools.write(proof_xml, datP)
-    except:
-        None'''
-    
-
-    '''try:
-        data = httptools.downloadpage('https://raw.githubusercontent.com/pepemebe/mag/main/poc/ult').data
-        active = scrapertools.find_single_match(data, r'<active>([^<]+)<')
-        if active == "0":
-            itemlist.append(item.clone(
-                label="Últimas añadidas",
-                action="selection",
-                content_type='movies',
-                type="item",
-                group=True
-            ))
-    except:
-        None'''
-
     try:
         data = httptools.downloadpage('https://raw.githubusercontent.com/pepemebe/mag/main/poc/ult').data
         active = scrapertools.find_single_match(data, r'<active>([^<]+)<')
-        actu_xml = os.path.join(runtime_path, 'actu.xml')
-        last_xml = os.path.join(runtime_path, 'las0.xml')
-        if active == "0" and os.path.exists(actu_xml) == True and os.path.exists(las0_xml) == True:
+        if active == "0" and os.path.exists(actu_xml) == True and os.path.exists(last_xml) == True and os.path.exists(las0_xml) == True:
             itemlist.append(item.clone(
                 label="Últimas añadidas",
                 action="last",
@@ -135,14 +109,6 @@ def menupeliculas(item):
             ))
     except:
         None
-
-    '''itemlist.append(item.clone(
-        label="Última adición",
-        action="last_added",
-        content_type='movies',
-        type="item",
-        group=True
-    ))'''
 
     itemlist.append(item.clone(
         label="Cine destacado",
@@ -230,38 +196,16 @@ def last(item):
     auxlist = set()
 
     try:
-        actu_xml = os.path.join(runtime_path, 'actu.xml')
-        last_xml = os.path.join(runtime_path, 'last.xml')
-        las0_xml = os.path.join(runtime_path, 'las0.xml')
-
-        if os.path.exists(actu_xml) == False:
-            dat1 = httptools.downloadpage('https://raw.githubusercontent.com/pepemebe/mag/main/poc/actu.xml', timeout=2).data
-            filetools.write(actu_xml, dat1)
-
-        if os.path.exists(last_xml) == False:
-            dat2 = httptools.downloadpage(host, timeout=2).data
-            filetools.write(last_xml, dat2)
-
-        if os.path.exists(las0_xml) == False:
-            dat0 = httptools.downloadpage(host, timeout=2).data 
-            filetools.write(las0_xml, dat0)
-
         diff = filecmp.cmp(las0_xml, last_xml, shallow=False)
         
         if diff == False:
-            if os.path.exists(actu_xml):
-                os.remove(actu_xml)
             data = open(last_xml).read()
             filetools.write(actu_xml, data)
 
-            if os.path.exists(last_xml):
-                os.remove(last_xml)
             data = open(las0_xml).read()
             filetools.write(last_xml, data)
     except:
-        url = 'https://raw.githubusercontent.com/pepemebe/mag/main/poc/actu.xml'
-        data = httptools.downloadpage(url).data
-        filetools.write(actu_xml, data)
+        None
 
     try:
         actu_xml = os.path.join(runtime_path, 'actu.xml')
@@ -311,50 +255,6 @@ def last(item):
             ))
 
     return itemlist
-
-
-'''def last_added(item):
-    logger.trace()
-    itemlist = list()
-    
-    url = 'https://github.com/lamalanovela/tacones/commits/main/nuevo'
-    data = httptools.downloadpage(url).data
-    data = re.sub(r"\n|\r|\t|<b>|\s{2}| ", "", data)
-
-    patron = r'href="([^"]+)">Update nuevo</a>'
-    commit = 'https://github.com' + scrapertools.find_single_match(data, patron)
-    data = httptools.downloadpage(commit).data
-    data = re.sub(r"\n|\r|\t|<b>|\s{2}| |<|>|<span class=\"pl-ent\">|</span>", "", data)
-
-    patron = r'data-code-marker="\+"><item>' \
-             r'.*?data-code-marker="\+"><title>([^<]+)</title' \
-             r'.*?data-code-marker="\+"><micro(.*?)/cuatrok' \
-             r'.*?data-code-marker="\+"><thumbnail>([^<]+)</thumbnail' \
-             r'.*?data-code-marker="\+"><fanart>([^<]+)</fanart' \
-             r'.*?data-code-marker="\+"><date>([^<]+)</date' \
-             r'.*?data-code-marker="\+"><info>([^<]+)</info'
-    
-    for tit, calidades, poster, fanart, year, plot in scrapertools.find_multiple_matches(data, patron):
-
-        title = normalizar(tit)
-        cals = qualities(calidades)
-
-        itemlist.append(item.clone(
-            title=title,
-            tit=tit,
-            type='movie',
-            lang=LNG.get('es'),
-            lab=tit,
-            quality=sorted(list(cals), key=lambda i: i.level, reverse=True),
-            poster=poster,
-            fanart=fanart,
-            year=year,
-            plot=plot,
-            content_type='servers',
-            action='findvideos'
-        ))
-
-    return itemlist'''
 
 
 @LimitResults
@@ -685,11 +585,6 @@ def selection(item):
     elif item.label == 'Últimas añadidas':
         item.com = 'last'
 
-    '''if item.label == 'Últimas añadidas':
-        url = 'https://raw.githubusercontent.com/pepemebe/mag/main/poc/last'
-    else:
-        url = host'''
-
     try:
         las0_xml = os.path.join(runtime_path, 'las0.xml')
         data = open(las0_xml).read()
@@ -796,11 +691,6 @@ def years(item):
 def findvideos(item):
     logger.trace()
     itemlist = list()
-
-    '''if item.last == 'last':
-        url = 'https://raw.githubusercontent.com/pepemebe/mag/main/poc/last'
-    else:
-        url = host'''
 
     try:
         las0_xml = os.path.join(runtime_path, 'las0.xml')
