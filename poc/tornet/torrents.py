@@ -582,8 +582,6 @@ def selection(item):
         item.com = 'Estreno'
     elif item.label == 'Cine de culto':
         item.com = 'Culto'
-    elif item.label == 'Últimas añadidas':
-        item.com = 'last'
 
     try:
         las0_xml = os.path.join(runtime_path, 'las0.xml')
@@ -615,7 +613,7 @@ def selection(item):
                 title=title,
                 type='movie',
                 lab=tit,
-                last='last' if item.label == 'Últimas añadidas' else 'NO',
+                last='NO',
                 poster=poster,
                 fanart=fanart,
                 plot=plot,
