@@ -196,6 +196,10 @@ def last(item):
     auxlist = set()
 
     try:
+        actu_xml = os.path.join(runtime_path, 'actu.xml')
+        last_xml = os.path.join(runtime_path, 'last.xml')
+        las0_xml = os.path.join(runtime_path, 'las0.xml')
+        
         diff = filecmp.cmp(las0_xml, last_xml, shallow=False)
         
         if diff == False:
