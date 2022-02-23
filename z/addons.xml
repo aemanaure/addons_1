@@ -64,7 +64,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.balandro" name="Balandro" version="2.2.3.01" provider-name="Balandro Team">
+<addon id="plugin.video.balandro" name="Balandro" version="2.2.3.02" provider-name="Balandro Team">
   <requires>
      <import addon="script.module.requests"/>
   </requires>
