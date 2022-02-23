@@ -369,7 +369,7 @@
 		<microhd>9c6908a85c757c2cbbd6b9874232dbb5ab2238fc</microhd>
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>a85c2204dbbc074dc1146f6b4a2f64cd8806b267</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/3SxXS5cEqOH9QhtW6qQkldi5MRJ.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/ogL3cNMaj61ToePxxWtHvsXXSlr.jpg</fanart>
 		<date>1955</date>
@@ -1869,7 +1869,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/qknLmBKDyjGMC40b7ZehqdfIi2A.jpg</fanart>
 		<date>2021</date>
 		<genre>Fantástico. Comedia</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Una madre soltera y sus dos hijos llegan a una pequeña ciudad, descubriendo su conexión con los cazafantasmas originales y el legado secreto que dejó su abuelo tras de sí. Secuela directa de "Cazafantasmas 2".</info>
 	</item>
 	<item>
@@ -2313,6 +2313,19 @@
 		<genre>Infantil</genre>
 		<extra>NA</extra>
 		<info>CLASICOS DE DISNEY</info>
+	</item>
+	<item>
+		<title>CLIFFORD EL GRAN PERRO ROJO</title>
+		<microhd>NA</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>e831730c0020553227eebd53c1de3f18515b16be</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/6t05L4Ckj3OGX1jrHEbJhn2hm3Q.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/zBkHCpLmHjW2uVURs5uZkaVmgKR.jpg</fanart>
+		<date>2021</date>
+		<genre>Infantil</genre>
+		<extra>Estreno</extra>
+		<info>Cuando Emily Elizabeth conoce a un rescatador mágico de animales que le regala un pequeño cachorro rojo, nunca se hubiera imaginado que al despertarse se encontraría un sabueso gigante de tres metros en su pequeño apartamento de Nueva York. Mientras su madre soltera se encuentra de viaje de negocios, Emily y su divertido pero impulsivo tío Casey se embarcan en una gran aventura.</info>
 	</item>
 	<item>
 		<title>COCO</title>
@@ -3234,7 +3247,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/sJHdy9tX51VT5Z4SMtCOWfPHN2M.jpg</fanart>
 		<date>2021</date>
 		<genre>Infantil. Saga</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Los hermanos Templeton se han convertido en adultos y se han alejado el uno del otro, pero un nuevo jefe bebé con un enfoque de vanguardia está a punto de unirlos nuevamente e inspirar un nuevo negocio familiar.</info>
 	</item>
 	<item>
@@ -3940,6 +3953,19 @@
 		<info>Un grupo de colonos buscadores de oro se establece en un lugar de California, pero sufren el acoso de los hombres de Lahood, el propietario del resto de las explotaciones mineras. Pero un día al poblado llega un misterioso y frío predicador (Clint Eastwood) que se pone de parte de los colonos, y comienza a enfrentarse al temido cacique local.</info>
 	</item>
 	<item>
+		<title>EL JOVENCITO FRANKENSTEIN</title>
+		<microhd>AFF1BD61D80540853D7C182C5DD73618ED7945FF</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/ai5w3uAAwqeKdJhypxo9zZVCizC.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/wKSJLUgJtCMSZOIU1By8g5FSaHk.jpg</fanart>
+		<date>1974</date>
+		<genre>Comedia. Terror</genre>
+		<extra>Culto</extra>
+		<info>El joven doctor Frederick Frankenstein, un neurocirujano norteamericano, trata de escapar del estigma legado por su abuelo, quien creó años atrás una horrible criatura. Pero, cuando hereda el castillo de Frankenstein y descubre un extraño manual científico en el que se explica paso a paso cómo devolverle la vida a un cadáver, comienza a crear su propio monstruo.</info>
+	</item>
+	<item>
 		<title>EL JUICIO DE LOS 7 DE CHICAGO</title>
 		<microhd>a8c1fafd7ceb098a5b31056a93d3681a91826abb</microhd>
 		<fullhd>NA</fullhd>
@@ -3990,6 +4016,19 @@
 		<genre>Infantil</genre>
 		<extra>NA</extra>
 		<info>Un gorila llamado Ivan trata de unir las piezas que conforman el puzle de su pasado con la ayuda de Stella, un elefante con el que urde un plan para huir de la cautividad</info>
+	</item>
+	<item>
+		<title>EL METODO WILLIANS</title>
+		<microhd>794177A3DAD4D165A54781B63C6B262A4F7D4FB4</microhd>
+		<fullhd>2789dbff28f3980f25cd4ee2590f1a59051500c3</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>c63ff8ea03588e426a056091a0424d30812a45a9</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/vKwpFmvvhPiZmuou2D6AOsFjReF.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/z2B6hwZZDHvwt9DxljNejHx6dVh.jpg</fanart>
+		<date>2021</date>
+		<genre>Drama</genre>
+		<extra>Estreno</extra>
+		<info>Biopic sobre Richard Williams, un padre inasequible al desaliento que ayudó a formar a dos de las deportistas más extraordinarias de todos los tiempos, dos atletas que acabarían marcando época en el deporte del tenis. Richard tenía una visión muy clara del futuro de sus hijas, y sirviéndose de métodos arriesgados y poco convencionales, elaboró un plan que llevaría a Venus y Serena Williams de las calles de Compton, California, al olimpo del deporte, convirtiéndolas en iconos del tenis.</info>
 	</item>
 	<item>
 		<title>EL MISTERIO DEL DRAGON</title>
@@ -4144,7 +4183,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/mhIPm0FhVX60n9sSlcWL436TFae.jpg</fanart>
 		<date>2021</date>
 		<genre>Terror. Intriga</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Narra la historia de una familia que vive aislada del resto de la sociedad, cuya tranquilidad se verá perturbada por una presencia aterradora que pondrá a prueba los lazos que les unen.</info>
 	</item>
 	<item>
@@ -4833,7 +4872,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/2P7pGVJ5dGixxdmUyUvQBdkJNKR.jpg</fanart>
 		<date>2021</date>
 		<genre>Acción. Thriller</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Año y medio después de la caída de la civilización debido a un brote viral, un ex agente del FBI se ve obligado a proteger a una joven inmune a la enfermedad de un peligroso líder de pandillas que la persigue. </info>
 	</item>
 	<item>
@@ -4951,7 +4990,7 @@
 		<date>2019</date>
 		<genre>Thriller</genre>
 		<extra>NA</extra>
-		<info>Año 1934. Frank Hamer (Kevin Costner) y su sufrido compañero Manny Gault (Harrelson) son dos Ranger de Texas que sufrieron el reinado de robos de Bonnie & Clyde. Ambos fueron asignados como investigadores especiales de un caso que trajo de cabeza a banqueros y policías por igual, y que se llevó por delante la vida hasta de trece agentes de la ley ante la incredulidad del pueblo.</info>
+		<info>Año 1934. Frank Hamer (Kevin Costner) y su sufrido compañero Manny Gault (Harrelson) son dos Ranger de Texas que sufrieron el reinado de robos de Bonnie &amp; Clyde. Ambos fueron asignados como investigadores especiales de un caso que trajo de cabeza a banqueros y policías por igual, y que se llevó por delante la vida hasta de trece agentes de la ley ante la incredulidad del pueblo.</info>
 	</item>
 	<item>
 		<title>EMMA</title>
@@ -5041,7 +5080,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/9xL8gUBarG4Bd7x48BjUpSJvvlw.jpg</fanart>
 		<date>2021</date>
 		<genre>Infantil</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Cuenta la historia de una familia extraordinaria, los Madrigal, que viven escondidos en las montañas de Colombia, en una casa mágica situada en un enclave maravilloso llamado Encanto. La magia de Encanto ha dotado a todos los niños de la familia un don único, desde la súperfuerza hasta el poder de curar... Pero se olvidó de un miembro de la familia: Mirabel. Cuando ésta descubre que la magia que rodea Encanto está en peligro, decide que ella, la única Madrigal normal, podría ser la última esperanza de su extraordinaria familia.</info>
 	</item>
 	<item>
@@ -6094,7 +6133,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/1GVwnspfEEMOHkSWRcibipPT0Pc.jpg</fanart>
 		<date>2021</date>
 		<genre>Acción. Thriller</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Eva (Karen Gillan) era lo más importante en la turbulenta vida de su madre, Scarlet (Lena Headey). Pero sus enemigos obligaron a Scarlet a huir abandonándolo todo, incluida a su hija. Años más tarde, Eva se convierte en una asesina a sangre fría siguiendo los pasos de su madre. Después de perder el control en una misión, poniendo a una inocente niña de 8 años en peligro, Eva no tiene más remedio que enfrentarse sin escrúpulos a sus antiguos compinches. Y Scarlet y su banda no tienen más remedio que volver para intentar ayudarla.</info>
 	</item>
 	<item>
@@ -6523,7 +6562,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/7QabKu8tizoqy8qCZJXljdSpP4A.jpg</fanart>
 		<date>2022</date>
 		<genre>Infantil. Saga</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Drac se enfrentará a una de las situaciones más aterradoras vividas hasta el momento. Cuando el misterioso invento de Van Helsing, el "Rayo Monstrificador", se vuelve totalmente fuera de control, Drac y sus monstruosos amigos se transforman en humanos, ¡y Johnny se convierte en un monstruo! Cuarta y última entrega de la franquicia animada "Hotel Transilvania". </info>
 	</item>
 	<item>
@@ -6800,6 +6839,19 @@
 		<info>Un hombre descubre que sus alucinaciones son en realidad visiones de vidas pasadas.</info>
 	</item>
 	<item>
+		<title>INMUNE</title>
+		<microhd>3E82BC50DE7F54453696A0F410EB43222224C4A2</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/1H4yFajd6eovh8BQtYbjx9J67mf.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/aqm0i13UOmow0K30gB1hrNYpJca.jpg</fanart>
+		<date>2020</date>
+		<genre>Thriller. Drama. Romance. Intriga</genre>
+		<extra>NA</extra>
+		<info>Año 2024. Han pasado dos años desde que una pandemia mundial asoló el mundo. El virus COVID23 ha sufrido una nueva y peligrosa mutación con un 50% de mortalidad que obligó a los Gobiernos a ordenar un nuevo confinamiento mundial. Nico (KJ Apa) es un repartidor que ha desarrollado una poco común inmunidad al virus, lo que le permite seguir trabajando. Nico quiere estar junto a su novia Sara (Sofia Carson), pero para ello deberá superar la ley marcial y enfrentarse a gente peligrosa, poderosa y muy desesperada.</info>
+	</item>
+	<item>
 		<title>INSIDIOUS</title>
 		<microhd>3268fa9807f5ac38cabde16977b1341d04bdbce4</microhd>
 		<fullhd>be1c41c85127ec9250745b2821bb37a9cc64cc0d</fullhd>
@@ -6874,7 +6926,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/mo57hzhW3BcZL1f7MNteWKHsmlN.jpg</fanart>
 		<date>2021</date>
 		<genre>Acción. Thriller</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Un sociópata reformado viaja a una isla remota para investigar el misterio detrás de la desaparición de su hermano, pero pronto termina enfrentándose con más de lo que esperaba.</info>
 	</item>
 	<item>
@@ -7052,11 +7104,11 @@
 		<fullhd>NA</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>NA</cuatrok>
-		<thumbnail>a94d7de04594f044e9763a3de0e097b667c8237b</thumbnail>
+		<thumbnail>https://www.themoviedb.org/t/p/original/2SfoAbAcXCcNb1V3GpPPJG6OLFB.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/3LFIil3YCVpyajp8nxJ9XvfNupv.jpg</fanart>
 		<date>2020</date>
 		<genre>Thriller. Comedia. Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>El militar Markus debe regresar a casa con su hija adolescente, Mathilde, cuando su esposa muere en un trágico accidente de tren. Todo parece ser a causa de la mala suerte, hasta que Otto, experto en matemáticas y también pasajero de tren siniestrado, aparece con sus dos excéntricos colegas, Lennart y Emmenthaler. Otto está convencido de que alguien está detrás de todo esto.</info>
 	</item>
 	<item>
@@ -7359,6 +7411,19 @@
 		<info>En Nueva York, Moe Diamond (Liam Hemsworth) se dedica al blanqueo de dinero negro. Un día se verá buscando respuestas desesperadamente tras despertarse sin memoria, con un montón de dinero y drogas y un violento grupo de policías corruptos persiguiéndole</info>
 	</item>
 	<item>
+		<title>KIMI</title>
+		<microhd>NA</microhd>
+		<fullhd>ab3873157f9f529bb72c3cd78de14e07778d2e26</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>d7e4e18e723efe76d1ccd79ec69543e6bca8effe</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/im91Ho4WkhVroehZJiIUoOF6UIl.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/mruT954ve6P1zquaRs6XG0hA5k9.jpg</fanart>
+		<date>2022</date>
+		<genre>Thriller. Intriga. Drama</genre>
+		<extra>Estreno</extra>
+		<info>La historia se centra en una trabajadora de tecnología agorafóbica que descubre evidencia registrada de un violento crimen durante una revisión del flujo de datos. Después de ser golpeada con resistencia y burocracia por el cambio de mando de su compañía, determina combatir sus miedos para involucrarse.</info>
+	</item>
+	<item>
 		<title>KIN</title>
 		<microhd>7326449961d9dfe3983b8e3cbc8a417b9d96e1bb</microhd>
 		<fullhd>NA</fullhd>
@@ -7502,6 +7567,19 @@
 		<info>En 1666, un pueblo colonial sufre una caza de brujas que tiene consecuencias letales durante siglos. Está en manos de los jóvenes de 1994 poner fin a esta maldición.</info>
 	</item>
 	<item>
+		<title>LA CARRERA DE LA MUERTE DEL AÑO 2000</title>
+		<microhd>827E2C2DA74CDA3D6DF489E5A49AC62F7B706E11</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/tvp70ZkSWzAsvrKHHIEjV8Sy5ir.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/1WgFbHfTPSXKoqYdB9SbcAWpqrO.jpg</fanart>
+		<date>1975</date>
+		<genre>Acción. Ciencia ficción</genre>
+		<extra>Mis</extra>
+		<info>Film sobre "violentas" carreras de coches. La leyenda reza: "En el año 2000 atropellar conduciendo no es un crimen, es el deporte nacional".</info>
+	</item>
+	<item>
 		<title>LA CASA DEL CARACOL</title>
 		<microhd>6a68705c2c1587dbf9444d42d4cd468fbcede436</microhd>
 		<fullhd>NA</fullhd>
@@ -7526,6 +7604,19 @@
 		<genre>Fantastico. Aventuras. Infantil Familiar</genre>
 		<extra>NA</extra>
 		<info>La historia cuenta el mágico y escalofriante relato de Lewis (Owen Vaccaro), un niño de 10 años quien, tras quedar huérfano, se muda a la vieja y rechinante casa de su tío, la cual tiene un misterioso reloj. Pronto, la aburrida y tranquila vida de su nuevo pueblo se ve interrumpida cuando accidentalmente, Lewis despierta a magos y brujas de un mundo secreto.</info>
+	</item>
+	<item>
+		<title>LA CASA GUCCI</title>
+		<microhd>545F7CF237D2CFFE5433160EEAEDF2549F29EEB8</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>4982a9a41ec937abf8fedbdb6f7c48d720085d89</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/o0XF8y2cHw8DfhY8ktFZY8lNHXn.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/6VZF8JVNOgJX56WCapYaqcVQiAw.jpg</fanart>
+		<date>2021</date>
+		<genre>Drama</genre>
+		<extra>Estreno</extra>
+		<info>Drama criminal en torno al asesinato, en 1995, de Maurizio Gucci, nieto del fundador del imperio de la moda Gucci, que apareció asesinado por orden de su exmujer Patrizia Reggiani, conocida como "la viuda negra de Italia". Adaptación del libro de Sara Gay Forden, publicado en 2001, 'The House of Gucci: A Sensational Story of Murder, Madness, Glamour, and Greed'.</info>
 	</item>
 	<item>
 		<title>LA CASA TORCIDA</title>
@@ -8603,7 +8694,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/trw18pk1UV0JvTDkCnvHhWe3j3h.jpg</fanart>
 		<date>2021</date>
 		<genre>Drama. Thriller</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Verano de 1978. Ignacio Cañas (Marcos Ruiz) es un estudiante de 17 años introvertido y algo inadaptado que vive en Girona. Al conocer al Zarco (Chechu Salgado) y a Tere (Begoña Vargas), dos jóvenes delincuentes del barrio chino de la ciudad, se ve inmerso en una carrera imparable de hurtos, robos y atracos. Es la historia en la que Nacho se hace mayor, cruzando la línea que hay entre el bien y el mal, entre la justicia y la injusticia... Adaptación de la novela homónima de Javier Cercas. </info>
 	</item>
 	<item>
@@ -9127,6 +9218,19 @@
 		<info>Pocos años después de la Guerra de Secesión, una diligencia avanza por el invernal paisaje de Wyoming. Los pasajeros, el cazarrecompensas John Ruth (Kurt Russell) y su fugitiva Daisy Domergue (Jennifer Jason Leigh), intentan llegar al pueblo de Red Rock, donde Ruth entregará a Domergue a la justicia. Por el camino, se encuentran con dos desconocidos: el mayor Marquis Warren (Samuel L. Jackson), un antiguo soldado de la Unión convertido en cazarrecompensas de mala reputación, y Chris Mannix (Walton Goggins), un renegado sureño que afirma ser el nuevo sheriff del pueblo. Como se aproxima una ventisca, los cuatro se refugian en la Mercería de Minnie, una parada para diligencias de un puerto de montaña. Cuando llegan al local se topan con cuatro rostros desconocidos: el mexicano Bob (Demian Bichir), Oswaldo Mobray (Tim Roth), verdugo de Red Rock, el vaquero Joe Gage (Michael Madsen) y el general confederado Sanford Smithers (Bruce Dern). Mientras la tormenta cae sobre la parada de montaña, los ocho viajeros descubren que tal vez no lleguen hasta Red Rock después de todo.</info>
 	</item>
 	<item>
+		<title>LOS OJOS DE TAMMY FAYE</title>
+		<microhd>3AD8830F39E169E8748A4E16D5C0F23440729426</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>d6c3c8172acc2807cf65d5987fb798440dd0b946</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/iBjkm6oxTPrvNkzr63cmnrpsQPR.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/rskVKmBb83u7qbaASCxyJyLevkq.jpg</fanart>
+		<date>2021</date>
+		<genre>Drama</genre>
+		<extra>Estreno</extra>
+		<info>Biopic del extraordinario ascenso, caída y redención de la telepredicadora evangelista Tammy Faye Bakker. En los años 70 y 80, Tammy Faye y su marido, Jim Bakker, pusieron en pie prácticamente de la nada la red de cadenas religiosas más grande del mundo, así como un parque temático, y gozaron de una inmensa popularidad gracias a sus mensajes de amor, aceptación y prosperidad. Tammy Faye era legendaria por sus pestañas indestructibles, su original forma de cantar y su generosidad a la hora de acoger a personas de todo tipo. Pero no pasó mucho tiempo antes de que las irregularidades financieras, las rivalidades e intrigas y los escándalos derrocaran un imperio construido con gran meticulosidad.</info>
+	</item>
+	<item>
 		<title>LOS PITUFOS 2</title>
 		<microhd>a82a3450e385ec8d89c8f3a5074422595e6a4363</microhd>
 		<fullhd>NA</fullhd>
@@ -9320,6 +9424,19 @@
 		<genre>Infantil</genre>
 		<extra>NA</extra>
 		<info>Un banquero regresa al Magic Camp al que asistió cuando era niño.</info>
+	</item>
+	<item>
+		<title>MAIXABEL</title>
+		<microhd>4CDD465A755D16EE71692306326683631E60F9A5</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/lQfKSDS7f1rsmg20B1YPmLBWgiw.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/7P8MrCJfAeKrzbfrv5AEU1tvJfE.jpg</fanart>
+		<date>2021</date>
+		<genre>Drama</genre>
+		<extra>Estreno</extra>
+		<info>Maixabel Lasa pierde en el año 2000 a su marido, Juan María Jaúregui, asesinado por ETA. Once años más tarde, recibe una petición insólita: uno de los asesinos ha pedido entrevistarse con ella en la cárcel de Nanclares de la Oca /Álava), en la que cumple condena tras haber roto sus lazos con la banda terrorista. A pesar de las dudas y del inmenso dolor, Maixabel accede a encontrarse cara a cara con las personas que acabaron a sangre fría con la vida de quien había sido su compañero desde los dieciséis años.</info>
 	</item>
 	<item>
 		<title>MALASAÑA 32</title>
@@ -10449,7 +10566,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/jgD9qBVXvT6cpcf0ip9DYN2e6Nx.jpg</fanart>
 		<date>2021</date>
 		<genre>Comedia. Drama. Ciencia ficción</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Kate Dibiasky (Jennifer Lawrence), estudiante de posgrado de Astronomía, y su profesor, el doctor Randall Mindy (Leonardo DiCaprio) hacen un descubrimiento asombroso: hay un cometa en órbita en el sistema solar. ¿El problema? Que lleva un rumbo de colisión directa con la Tierra. ¿El otro problema? Que a nadie le importa. Al parecer, advertir a la humanidad sobre un mata planetas del tamaño del Everest resulta incómodo. Con la ayuda del doctor Oglethorpe (Rob Morgan), Kate y Randall emprenden una gira mediática que los lleva desde el despacho de la indiferente presidenta Orlean (Meryl Streep) y su servil hijo y jefe de gabinete, Jason (Jonah Hill), a la emisión de 'The Daily Rip', un animado programa matinal presentado por Brie (Cate Blanchett) y Jack (Tyler Perry). Solo quedan seis meses para el impacto del cometa, pero gestionar el flujo de noticias y ganarse la atención de un público obsesionado con las redes sociales antes de que sea demasiado tarde resulta sorprendentemente cómico. ¡¿Pero qué es lo que hay que hacer para que el mundo mire hacia arriba?!</info>
 	</item>
 	<item>
@@ -10659,6 +10776,19 @@
 		<genre>Thriller. Drama</genre>
 		<extra>Mis</extra>
 		<info>A un ejecutivo publicitario (Josh Brolin) lo secuestran y lo mantienen aislado durante veinte años. Cuando por fin lo liberan, sin darle ninguna explicación, se lanza a una búsqueda obsesiva para descubrir quién orquestó un castigo tan cruel y extraño, pero lo que acaba descubriendo es que sigue siendo víctima de una conspiración.</info>
+	</item>
+	<item>
+		<title>OLD HENRY</title>
+		<microhd>NA</microhd>
+		<fullhd>08c6d798180e66d202c2795f247395512eb7f2ed</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>e05a498de43a17ac6bdd4df7e32609df64a508b2</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/6glEtU0OGWPGfa7YaFY9fiYldJq.jpg</fanart>
+		<date>2021</date>
+		<genre>Accion</genre>
+		<extra>Estreno</extra>
+		<info>Oklahoma, 1906. Henry, un granjero viudo padre de un hijo, acoge a un hombre herido de bala que ha aparecido junto a una bolsa con dinero. Cuando unos pistoleros llegan a la granja buscando al hombre, Henry deberá decidir en quién confiar. </info>
 	</item>
 	<item>
 		<title>ONWARD</title>
@@ -11545,6 +11675,19 @@
 		<info>En un mundo en el que las marionetas coexisten con los humanos como ciudadanos de segunda clase, un títere que trabaja como detective privado, Phil Phillips, trata de seguir la pista del asesino de su hermano, que amenaza también con eliminar uno por uno a los miembros de un famoso show de los 80. La siguiente en la lista es un viejo amor de Phil, Jenny (Elizabeth Banks), lo que le empuja a pedir ayuda a su antigua compañera de trabajo, la detective Connie Edwards (Melissa McCarthy). La investigación llevará a ambos a un descubrimiento que cambiará para siempre el mundo de los moñecos.</info>
 	</item>
 	<item>
+		<title>QUIERO QUE VUELVAS</title>
+		<microhd>NA</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>4822ad00b2b30ca2e216a2f1fca0a8a9000731ba</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/jIVYu8GlxughoV9PBWjxf1MVSrH.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/qfKVvAjIKCocpjTAjxT6WkAA3MG.jpg</fanart>
+		<date>2022</date>
+		<genre>Comedia</genre>
+		<extra>Estreno</extra>
+		<info>Peter y Emma, de treinta y tantos años, se unen para sabotear las nuevas relaciones de sus ex y recuperarlos para siempre.</info>
+	</item>
+	<item>
 		<title>RAIN MAN</title>
 		<microhd>NA</microhd>
 		<fullhd>NA</fullhd>
@@ -11853,7 +11996,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/o76ZDm8PS9791XiuieNB93UZcRV.jpg</fanart>
 		<date>2021</date>
 		<genre>Terror</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Nueva adaptación al cine de los videojuegos de Capcom. La que fue una pujante ciudad sede del gigante farmacéutico Umbrella Corporation, Raccoon City, es ahora un pueblo agonizante del Medio Oeste. El éxodo de la compañía dejó a la ciudad convertida en un erial… con un gran mal gestándose bajo la superficie. Cuando ese mal se desata, un grupo de supervivientes deben unirse para destapar la verdad detrás de Umbrella y sobrevivir a la noche.</info>
 	</item>
 	<item>
@@ -12208,6 +12351,19 @@
 		<info>Jigsaw está de vuelta. En esta ocasión atrapará a cinco personas y las enfrentará en una serie de juegos sangrientos como castigo por sus delitos. Al mismo tiempo tiene lugar una investigación en la que científicos forenses tratan de encontrar y capturar al asesino, con la sospecha de que alguien del equipo puede ser el responsable.</info>
 	</item>
 	<item>
+		<title>SCHUMACHER</title>
+		<microhd>7AC80393C2966DB8E65108AD6F1C56A57A2C3FCF</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/ucNYfsbX1Z4tjMSr3waxsHMVjve.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/vH6AjOPNGkbefw9pk1v51D1uvRp.jpg</fanart>
+		<date>2021</date>
+		<genre>Accion</genre>
+		<extra>Estreno</extra>
+		<info>Documental sobre el legendario piloto Michael Schumacher (Alemania, 1969), siete veces campeón del mundo de Fórmula 1. El film contiene grabaciones privadas de la familia de Schumacher, escenas de las carreras de F1 y numerosas entrevistas.</info>
+	</item>
+	<item>
 		<title>SCOOBY</title>
 		<microhd>dbf1c7b36befb39e59c4432a4b3f14ef2d72df03</microhd>
 		<fullhd>44cb1d1b523726b4b427ccf77695811cb00fc0e2</fullhd>
@@ -12490,7 +12646,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/cjcEZW4DzJgdzF3MeA9XhIdq4z5.jpg</fanart>
 		<date>2021</date>
 		<genre>Thriller. Acción</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Un departamento del Sheriff corrupto de un pequeño pueblo de montaña queda al descubierto cuando un testigo involuntario pone en peligro la operación.</info>
 	</item>
 	<item>
@@ -13144,6 +13300,19 @@
 		<info>Desde una galaxia remota, un recién nacido es enviado por sus padres al espacio debido a la inminente destrucción del planeta donde viven. La nave aterriza en la Tierra, y el niño es adoptado por unos granjeros que le inculcan los mejores valores humanos. Con los años el joven se irá a Metrópolis y allí usará sus poderes sobrenaturales para luchar contra el mal.</info>
 	</item>
 	<item>
+		<title>SUPERNOVA</title>
+		<microhd>NA</microhd>
+		<fullhd>7d296c335e4ed0b7b7455d2919f0d4b7193ef140</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/r9qLFOeYALaFCoPDb7EsYtPAOIU.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/egEdk5kC4UKnl9dIO0dbtMXlH2w.jpg</fanart>
+		<date>2020</date>
+		<genre>Drama</genre>
+		<extra>NA</extra>
+		<info>Sam y Tusker son pareja desde hace 20 años. Sam (Firth) es pianista. Tusker (Tucci), escritor. Viajan a través de Inglaterra en su vieja furgoneta visitando a amigos, familiares y lugares de su pasado. Desde que a Tusker hace dos años le diagnosticaran alzheimer en su fase temprana, el tiempo que pasan juntos es lo más importante que tienen.</info>
+	</item>
+	<item>
 		<title>SUSPIRIA</title>
 		<microhd>007dc23ec166eb6ea1c30e76c35e448948520177</microhd>
 		<fullhd>NA</fullhd>
@@ -13482,6 +13651,19 @@
 		<info>El ex-soldado de operaciones especiales Pete Koslow trabaja como infiltrado del FBI en la mafia polaca. Pero tras una venta de droga que acaba con un policía muerto, ahora se ve obligado por parte de la mafia a entrar en la cárcel donde cumplió 4 años de condena, para manejar desde dentro el tráfico de drogas. Y lo hará porque es la única manera de salvarse a él, a su mujer y a su hija.</info>
 	</item>
 	<item>
+		<title>THE KING'S MAN: LA PRIMERA MISION</title>
+		<microhd>A5A79AE4378F9D98B53ADCC7334DBD0C9A04906D</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>960923392b436ce68ee324044155df21c8faaedd</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/st9X9hGfMTs8VhwMmeHJOQ7vrUw.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/6qkeXdIEwqOuOWuxsomwnin2RdD.jpg</fanart>
+		<date>2021</date>
+		<genre>Thriller. Acción. Comedia. Saga</genre>
+		<extra>Estreno</extra>
+		<info>Cuando un grupo formado por los tiranos y las mentes criminales más malvadas de la historia se une para desencadenar una guerra que matará a millones de personas, un hombre tendrá que luchar a contrarreloj para detenerlos. Tercera entrega de la saga 'Kingsman', ambientada muchos años antes de las anteriores y explicando el origen de la agencia.</info>
+	</item>
+	<item>
 		<title>THE LAUNDROMAT: DINERO SUCIO</title>
 		<microhd>af4df49e5ce8a0bc1824286d4f6701ef4383ce95</microhd>
 		<fullhd>NA</fullhd>
@@ -13714,6 +13896,19 @@
 		<genre>Comedia</genre>
 		<extra>NA</extra>
 		<info>Dos artistas del engaño, una de clase alta y la otra de los barrios bajos, deciden unirse para timar a los hombres... Remake de la comedia de 1988 'Dirty Rotten Scoundrels'. </info>
+	</item>
+	<item>
+		<title>TITANE</title>
+		<microhd>NA</microhd>
+		<fullhd>4b02d0abddbd8381b72153b6762e4449b8eeceb4</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/eQsm56ZxUdVlRpybspa9XzgCX3a.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/zEddiBK6yZNUGVnmBJzmnYcEWiR.jpg</fanart>
+		<date>2021</date>
+		<genre>Thriller. Drama. Ciencia ficción </genre>
+		<extra>Estreno</extra>
+		<info>Un joven con la cara magullada es descubierto en un aeropuerto. Dice llamarse Adrien Legrand, un niño que desapareció hace 10 años. Para su padre, Vincent, esto supone el final de una larga pesadilla y lo lleva a casa. Por otra parte, en la región se han sucedido una serie de horribles asesinatos.</info>
 	</item>
 	<item>
 		<title>TOC TOC</title>
@@ -14156,6 +14351,19 @@
 		<genre>Accion. Thriller </genre>
 		<extra>NA</extra>
 		<info>Cuenta la historia de Tyler Rake (Hemsworth), un mercenario que ofrece sus servicios en el mercado negro, y al que contratan para una peligrosa misión: rescatar al hijo secuestrado de un capo de la mafia india que se encuentra en prisión. En el turbio submundo de los traficantes de armas y los narcos, una misión que se preveía letal pasa a convertirse en un desafío prácticamente imposible que cambiará para siempre las vidas de Tyler y el chico</info>
+	</item>
+	<item>
+		<title>ULTIMA NOCHE EN EL SOHO</title>
+		<microhd>NA</microhd>
+		<fullhd>0e05273f1a2da2596ebbc331b8c9f10f49ea04b4</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/4eSJJsBZ00qMyoWLe98ulNGvGbC.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/92kY5MVHMOf3vmKmkk50Kwg1g9I.jpg</fanart>
+		<date>2021</date>
+		<genre>Thriller. Terror. Fantástico</genre>
+		<extra>Estreno</extra>
+		<info>Thriller psicológico sobre una joven apasionada por la moda que, misteriosamente, es capaz de trasladarse a los años 60 y conocer a su ídolo, una deslumbrante aspirante a cantante. Pero el Londres de la época no es lo que parece y el tiempo parece desmoronarse con oscuras consecuencias...</info>
 	</item>
 	<item>
 		<title>UN AMIGO EN MENTE</title>
