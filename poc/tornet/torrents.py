@@ -125,7 +125,7 @@ def menupeliculas(item):
     ))
 
     itemlist.append(item.clone(
-        label="Listado por sagas",
+        label="Por sagas",
         action="sagas",
         content_type='movies',
         type="item",
@@ -133,7 +133,7 @@ def menupeliculas(item):
     ))
 
     itemlist.append(item.clone(
-        label="Listado por calidad",
+        label="Por calidad",
         action="calidad",
         content_type='movies',
         type="item",
@@ -141,7 +141,7 @@ def menupeliculas(item):
     ))
 
     itemlist.append(item.clone(
-        label="Listado por géneros",
+        label="Por géneros",
         action="generos",
         content_type='movies',
         type="item",
@@ -149,7 +149,7 @@ def menupeliculas(item):
     ))
 
     itemlist.append(item.clone(
-        label="Listado por años",
+        label="Por años",
         action="years",
         content_type='movies',
         type="item",
@@ -157,7 +157,7 @@ def menupeliculas(item):
     ))
 
     itemlist.append(item.clone(
-        label="Listado alfabético",
+        label="Por letra (A-Z)",
         action="alfabeto",
         content_type='movies',
         type="item",
@@ -220,7 +220,7 @@ def last(item):
         ur1 = 'https://raw.githubusercontent.com/pepemebe/mag/main/poc/actu.xml'
         dat1 = httptools.downloadpage(ur1).data
     
-    dat1 = re.sub(r"\n|\r|\t|<b>|\s{2}|&nbsp;", "", dat1)
+    dat1 = re.sub(r"\n|\r|\t|<b>|\s{2}| ", "", dat1)
     patro1 = r'<title>([^<]+)</'
     
     for tit in scrapertools.find_multiple_matches(dat1, patro1):
@@ -235,7 +235,7 @@ def last(item):
         ur0 = host
         dat2 = httptools.downloadpage(ur0).data
     
-    dat2 = re.sub(r"\n|\r|\t|<b>|\s{2}|&nbsp;", "", dat2)
+    dat2 = re.sub(r"\n|\r|\t|<b>|\s{2}| ", "", dat2)
     patro2 = r'<item.*?<title>([^<]+)</.*?<micro(.*?)/cuatrok>.*?<thumbnail>([^<]+)</.*?<fanart>' \
              r'([^<]+)</.*?<date>([^<]+)</.*?<info>([^<]+)</'
 
@@ -277,7 +277,7 @@ def movies(item):
         url = host
         data = httptools.downloadpage(url).data
 
-    data = re.sub(r"\n|\r|\t|<b>|\s{2}|&nbsp;", "", data)
+    data = re.sub(r"\n|\r|\t|<b>|\s{2}| ", "", data)
 
     patron = r'<item.*?<title>([^<]+)</.*?<micro(.*?)/cuatrok>.*?<thumbnail>([^<]+)</.*?<fanart>' \
              r'([^<]+)</.*?<date>([^<]+)</.*?<info>([^<]+)</'
@@ -458,7 +458,7 @@ def search(item):
         url = host
         data = httptools.downloadpage(url).data
 
-    data = re.sub(r"\n|\r|\t|<b>|\s{2}|&nbsp;", "", data)
+    data = re.sub(r"\n|\r|\t|<b>|\s{2}| ", "", data)
 
     patron = r'<item.*?<title>([^<]+)</.*?<micro(.*?)/cuatrok>.*?<thumbnail>([^<]+)</.*?<fanart>' \
              r'([^<]+)</.*?<date>([^<]+)</.*?<genre>([^<]+)</.*?<info>([^<]+)</'
@@ -637,7 +637,7 @@ def selection(item):
         url = host
         data = httptools.downloadpage(url).data
 
-    data = re.sub(r"\n|\r|\t|<b>|\s{2}|&nbsp;", "", data)
+    data = re.sub(r"\n|\r|\t|<b>|\s{2}| ", "", data)
 
     patron = r'<item.*?<title>([^<]+)</.*?<micro(.*?)/cuatrok>.*?<thumbnail>([^<]+)</.*?<fanart>' \
              r'([^<]+)</.*?<date>([^<]+)</.*?<extra>([^<]+)</.*?<info>([^<]+)</'
@@ -680,7 +680,7 @@ def sagas(item):
 
     url = 'https://raw.githubusercontent.com/pepemebe/mag/main/poc/sag'
     data = httptools.downloadpage(url).data
-    data = re.sub(r"\n|\r|\t|\(|\)|<b>|\s{2}|&nbsp;", "", data)
+    data = re.sub(r"\n|\r|\t|\(|\)|<b>|\s{2}| ", "", data)
 
     for s in scrapertools.find_multiple_matches(data, r" '(.*?)',"):
         r = s
@@ -710,7 +710,7 @@ def years(item):
         url = host
         data = httptools.downloadpage(url).data
 
-    data = re.sub(r"\n|\r|\t|\(|\)|<b>|\s{2}|&nbsp;", "", data)
+    data = re.sub(r"\n|\r|\t|\(|\)|<b>|\s{2}| ", "", data)
 
     for year in scrapertools.find_multiple_matches(data, r'<date>([^<]+)</'):
         year = year.upper()
@@ -744,7 +744,7 @@ def findvideos(item):
         url = host
         data = httptools.downloadpage(url).data
 
-    data = re.sub(r"\n|\r|\t|\(|\)|\¿|\?|<b>|\s{2}|&nbsp;", "", data)
+    data = re.sub(r"\n|\r|\t|\(|\)|\¿|\?|<b>|\s{2}| ", "", data)
     item.lab =re.sub(r"\(|\)|\¿|\?", "", item.lab)
 
     patron = r'<item.*?<title>%s</.*?tle>(.*?)<thumb' % item.lab
