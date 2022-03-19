@@ -26,17 +26,15 @@ QLT = Qualities({
     Qualities.uhd: ['cuatrok']
 })
 
-#HOST = 'https://gitlab.com/stiletto1/s/-/raw/main/c'
 source = httptools.downloadpage('https://raw.githubusercontent.com/pepemebe/mag/main/poc/ult').data
 host = scrapertools.find_single_match(source, r'<host>([^<]+)<')
 
-runtime_path = translatePath(xbmcaddon.Addon(id="plugin.video.mediaexplorer").getAddonInfo('Path')).rstrip(os.sep)
 data_path = translatePath(xbmcaddon.Addon(id="plugin.video.mediaexplorer").getAddonInfo('Profile'))
 
 try:
-    actu_xml = os.path.join(runtime_path, 'actu.xml')
-    last_xml = os.path.join(runtime_path, 'last.xml')
-    las0_xml = os.path.join(runtime_path, 'las0.xml')
+    actu_xml = os.path.join(data_path, 'actu.xml')
+    last_xml = os.path.join(data_path, 'last.xml')
+    las0_xml = os.path.join(data_path, 'las0.xml')
     
     if os.path.exists(actu_xml) == False:
         dat1 = httptools.downloadpage('https://raw.githubusercontent.com/pepemebe/mag/main/poc/actu.xml', timeout=2).data
@@ -127,7 +125,7 @@ def menupeliculas(item):
     ))
 
     itemlist.append(item.clone(
-        label="Sagas",
+        label="Listado por sagas",
         action="sagas",
         content_type='movies',
         type="item",
@@ -135,7 +133,15 @@ def menupeliculas(item):
     ))
 
     itemlist.append(item.clone(
-        label="Géneros",
+        label="Listado por calidad",
+        action="calidad",
+        content_type='movies',
+        type="item",
+        group=True
+    ))
+
+    itemlist.append(item.clone(
+        label="Listado por géneros",
         action="generos",
         content_type='movies',
         type="item",
@@ -196,10 +202,6 @@ def last(item):
     auxlist = set()
 
     try:
-        actu_xml = os.path.join(runtime_path, 'actu.xml')
-        last_xml = os.path.join(runtime_path, 'last.xml')
-        las0_xml = os.path.join(runtime_path, 'las0.xml')
-        
         diff = filecmp.cmp(las0_xml, last_xml, shallow=False)
         
         if diff == False:
@@ -212,13 +214,13 @@ def last(item):
         None
 
     try:
-        actu_xml = os.path.join(runtime_path, 'actu.xml')
+        actu_xml = os.path.join(data_path, 'actu.xml')
         dat1 = open(actu_xml).read()
     except:
         ur1 = 'https://raw.githubusercontent.com/pepemebe/mag/main/poc/actu.xml'
         dat1 = httptools.downloadpage(ur1).data
     
-    dat1 = re.sub(r"\n|\r|\t|<b>|\s{2}| ", "", dat1)
+    dat1 = re.sub(r"\n|\r|\t|<b>|\s{2}|&nbsp;", "", dat1)
     patro1 = r'<title>([^<]+)</'
     
     for tit in scrapertools.find_multiple_matches(dat1, patro1):
@@ -227,13 +229,13 @@ def last(item):
             auxlist.add(title)
 
     try:
-        las0_xml = os.path.join(runtime_path, 'las0.xml')
+        las0_xml = os.path.join(data_path, 'las0.xml')
         dat2 = open(las0_xml).read()
     except:
-        ur0 = 'https://gitlab.com/stiletto1/s/-/raw/main/c'
+        ur0 = host
         dat2 = httptools.downloadpage(ur0).data
     
-    dat2 = re.sub(r"\n|\r|\t|<b>|\s{2}| ", "", dat2)
+    dat2 = re.sub(r"\n|\r|\t|<b>|\s{2}|&nbsp;", "", dat2)
     patro2 = r'<item.*?<title>([^<]+)</.*?<micro(.*?)/cuatrok>.*?<thumbnail>([^<]+)</.*?<fanart>' \
              r'([^<]+)</.*?<date>([^<]+)</.*?<info>([^<]+)</'
 
@@ -269,13 +271,13 @@ def movies(item):
     alea = "LA" if item.label == "Selección aleatoria" else "NO"
 
     try:
-        las0_xml = os.path.join(runtime_path, 'las0.xml')
+        las0_xml = os.path.join(data_path, 'las0.xml')
         data = open(las0_xml).read()
     except:
         url = host
         data = httptools.downloadpage(url).data
 
-    data = re.sub(r"\n|\r|\t|<b>|\s{2}| ", "", data)
+    data = re.sub(r"\n|\r|\t|<b>|\s{2}|&nbsp;", "", data)
 
     patron = r'<item.*?<title>([^<]+)</.*?<micro(.*?)/cuatrok>.*?<thumbnail>([^<]+)</.*?<fanart>' \
              r'([^<]+)</.*?<date>([^<]+)</.*?<info>([^<]+)</'
@@ -417,19 +419,46 @@ def alfabeto(item):
     return itemlist
 
 
+def calidad(item):
+    logger.info()
+    itemlist = []
+    aux = set()
+
+    calidad = {
+        'cuatrok': '4K',
+        'tresd': '3D',
+        'fullhd': 'FullHD',
+        'microhd': 'MicroHD',
+        'sd': 'SD'
+        }
+
+    for cal in sorted(calidad):
+        if not QLT.get(cal) in aux:
+            aux.add(QLT.get(cal))
+            itemlist.append(item.clone(
+                title=calidad[cal] if QLT.get(cal) != QLT.get('fullhd') else 'FullHD / MicroHD',
+                query=cal,
+                quality=QLT.get(cal),
+                lab='c',
+                action='search'
+            ))
+
+    return sorted(itemlist, key=lambda i: i.quality.level, reverse=True)
+
+
 @LimitResults
 def search(item):
     logger.trace()
     itemlist = list()
 
     try:
-        las0_xml = os.path.join(runtime_path, 'las0.xml')
+        las0_xml = os.path.join(data_path, 'las0.xml')
         data = open(las0_xml).read()
     except:
         url = host
         data = httptools.downloadpage(url).data
 
-    data = re.sub(r"\n|\r|\t|<b>|\s{2}| ", "", data)
+    data = re.sub(r"\n|\r|\t|<b>|\s{2}|&nbsp;", "", data)
 
     patron = r'<item.*?<title>([^<]+)</.*?<micro(.*?)/cuatrok>.*?<thumbnail>([^<]+)</.*?<fanart>' \
              r'([^<]+)</.*?<date>([^<]+)</.*?<genre>([^<]+)</.*?<info>([^<]+)</'
@@ -456,8 +485,6 @@ def search(item):
         if 'LA SIRENITA ( TRILOGIA )' in tit:
             tit2 = normalizar('CLASICOS DE DISNEY LA SIRENITA ( TRILOGIA )')
             year = 'VARIOS'
-        
-        #cals = set()
 
         if 'MEN IN BLACK' in tit or 'CICLO CLINT EASTWOOD' in tit or 'CLASICOS DE DISNEY' in tit \
             or 'CHARLOT' in tit or 'DEADPOOL' in tit or 'LA CENICIENTA. TRILOGIA' in tit \
@@ -553,6 +580,22 @@ def search(item):
                     quality=sorted(list(cals), key=lambda i: i.level, reverse=True)
                 ))
 
+        elif item.lab == 'c':
+            if QLT.get(item.query.lower()) in list(cals):
+                itemlist.append(item.clone(
+                    title=title,
+                    type='movie',
+                    lab=tit,
+                    cal=item.query,
+                    poster=poster,
+                    fanart=fanart,
+                    lang=LNG.get('es'),
+                    year=year.upper(),
+                    content_type='servers',
+                    action='findvideos',
+                    quality=item.quality
+                ))
+
         else:
             if item.query.lower() in title.lower():
                 itemlist.append(item.clone(
@@ -588,13 +631,13 @@ def selection(item):
         item.com = 'Culto'
 
     try:
-        las0_xml = os.path.join(runtime_path, 'las0.xml')
+        las0_xml = os.path.join(data_path, 'las0.xml')
         data = open(las0_xml).read()
     except:
         url = host
         data = httptools.downloadpage(url).data
 
-    data = re.sub(r"\n|\r|\t|<b>|\s{2}| ", "", data)
+    data = re.sub(r"\n|\r|\t|<b>|\s{2}|&nbsp;", "", data)
 
     patron = r'<item.*?<title>([^<]+)</.*?<micro(.*?)/cuatrok>.*?<thumbnail>([^<]+)</.*?<fanart>' \
              r'([^<]+)</.*?<date>([^<]+)</.*?<extra>([^<]+)</.*?<info>([^<]+)</'
@@ -637,7 +680,7 @@ def sagas(item):
 
     url = 'https://raw.githubusercontent.com/pepemebe/mag/main/poc/sag'
     data = httptools.downloadpage(url).data
-    data = re.sub(r"\n|\r|\t|\(|\)|<b>|\s{2}| ", "", data)
+    data = re.sub(r"\n|\r|\t|\(|\)|<b>|\s{2}|&nbsp;", "", data)
 
     for s in scrapertools.find_multiple_matches(data, r" '(.*?)',"):
         r = s
@@ -661,13 +704,13 @@ def years(item):
     aux = set()
 
     try:
-        las0_xml = os.path.join(runtime_path, 'las0.xml')
+        las0_xml = os.path.join(data_path, 'las0.xml')
         data = open(las0_xml).read()
     except:
         url = host
         data = httptools.downloadpage(url).data
 
-    data = re.sub(r"\n|\r|\t|\(|\)|<b>|\s{2}| ", "", data)
+    data = re.sub(r"\n|\r|\t|\(|\)|<b>|\s{2}|&nbsp;", "", data)
 
     for year in scrapertools.find_multiple_matches(data, r'<date>([^<]+)</'):
         year = year.upper()
@@ -695,13 +738,13 @@ def findvideos(item):
     itemlist = list()
 
     try:
-        las0_xml = os.path.join(runtime_path, 'las0.xml')
+        las0_xml = os.path.join(data_path, 'las0.xml')
         data = open(las0_xml).read()
     except:
         url = host
         data = httptools.downloadpage(url).data
 
-    data = re.sub(r"\n|\r|\t|\(|\)|\¿|\?|<b>|\s{2}| ", "", data)
+    data = re.sub(r"\n|\r|\t|\(|\)|\¿|\?|<b>|\s{2}|&nbsp;", "", data)
     item.lab =re.sub(r"\(|\)|\¿|\?", "", item.lab)
 
     patron = r'<item.*?<title>%s</.*?tle>(.*?)<thumb' % item.lab
@@ -713,8 +756,21 @@ def findvideos(item):
             cal = QLT.get('sd')
         else:
             cal = QLT.get(calidad)
-            
-        if url != 'NA':
+
+        if item.cal and cal != QLT.get('sd'):
+            if url != 'NA' and QLT.get(item.cal.lower()) == QLT.get(calidad):
+                itemlist.append(item.clone(
+                    action="play",
+                    url='magnet:?xt=urn:btih:' + url,
+                    quality=cal,
+                    poster=item.poster,
+                    fanart=item.fanart,
+                    lang=item.lang,
+                    type='server',
+                    server='torrent'
+                ))
+
+        elif url != 'NA':
             itemlist.append(item.clone(
                 action="play",
                 url='magnet:?xt=urn:btih:' + url,
