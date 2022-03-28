@@ -450,6 +450,7 @@ def calidad(item):
 def search(item):
     logger.trace()
     itemlist = list()
+    aux = set()
 
     try:
         las0_xml = os.path.join(data_path, 'las0.xml')
@@ -462,6 +463,13 @@ def search(item):
 
     patron = r'<item.*?<title>([^<]+)</.*?<micro(.*?)/cuatrok>.*?<thumbnail>([^<]+)</.*?<fanart>' \
              r'([^<]+)</.*?<date>([^<]+)</.*?<genre>([^<]+)</.*?<info>([^<]+)</'
+    
+    if item.lab == 's':
+        urs = 'https://raw.githubusercontent.com/pepemebe/mag/main/poc/cor'
+        dats = httptools.downloadpage(urs).data
+
+        for s in scrapertools.find_multiple_matches(dats, r" '(.*?)',"):
+            aux.add(s)
     
     for tit, calidades, poster, fanart, year, genre, plot in scrapertools.find_multiple_matches(
         data, patron):
@@ -486,12 +494,10 @@ def search(item):
             tit2 = normalizar('CLASICOS DE DISNEY LA SIRENITA ( TRILOGIA )')
             year = 'VARIOS'
 
-        if 'MEN IN BLACK' in tit or 'CICLO CLINT EASTWOOD' in tit or 'CLASICOS DE DISNEY' in tit \
-            or 'CHARLOT' in tit or 'DEADPOOL' in tit or 'LA CENICIENTA. TRILOGIA' in tit \
-            or 'WONDER WOMAN' in tit or 'TRANSFORMERS' in tit or 'EL REY LEON' in tit \
-            or 'LA SIRENITA ( TRILOGIA )' in tit or 'LA PURGA' in tit in tit or 'HOTEL TRANSILVANIA' in tit \
-            or 'RESIDENT EVIL' in tit:
-            genre = genre + ' Saga'
+        if item.lab == 's':
+            for s in aux:
+                if s in tit:
+                    genre = genre + ' Saga'
         if 'PRIMER VENGADOR' in tit:
             year = '2011'
         if year == '1019':
