@@ -202,6 +202,10 @@ def last(item):
     auxlist = set()
 
     try:
+        actu_xml = os.path.join(data_path, 'actu.xml')
+        last_xml = os.path.join(data_path, 'last.xml')
+        las0_xml = os.path.join(data_path, 'las0.xml')
+        
         diff = filecmp.cmp(las0_xml, last_xml, shallow=False)
         
         if diff == False:
@@ -763,7 +767,7 @@ def findvideos(item):
         else:
             cal = QLT.get(calidad)
 
-        if item.cal and cal != QLT.get('sd'):
+        if item.cal:
             if url != 'NA' and QLT.get(item.cal.lower()) == QLT.get(calidad):
                 itemlist.append(item.clone(
                     action="play",

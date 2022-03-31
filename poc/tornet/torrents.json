@@ -7,6 +7,10 @@
   ],
   "changes": [
     {
+      "date": "31/03/2022",
+      "description": "Cambios menores y corrección de bugs."
+    },
+    {
       "date": "28/03/2022",
       "description": "Optimizar código Saga externalizando."
     },
@@ -114,5 +118,5 @@
   "thumb": "https://github.com/pepemebe/mag/raw/main/img/thumb/torrents.png",
   "fanart": "https://github.com/pepemebe/mag/raw/main/img/fanart/torrents.jpg",
   "settings": [],
-  "version": 27
+  "version": 28
 }
