@@ -5,7 +5,7 @@
     "mod_version": 0,
     "files": {
         "modules": [
-            "mainmenu.py"
+            "mainmenu"
         ],
         "channels": [
             "torrents",
