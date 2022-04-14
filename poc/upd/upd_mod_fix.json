@@ -4,20 +4,15 @@
     "fix_version": 0,
     "mod_version": 0,
     "files": {
-        "0": [
-            "modules",
+        "modules": [
             "mainmenu.py"
         ],
-        "1": [
-            "channels",
-            "torrents.py",
-            "torrents.json",
-            "pelitorrent.py",
-            "pelitorrent.json"
+        "channels": [
+            "torrents",
+            "pelitorrent"
         ],
-        "2": [
-            "platformcode",
-            "updater.py"
+        "platformcode": [
+            "updater"
         ]
         
     }
