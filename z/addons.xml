@@ -64,7 +64,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.balandro" name="Balandro" version="2.2.5.01" provider-name="Balandro Team">
+<addon id="plugin.video.balandro" name="Balandro" version="2.3.0" provider-name="Balandro Team">
   <requires>
      <import addon="script.module.requests"/>
   </requires>
@@ -79,20 +79,15 @@
       <icon>icon.png</icon>
     </assets>
     <news>
-    [COLOR yellow]Mod Abril 2022[/COLOR]
+    [COLOR yellow]Mayo 2022[/COLOR]
       Agradecimientos:
         Cita destacada a los miembros de Team
         Mencion especial al grupo de Checkers
-      Canales modificados:
-        Revision generalizada
-      Canales anulados:
-        Sin novedades
-      Canales nuevos:
-        Sin novedades
-      Servidores modificados:
-        Revision generalizada
-      Servidores nuevos:
-        Sin novedades
+      Canales modificados: Revision generalizada
+      Canales anulados: Las Webs Cerradas
+      Canales nuevos: Peliculas y Series, Torrents, Doramas, Animes, Adultos
+      Servidores modificados: Revision generalizada
+      Servidores nuevos: Varios
     [COLOR darkorange]Media Centers soportados[COLOR plum][B][I] 19.X, 18.X y 17.X [/I][/B][/COLOR]
     </news>
     <summary>Balandro es un navegador de páginas webs</summary>
