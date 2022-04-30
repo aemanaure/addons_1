@@ -64,7 +64,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.balandro" name="Balandro" version="2.3.0" provider-name="Balandro Team">
+<addon id="plugin.video.balandro" name="Balandro" version="2.3.0.01" provider-name="Balandro Team">
   <requires>
      <import addon="script.module.requests"/>
   </requires>
@@ -79,7 +79,7 @@
       <icon>icon.png</icon>
     </assets>
     <news>
-    [COLOR yellow]Mayo 2022[/COLOR]
+    [COLOR yellow]Mod Mayo 2022[/COLOR]
       Agradecimientos:
         Cita destacada a los miembros de Team
         Mencion especial al grupo de Checkers
