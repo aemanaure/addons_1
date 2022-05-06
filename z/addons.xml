@@ -64,7 +64,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.balandro" name="Balandro" version="2.3.0.02" provider-name="Balandro Team">
+<addon id="plugin.video.balandro" name="Balandro" version="2.3.1.01" provider-name="Balandro Team">
   <requires>
      <import addon="script.module.requests"/>
   </requires>
@@ -85,9 +85,9 @@
         Mencion especial al grupo de Checkers
       Canales modificados: Revision generalizada
       Canales anulados: Las Webs Cerradas
-      Canales nuevos: Peliculas y Series, Torrents, Doramas, Animes, Adultos
+      Canales nuevos: Sin novedades
       Servidores modificados: Revision generalizada
-      Servidores nuevos: Varios
+      Servidores nuevos: Sin novedades
     [COLOR darkorange]Media Centers soportados[COLOR plum][B][I] 19.X, 18.X y 17.X [/I][/B][/COLOR]
     </news>
     <summary>Balandro es un navegador de páginas webs</summary>
