@@ -64,7 +64,7 @@
 	</extension>
 </addon>
 
-<addon id="plugin.video.balandro" name="Balandro" version="2.3.1.01" provider-name="Balandro Team">
+<addon id="plugin.video.balandro" name="Balandro" version="2.3.2.01" provider-name="Balandro Team">
   <requires>
      <import addon="script.module.requests"/>
   </requires>
@@ -79,16 +79,24 @@
       <icon>icon.png</icon>
     </assets>
     <news>
-    [COLOR yellow]Mod Mayo 2022[/COLOR]
-      Agradecimientos:
+    [COLOR yellow][B]Mod Mayo 2022[/B][/COLOR]
+    [COLOR gold][B]Version 2.3.2[/B][/COLOR]
+
+    [COLOR blue][B]Agradecimientos:[/B][/COLOR]
         Cita destacada a los miembros de Team
         Mencion especial al grupo de Checkers
-      Canales modificados: Revision generalizada
-      Canales anulados: Las Webs Cerradas
-      Canales nuevos: Sin novedades
-      Servidores modificados: Revision generalizada
-      Servidores nuevos: Sin novedades
-    [COLOR darkorange]Media Centers soportados[COLOR plum][B][I] 19.X, 18.X y 17.X [/I][/B][/COLOR]
+
+    [COLOR cyan][B]Canales:[/B][/COLOR]
+        Revision generalizada
+        Nuevos - sin novedades
+        Anulados - las webs cerradas
+
+    [COLOR springgreen][B]Servidores:[/B][/COLOR]
+        Revision generalizada
+        Anulados - las webs cerradas
+        Nuevos - sin novedades
+
+    [COLOR darkorange]Media Centers soportados[COLOR plum][B][I]  20.x,  19.x,  18.x  y  17.x [/I][/B][/COLOR]
     </news>
     <summary>Balandro es un navegador de páginas webs</summary>
     <description>[COLOR yellow][B]Balandro es un MOD derivado de Pelisalacarta y Alfa,[COLOR mediumaquamarine] y Tiene Como Objeto, Permitir Visualizar Películas, Series y Documentales, Todo a Través de Internet y Directamente Desde su Sistema Media Center. [COLOR orchid]Este Add-On es Tan Solo un Mero Ejercicio de Aprendizaje Del Lenguaje de Programación Python y se Distribuye Sin Ningún Contenido Multimedia Adjunto al Mismo [COLOR lightgrey][I]En Consecuencia Solo Las Webs Son Plenamente Responsables de Los Contenidos Que Publiquen.[/I][/B][/COLOR]</description>
