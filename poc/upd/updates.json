@@ -1,0 +1,76 @@
+{
+    "files": {
+        "core": [
+            "proxytools", 
+            "httptools"
+        ], 
+        "lib": [
+            "decrypters"
+        ], 
+        "modules": [
+            "filters", 
+            "search", 
+            "tester", 
+            "proxysearch", 
+            "helper", 
+            "generos", 
+            "mainmenu"
+        ], 
+        "root dir": [
+            "version"
+        ], 
+        "servers": [
+            "streamz", 
+            "uptobox", 
+            "fastream", 
+            "streamlare", 
+            "doodstream", 
+            "playtube"
+        ], 
+        "channels": [
+            "repelishd", 
+            "mejortorrents", 
+            "entrepeliculasyseries", 
+            "playdede", 
+            "cinecalidad3", 
+            "elitetorrent", 
+            "mundokaos", 
+            "cinecalidadla", 
+            "hentaisd", 
+            "espapelis", 
+            "inkapelis", 
+            "moviesdvdr", 
+            "123pelis", 
+            "mundodesconocido", 
+            "newpct1", 
+            "mejortorrentapp", 
+            "subtorrents", 
+            "pornhd", 
+            "pelisflix3", 
+            "seriesflix3", 
+            "ennovelas", 
+            "mejortorrentla", 
+            "watchpornfree", 
+            "cuevana3video", 
+            "series24", 
+            "dilo", 
+            "tubehentai", 
+            "cinecalidadlol", 
+            "cinecalidad", 
+            "srnovelas", 
+            "pelis28", 
+            "mejortorrentnz", 
+            "pasateatorrent", 
+            "dontorrents", 
+            "verdetorrent", 
+            "grantorrent", 
+            "seriesretro", 
+            "pornhub", 
+            "peliseries", 
+            "elitetorrentnz"
+        ]
+    }, 
+    "addon_version": "2.3.2", 
+    "fix_version": 8, 
+    "hash": "d941f4fae72407ca81acad6730cb50dd"
+}
