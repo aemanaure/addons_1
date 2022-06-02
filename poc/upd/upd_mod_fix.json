@@ -1,19 +1,18 @@
 {
-    "hash": "d448ab80b66971a3af32620a07848a67",
-    "addon_version": "2.3.3.01",
-    "fix_version": 0,
-    "mod_version": 0,
+    "addon_version": "2.3.3.01", 
     "files": {
+        "channels": [
+            "pelitorrent", 
+            "torrents"
+        ], 
         "modules": [
             "mainmenu"
-        ],
-        "channels": [
-            "torrents",
-            "pelitorrent"
-        ],
+        ], 
         "platformcode": [
             "updater"
         ]
-        
-    }
+    }, 
+    "fix_version": 0, 
+    "hash": "b1a29eccc5d7431b7bebe3ffc26c2467", 
+    "mod_version": 0
 }
