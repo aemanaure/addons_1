@@ -665,7 +665,7 @@ def selection(item):
         if 'ANIMALES FANTASTICOS' in tit and ':' in tit:
             title = title.split(': ')[1].strip()
         
-        if extra == item.com or item.com == 'last':
+        if item.com in extra or item.com == 'last':
             itemlist.append(item.clone(
                 title=title,
                 type='movie',
