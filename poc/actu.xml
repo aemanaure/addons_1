@@ -586,10 +586,10 @@
 	</item>
 	<item>
 		<title>AMBULANCE: PLAN DE HUIDA</title>
-		<microhd>NA</microhd>
-		<fullhd>DEA3317EB1275A27A56E7B3EEFEA2A6F601F8DB6</fullhd>
+		<microhd>66cbf1e3dd6c0a147c0b186c38eeac8015b615bc</microhd>
+		<fullhd>dea3317eb1275a27a56e7b3eefea2a6f601f8db6</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>6415296542ebb5ebf0320207b0213dd5b34d86a4</cuatrok>
 		<thumbnail>https://www.themoviedb.org/t/p/original/hUbgg3mMSbY9PlpTxBo4IFUVSd6.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/192vHmAPbk5esL34XMKZ1YLGFjr.jpg</fanart>
 		<date>2022</date>
@@ -713,32 +713,6 @@
 		<genre>Aventuras. Drama</genre>
 		<extra>NA</extra>
 		<info>Narra la vida del legendario explorador noruego Roald Amundsen (1872-1928), un hombre que estuvo obsesionado con conquistar las zonas polares. Dirigió la expedición a la Antártida que por primera vez alcanzó el Polo Sur.</info>
-	</item>
-	<item>
-		<title>ANIMALES FANTASTICOS LOS CRIMENES DE GRINDELWALD</title>
-		<microhd>949c046f39a79189ae6b2a38602c854d99691c38</microhd>
-		<fullhd>83e1a34298ad3837cbc852e3d25e9ecc090cc2a6</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>3b166998f4354a733a657ca1af9e7f6ee978e072</cuatrok>
-		<thumbnail>https://image.tmdb.org/t/p/original/zs6LFuE4aB1I8crKjAhlPVTHAOS.jpg</thumbnail>
-		<fanart>https://image.tmdb.org/t/p/original/wDN3FIcQQ1HI7mz1OOKYHSQtaiE.jpg</fanart>
-		<date>2018</date>
-		<genre>Infantil.Fantastico. Aventuras</genre>
-		<extra>NA</extra>
-		<info>Cumpliendo con su amenaza, Grindelwald escapa de su custodia y ha comenzado a reunir seguidores, la mayoría de los cuales no sospechan sus verdaderas intenciones: alzar a los magos purasangre para reinar sobre todas las criaturas no mágicas. En un esfuerzo por frustrar los planes de Grindelwald, Albus Dumbledore (Jude Law) recluta a su antiguo estudiante Newt Scamander, quien accede a prestar su ayuda, sin conocer los peligros que aguardan. Las líneas quedan marcadas mientras el amor y la lealtad son puestos a prueba, incluso entre los amigos más cercanos y la familia, en un mundo mágico cada vez más dividido.</info>
-	</item>
-	<item>
-		<title>ANIMALES FANTASTICOS: LOS SECRETOS DE DUMBLEDORE</title>
-		<microhd>NA</microhd>
-		<fullhd>9150766af2d131400c85a3c2ff32b3a8306e44f9</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>3f6c63fee1f13a455eee8a3b87af0267d9f15f7b</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/yOeuJdwag4bAlnvgrdweRoiuXGC.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/mZ3dl55cY8xtbzX06MOh31pV84Y.jpg</fanart>
-		<date>2022</date>
-		<genre>Fantástico. Aventuras. Saga</genre>
-		<extra>Estreno</extra>
-		<info>El profesor Albus Dumbledore (Jude Law) sabe que el poderoso mago oscuro Gellert Grindelwald (Mads Mikkelsen) está haciendo planes para apoderarse del mundo mágico. Incapaz de detenerlo él solo, confía en el Magizoólogo Newt Scamander (Eddie Redmayne) para dirigir un intrépido equipo de magos, brujas y un valiente panadero Muggle en una misión peligrosa, donde se encuentran con antiguos y nuevos animales y se enfrentan a una legión cada vez más numerosa de seguidores de Grindelwald. Hay mucho en juego así que nos preguntamos hasta cuándo podrá permanecer Dumbledore al margen. </info>
 	</item>
 	<item>
 		<title>ANIQUILACION</title>
@@ -3172,6 +3146,19 @@
 		<info>Los doce miembros de un jurado deben juzgar a un adolescente acusado de haber matado a su padre. Todos menos uno están convencidos de la culpabilidad del acusado. El que disiente intenta con sus razonamientos introducir en el debate una duda razonable que haga recapacitar a sus compañeros para que cambien el sentido de su voto.</info>
 	</item>
 	<item>
+		<title>DOCTOR STRANGE EN EL MULTIVERSO DE LA LOCURA</title>
+		<microhd>688eea73acc37f01c5d6d5e5de1d29689797d881</microhd>
+		<fullhd>81c48f7736f6c50e806ce61769ce4ad423d741c9</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>0d7c26a2a420dc4629b27716dcb8f542f59ede97</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/vThe85YlGE5r7fqEVFePETqnWzk.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/AdyJH8kDm8xT8IKTlgpEC15ny4u.jpg</fanart>
+		<date>2022</date>
+		<genre>Fantástico. Acción. Terror</genre>
+		<extra>Estreno</extra>
+		<info>Viaja a lo desconocido con el Doctor Strange, quien, con la ayuda de tanto antiguos como nuevos aliados místicos, recorre las complejas y peligrosas realidades alternativas del multiverso para enfrentarse a un nuevo y misterioso adversario.</info>
+	</item>
+	<item>
 		<title>DOCTOR SUEÑO</title>
 		<microhd>aed7de3124119b15f4818223c9e30a4752eb5c62</microhd>
 		<fullhd>7d8fc46a6bf609763545323e808aad10a14f198a</fullhd>
@@ -3391,6 +3378,19 @@
 		<genre>Infantil</genre>
 		<extra>NA</extra>
 		<info>Una joven zarigüeya se equivoca a la hora de pedir un deseo y congela toda su ciudad natal de Sanctuary City, amenazando así la vida de todos sus habitantes.</info>
+	</item>
+	<item>
+		<title>EL ARMA DEL ENGAÑO (OPERATION MINCEMEAT)</title>
+		<microhd>NA</microhd>
+		<fullhd>a597664fa90231296b701882f018240c8606529f</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>fe872b153403fb4af815e46a9ac7236d3deb653e</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/lmIibRnjWDg56Rsx0KY1Y1U0wok.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/jCSpD2Sj67qOVnOu4b3JsXl8NO4.jpg</fanart>
+		<date>2021</date>
+		<genre>Bélico. Drama</genre>
+		<extra>Estreno</extra>
+		<info>Año 1943, en plena II Guerra Mundial. Las fuerzas aliadas están decididas a lanzar un asalto definitivo en Europa. Pero se enfrentan un desafío importante: proteger durante la invasión a sus tropas de la potencia de fuego alemana, y así evitar una posible masacre. Dos brillantes oficiales de inteligencia, Ewen Montagu (Firth) y Charles Cholmondeley, son los encargados de establecer la estrategia de desinformación más inspirada e improbable de la guerra... Una historia inspirada en hechos reales basada en un 'bestseller' de Ben Macintyre.</info>
 	</item>
 	<item>
 		<title>EL ASESINO DE LOS CAPRICHOS</title>
@@ -3783,6 +3783,19 @@
 		<info>Cuando pasas de los 45 años, puede parecer que ya has hecho todo en la vida: un marido, dos hijos, un perro y una casa bonita con jardín. Pero... ¿eso es todo? ¿Así? ¿Y qué hay de ti en esa ecuación sin nombre? ¿Dónde estás tú y tus deseos? Cuando eres un adolescente, tienes toda la vida por delante. Tiempo para casarte, tener un par de hijos, un gato, y una casa bonita con jardín. Pero... ¿y si no tienes ni idea de qué hacer? ¿no sabes qué camino escoger? ¿Y nadie te ayuda a encontrar el camino? Ana y Eric. Eric y Ana. Los dos están perdidos. No tienen ni idea de qué hacer con el resto de sus vidas. Un día se conocen en un chat de sexo.</info>
 	</item>
 	<item>
+		<title>EL DUQUE</title>
+		<microhd>NA</microhd>
+		<fullhd>714205c2af43e1d074678d83c1f30f1d5488678c</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/hjYNzmpgU1bRV3xUHdNfcI6wrhE.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/dq6M58VE5mQhLJ2rFEZLNAmrWxz.jpg</fanart>
+		<date>2021</date>
+		<genre>Comedia. Drama</genre>
+		<extra>Estreno</extra>
+		<info>En 1961, Kempton Bunton, un taxista de 60 años, robó el retrato del duque de Wellington, de Francisco de Goya, de la National Gallery de Londres. Fue el primer (y sigue siendo el único) robo de la historia de la galería. Kempton envió notas de rescate diciendo que devolvería la pintura a condición de que el gobierno invirtiera más en el cuidado de los ancianos. Lo que sucedió a continuación se convirtió en algo legendario.</info>
+	</item>
+	<item>
 		<title>EL ESCANDALO</title>
 		<microhd>c7b579f1560deb58856032ec95eb58d5c1759d9a</microhd>
 		<fullhd>5738918008138fb36a6a127666801d6e20a3effc</fullhd>
@@ -3837,7 +3850,7 @@
 	<item>
 		<title>EL EXORCISTA</title>
 		<microhd>9bccb08b887c7051dc2db8758b394aa9a5e4fe89</microhd>
-		<fullhd>b82112620c4c944e393df90be28c5a62f5d20aa7</fullhd>
+		<fullhd>b920b1d7210c010af0d991fc7a65eea57fc0c167</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>NA</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/lNlWuDxf3EvnbpNCMc7zVtpEQAC.jpg</thumbnail>
@@ -4054,6 +4067,19 @@
 		<genre>Intriga. Terror</genre>
 		<extra>Culto. Estreno</extra>
 		<info>Una carta que hace sospechar que una joven desaparecida ha sido asesinada lleva al sargento Howie de Scotland Yard hasta Summerisle, una isla en la costa de Inglaterra. Allí el inspector se entera de que hay una especie de culto pagano, y conoce a Lord Summerisle, el líder religioso de la isla...</info>
+	</item>
+	<item>
+		<title>EL HOMBRE DE TORONTO</title>
+		<microhd>9f397807a288506f840df9069ebf1b7727b190d9</microhd>
+		<fullhd>f98f5068c827733e30add87e2d2d59587a7267c7</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/ogLJ4HZUsRZlydxldhNGJVcBm5c.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/v1qxK4kSMAdE2HICDh637vGETVD.jpg</fanart>
+		<date>2022</date>
+		<genre>Comedia. Acción</genre>
+		<extra>Estreno</extra>
+		<info>El asesino más mortal del mundo es conocido como "El hombre de Toronto", y Teddy es el mayor desastre de Nueva York. Ambos se encontrarán en un Airbnb y el destino les obliga a formar equipo para salvarse. ¿Conseguirán aguantarse el uno al otro?</info>
 	</item>
 	<item>
 		<title>EL HOMBRE DEL AGUA</title>
@@ -5984,7 +6010,7 @@
 		<microhd>3da821314e32cbc0160238a60858475e05c6e29a</microhd>
 		<fullhd>6c8f02c55a11e4ad13d53517f55e46905619befd</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>d82b94996bd7e95b5f7415df7e550b071f1b3e52</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/q6PSTBNlI9WtfuMlngz82yaudUg.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/v99NrmuSYn4HGwwpHWEkMVSeAL3.jpg</fanart>
 		<date>2019</date>
@@ -6318,6 +6344,19 @@
 		<info>Cuando dos hombres que viajan por el desierto descubren el pedrusco de oro más grande que han visto en su vida, empiezan a soñar con la riqueza que les traerá, pero la avaricia toma las riendas. Tienen que extraer el oro de la tierra y para ello trazan un plan en el que uno de ellos tiene que ir a por el equipo necesario y el otro se tiene que quedar allí solo a su suerte. </info>
 	</item>
 	<item>
+		<title>GORKY PARK</title>
+		<microhd>NA</microhd>
+		<fullhd>9f3e8cd2af15e5f3b0e84f5163eb9022170d5e93</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/elFLQIzkbgLZgAykmqPvhYzQJqy.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/dI7U0PNBOcCypF2VXiyqz6fEwte.jpg</fanart>
+		<date>1983</date>
+		<genre>Intriga</genre>
+		<extra>Mis</extra>
+		<info>Tres cadáveres desfigurados aparecen en el parque Gorky, en el centro de Moscú. El detective de policía Arkady Renko se hace cargo de la investigación, pero tropieza con ciertas trabas burocráticas. Por otra parte, el estado de los cuerpos, que presentan numerosas mutilaciones, impide que sean identificados. A medida que la investigación avanza, Renko empieza a sospechar que ciertos miembros de las altas esferas políticas están relacionados con estos asesinatos. Una historia de intriga, espionaje y romance durante la época de la Guerra Fría. </info>
+	</item>
+	<item>
 		<title>GORRION ROJO</title>
 		<microhd>3fe4ea4290d9b5276d0e957ab2854d0b159a11bc</microhd>
 		<fullhd>NA</fullhd>
@@ -6549,6 +6588,19 @@
 		<genre>Infantil.Fantastico. Aventuras.Saga</genre>
 		<extra>NA</extra>
 		<info>Cumpliendo con su amenaza, Grindelwald escapa de su custodia y ha comenzado a reunir seguidores, la mayoría de los cuales no sospechan sus verdaderas intenciones: alzar a los magos purasangre para reinar sobre todas las criaturas no mágicas. En un esfuerzo por frustrar los planes de Grindelwald, Albus Dumbledore (Jude Law) recluta a su antiguo estudiante Newt Scamander, quien accede a prestar su ayuda, sin conocer los peligros que aguardan. Las líneas quedan marcadas mientras el amor y la lealtad son puestos a prueba, incluso entre los amigos más cercanos y la familia, en un mundo mágico cada vez más dividido.</info>
+	</item>
+	<item>
+		<title>HARRY POTTER : ANIMALES FANTASTICOS: LOS SECRETOS DE DUMBLEDORE</title>
+		<microhd>3f6c63fee1f13a455eee8a3b87af0267d9f15f7b</microhd>
+		<fullhd>9150766af2d131400c85a3c2ff32b3a8306e44f9</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>3f6c63fee1f13a455eee8a3b87af0267d9f15f7b</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/yOeuJdwag4bAlnvgrdweRoiuXGC.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/mZ3dl55cY8xtbzX06MOh31pV84Y.jpg</fanart>
+		<date>2022</date>
+		<genre>Fantástico. Aventuras. Saga</genre>
+		<extra>Estreno</extra>
+		<info>El profesor Albus Dumbledore (Jude Law) sabe que el poderoso mago oscuro Gellert Grindelwald (Mads Mikkelsen) está haciendo planes para apoderarse del mundo mágico. Incapaz de detenerlo él solo, confía en el Magizoólogo Newt Scamander (Eddie Redmayne) para dirigir un intrépido equipo de magos, brujas y un valiente panadero Muggle en una misión peligrosa, donde se encuentran con antiguos y nuevos animales y se enfrentan a una legión cada vez más numerosa de seguidores de Grindelwald. Hay mucho en juego así que nos preguntamos hasta cuándo podrá permanecer Dumbledore al margen. </info>
 	</item>
 	<item>
 		<title>HARRY POTTER : Y EL CALIZ DE FUEGO</title>
@@ -8293,6 +8345,19 @@
 		<info>Sara ha estado sola toda su vida. Tiene 22 años y un bebé, su deseo es formar una familia junto a su hermano pequeño y el padre de su hijo. Su padre, Manuel, tras años de ausencia y al salir de la cárcel, decide reaparecer en sus vidas. Sara sabe que él es el principal obstáculo en sus planes y toma una decisión difícil: alejarlo de ella y de su hermano.</info>
 	</item>
 	<item>
+		<title>LA ILUSIONES PERDIDAS</title>
+		<microhd>NA</microhd>
+		<fullhd>e5e3f65bb76eda292ab029d310a5f4220803136f</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/ruDJwvNAyDPzc4tYAJFpFXiAfAf.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/hNYWEgCDlQQo9jAclDmwLmH4sAo.jpg</fanart>
+		<date>2021</date>
+		<genre>Drama. Comedia</genre>
+		<extra>Estreno</extra>
+		<info>Lucien es un joven poeta desconocido en la Francia del siglo XIX. Tiene grandes esperanzas y quiere forjar su destino. Deja la imprenta familiar de su provincia natal para probar suerte en París del brazo de su mecenas. Rápidamente abandonado a su suerte en esta fabulosa ciudad, el joven descubrirá lo que ocurre entre bastidores en este mundo consagrado a la ley del beneficio y el fingimiento. Una adaptación de la novela de Honoré de Balzac "Les illusions perdues".</info>
+	</item>
+	<item>
 		<title>LA INCREIBLE HISTORIA DE DAVID COPPERFIELD</title>
 		<microhd>5f07b9b833ee6cdd50f41b05181299c56416a912</microhd>
 		<fullhd>9799395d4568cfaffce544b602f0e222507e7b61</fullhd>
@@ -9773,6 +9838,19 @@
 		<genre>Aventuras. Drama</genre>
 		<extra>Culto</extra>
 		<info>Japón, Siglo XVI. Una aldea de campesinos indefensos es repetidamente atacada y saqueada por una banda de forajidos. Aconsejados por el anciano de la aldea, unos aldeanos acuden a la ciudad con el objetivo de contratar a un grupo de samuráis para protegerlos. A pesar de que el único salario es comida y techo, varios samuráis se van incorporando uno a uno al singular grupo que finalmente se dirige a la aldea.</info>
+	</item>
+	<item>
+		<title>LOS TIPOS MALOS</title>
+		<microhd>NA</microhd>
+		<fullhd>B4CF065EC013B2CEC2A307F9BC27BB4B8E8C664C</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/wFdwJh3fbhp5aiRbQelVz1mbbwP.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/9IDJpHROaC0S1ZlIxrvzOcOX5yC.jpg</fanart>
+		<date>2022</date>
+		<genre>Infantil</genre>
+		<extra>Estreno</extra>
+		<info>Cuenta la historia de cinco famosos delincuentes que tratan de realizar su empresa más complicada hasta la fecha: portarse bien. Se basa en los libros ilustrados homónimos de Aaron Blabey.</info>
 	</item>
 	<item>
 		<title>LOVING PABLO</title>
@@ -13945,6 +14023,19 @@
 		<genre>Ciencia ficción. Aventuras</genre>
 		<extra>Mis</extra>
 		<info>Año 1979, en una pequeña población de Ohio. Joe Lamb (Joel Courtney), un muchacho que vive en un pueblo de Ohio, acaba de perder a su madre en un accidente y vive con su padre, que es policía (Kyle Chandler). Meses después, durante el verano, Joe y sus amigos ruedan una película de zombis en Super 8 cuando contempla cómo una camioneta se estrella contra un tren de mercancías, provocando su descarrilamiento y un terrible accidente. A partir de ese momento cosas extrañas e inexplicables comienzan a suceder en el pueblo.</info>
+	</item>
+	<item>
+		<title>SUPERACION: LA HISTORIA DE LA FAMILIA ANTETOKOUNMPO</title>
+		<microhd>e5741a3f8e63de83ae39c41c4d49c308debf00b8</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/pBrjWoIKhkOhCyBI4To0CIbUgiC.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/uL0BFgdNKwgR2JEhH1wssjcmGzM.jpg</fanart>
+		<date>2022</date>
+		<genre>Drama</genre>
+		<extra>Estreno</extra>
+		<info>Sigue a la familia Antetokounmpo mientras confían en la fe, la determinación y su vínculo inquebrantable para salir de una vida de pobreza como inmigrantes indocumentados que viven en Grecia.</info>
 	</item>
 	<item>
 		<title>SUPERLOPEZ</title>
