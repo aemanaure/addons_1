@@ -28,10 +28,10 @@
 	</item>
 	<item>
 		<title>12 VALIENTES</title>
-		<microhd>a58dc0c32a9c49275c960455e77f05acb1c31e62</microhd>
+		<microhd>de2b15fb8025c99ad80a8c9f4ff8809b739c5c7c</microhd>
 		<fullhd>75cf493c9c064af33dca51397a97fb6b486ada7a</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>1f7b4c39694d11b7eefc265f383842ac4e6b940d</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/8YcjGJtW4AEHyNH8yrs8FAaPBM.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/x5EUEv1N9g4BCX9GQXKvv3nqMVo.jpg</fanart>
 		<date>2018</date>
@@ -93,10 +93,10 @@
 	</item>
 	<item>
 		<title>2001:  UNA ODISEA EN EL ESPACIO</title>
-		<microhd>NA</microhd>
+		<microhd>0ff31d6b8396fe0cf713db829c62dd73308c2bbc</microhd>
 		<fullhd>00bb8d9afb1f811f49a1284683731efc7ebe2cbf</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
+		<cuatrok>8d5a20db24c0c8352c8918609479de9513a5946a</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/sln50uQYigvu5AvN72JfYfu1ckq.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/spoZUN4X1KiOc5S0plOyGAXLNtb.jpg</fanart>
 		<date>1968</date>
@@ -287,7 +287,7 @@
 	</item>
 	<item>
 		<title>ADU</title>
-		<microhd>7791b9f9112eee561892f146664e26340966ae1a</microhd>
+		<microhd>5fc15bc996a4bceb4495470b163af005d13ce6bd</microhd>
 		<fullhd>f925127f442c0c385efaced119b1558a9ed7de41</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>NA</cuatrok>
@@ -698,7 +698,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/abbFJvlNGPIIywT3VsktG3Rzgia.jpg</fanart>
 		<date>2022</date>
 		<genre>Comedia</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>A José Luis (Quim Gutiérrez) acaban de dejarlo plantado en el altar, y por si esto fuera poco, Mari Carmen (Carmen Machi), su madre, se ha empeñado en acompañarlo a la luna de miel con la excusa de no perder el dinero. Cada minuto que pasan en Mauricio, José Luis se siente más infeliz y fracasado, mientras que Mari Carmen se lo pasa como nunca, viviendo todas las experiencias que siempre había deseado y revelándose como la maravillosa mujer que es en realidad, y que su familia no ve.</info>
 	</item>
 	<item>
@@ -934,6 +934,19 @@
 		<genre>Intriga. Drama</genre>
 		<extra>NA</extra>
 		<info>Durante un viaje en el legendario tren Orient Express, el detective belga Hercules Poirot investiga un asesinato cometido en el trayecto, y a resultas del cual todos los pasajeros del tren son sospechosos del mismo.</info>
+	</item>
+	<item>
+		<title>ASESINO INVISIBLE (THE CAR)</title>
+		<microhd>E222D12DF6E7A25CBA5566FEC592C0F243821F26</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/s0mlM93D2A9XyItnJHBzF0qHH6L.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/sEku5PGhCZFvVxyuIG7PYPAsloc.jpg</fanart>
+		<date>1977</date>
+		<genre>Terror. Thriller</genre>
+		<extra>Mis</extra>
+		<info>El Sheriff Wade Parent (James Brolin) debe encontrar el modo de detener un enorme coche negro, aparentemente indestructible, que tiene aterrorizados a los habitantes de un pequeño pueblo de Nuevo México. Nadie conoce el origen del coche, quién lo conduce o cómo pararlo.</info>
 	</item>
 	<item>
 		<title>ASTERIX EL SECRETO DE LA POCION MAGICA</title>
@@ -1777,7 +1790,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/fh5N9m1ZKiSiT1T1kPzV3rbeARs.jpg</fanart>
 		<date>2022</date>
 		<genre>Comedia</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Quesada, Julián, Marimar, Cañizares, Victoria y compañía se enfrentarán a una crisis que está a punto de hundir la empresa y, lo que es peor, deberá salvarla su nuevo director, que es nada más y nada menos que el rey del escaqueo, Quesada.</info>
 	</item>
 	<item>
@@ -2232,8 +2245,21 @@
 		<fanart>https://www.themoviedb.org/t/p/original/qK7Ssnrfvrt65F66A1thvehfQg2.jpg</fanart>
 		<date>2022</date>
 		<genre>Infantil</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Treinta años después, las estrellas de las series de animación de Disney de los años 1990, Chip y Chop, viven en Los Ángeles entre dibujos animados y humanos. Chip lleva una vida rutinaria y hogareña como vendedor de seguros, mientras que Chop se ha hecho la cirugía 3D y se dedica a explotar la nostalgia de convención en convención, desesperado por revivir sus días de gloria. Cuando un antiguo compañero de reparto desaparece misteriosamente, Chip y Chop se ven obligados a recuperar la amistad perdida y a hacer de detectives una vez más como Guardianes Rescatadores para salvar a su amigo.</info>
+	</item>
+	<item>
+		<title>CHRISTINE</title>
+		<microhd>NA</microhd>
+		<fullhd>3C11F631254A2EED5BC5EE506757A7C3A5C2EBA1</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/bWi3Cjg8gkf5h3xgU91CVtxkjUc.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/3ZDTjZ8bUwA8p9aDydBC8nkf3MO.jpg</fanart>
+		<date>1983</date>
+		<genre>Terror. Fantástico</genre>
+		<extra>Mis</extra>
+		<info>Christine es un Plymouth Fury de 1958 que salió de una cadena de montaje de automóviles de Detroit, pero no es un coche cualquiera. En el fondo de su chasis se aloja el mismísimo diablo, que alberga un deseo de venganza insaciable que hiela la sangre a cualquiera y destruye todo lo que encuentra en su camino.</info>
 	</item>
 	<item>
 		<title>CHRISTOPHER-ROBIN</title>
@@ -2934,7 +2960,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/y50zJUQOP5NmdUj8vsyeSSar14B.jpg</fanart>
 		<date>2021</date>
 		<genre>Comedia</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Francia, 1789, justo antes de la Revolución Francesa. Con la ayuda de una mujer inesperada, un chef que ha sido despedido por su jefe encuentra el valor para abrir un restaurante por sí solo. </info>
 	</item>
 	<item>
@@ -4065,7 +4091,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/kXpej2jwz7mUk5IcMkxdAfwoo3D.jpg</fanart>
 		<date>1973</date>
 		<genre>Intriga. Terror</genre>
-		<extra>Culto. Estreno</extra>
+		<extra>Culto</extra>
 		<info>Una carta que hace sospechar que una joven desaparecida ha sido asesinada lleva al sargento Howie de Scotland Yard hasta Summerisle, una isla en la costa de Inglaterra. Allí el inspector se entera de que hay una especie de culto pagano, y conoce a Lord Summerisle, el líder religioso de la isla...</info>
 	</item>
 	<item>
@@ -4108,6 +4134,19 @@
 		<info>Año 1942: El tercer Reich está en su máximo apogeo. La resistencia checa en Londres decide planear la operación militar más ambiciosa de la Segunda Guerra Mundial: Antropoide. Dos jóvenes reclutas, Jozef Gabcik (Jack Reynor) y Jan Kubis (Jack O’Connell) son enviados a Praga para intentar asesinar al líder nazi más cruel, Reinhard Heydrich (Jason Clarke), jefe de las temidas SS, la Gestapo y artífice de la “Solución Final”. </info>
 	</item>
 	<item>
+		<title>EL HOMBRE DEL NORTE</title>
+		<microhd>NA</microhd>
+		<fullhd>ff53eb0ae6b0a53e328848e7836bc52072b6f315</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>cb7d46cce12134c072e48c87b3f5c1c35dda1593</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/rdx0bIkwxW3EHvWn5kxZBFUT1Am.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/wlLYqhnaNKy7S9UGL2Q4bNAIrKF.jpg</fanart>
+		<date>2022</date>
+		<genre>Aventuras. Acción. Drama</genre>
+		<extra>Estreno</extra>
+		<info>El príncipe Amleth está a punto de convertirse en hombre pero, en ese momento, su tío asesina brutalmente a su padre y secuestra a la madre del niño. Dos décadas después, Amleth es un vikingo que tiene la misión de salvar a su madre.</info>
+	</item>
+	<item>
 		<title>EL HOMBRE INVISIBLE</title>
 		<microhd>c393c6250346f7cdb5bbbde450c646d34d3e4c6c</microhd>
 		<fullhd>12a759df0b7703acb525f425824041e84d91a68b</fullhd>
@@ -4132,6 +4171,19 @@
 		<genre>Aventuras. Comedia</genre>
 		<extra>NA</extra>
 		<info>oby, un director de cine muy cínico, se ve envuelto en los estrafalarios delirios de un viejo zapatero español que se cree el mismo Don Quijote. A lo largo de sus aventuras cómicas, y cada vez más surrealistas, Toby se ve abocado a enfrentarse con las trágicas repercusiones de la película que rodó cuando era un joven idealista, una película que cambió los sueños y esperanzas de un pequeño pueblo español para siempre. ¿Podrá Toby reparar los daños y recuperar su propia humanidad? ¿Podrá Don Quijote sobrevivir a su propia locura y muerte inminente? ¿El amor lo conquistará todo?</info>
+	</item>
+	<item>
+		<title>EL HOMBRE TRANQUILO</title>
+		<microhd>978B14E0EFD216F17CBD193CB2AC62A03BE1D4A6</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/h2gCTz7JtldSnNbmDbDMaZ6y54y.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/9Ql4HLrmaVu7adIIuu7yMQWsCYe.jpg</fanart>
+		<date>1952</date>
+		<genre>Comedia. Romance</genre>
+		<extra>Mis</extra>
+		<info>Sean Thornton (John Wayne), un boxeador norteamericano, regresa a su Irlanda natal para recuperar su granja y olvidar su pasado. Nada más llegar se enamora de Mary Kate Danaher (Maureen O'Hara), una chica muy temperamental, aunque para conseguirla deberá luchar contra las costumbres locales, como el pago de la dote, y, además, contra la oposición del hermano de su prometida (Victor McLaglen).</info>
 	</item>
 	<item>
 		<title>EL HOYO</title>
@@ -4329,6 +4381,19 @@
 		<info>Biopic sobre Richard Williams, un padre inasequible al desaliento que ayudó a formar a dos de las deportistas más extraordinarias de todos los tiempos, dos atletas que acabarían marcando época en el deporte del tenis. Richard tenía una visión muy clara del futuro de sus hijas, y sirviéndose de métodos arriesgados y poco convencionales, elaboró un plan que llevaría a Venus y Serena Williams de las calles de Compton, California, al olimpo del deporte, convirtiéndolas en iconos del tenis.</info>
 	</item>
 	<item>
+		<title>EL MILAGRO DEL PADRE STU</title>
+		<microhd>NA</microhd>
+		<fullhd>ed27f8205632cf4d4339ebf1e9b2463a30213f58</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>4682f9122b97559ad161657a93ce59ffd95e3dc1</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/hQ7rObRPHpLwyfz0a2wasTAXfSK.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/rmhMB6KBxdSYatfiFoas60uF6Fc.jpg</fanart>
+		<date>2022</date>
+		<genre>Drama </genre>
+		<extra>Estreno</extra>
+		<info>La historia real de un boxeador convertido en sacerdote. Cuando una lesión pone fin a su carrera como boxeador amateur, Stuart Long se muda a Los Ángeles en busca de dinero y fama. Mientras se las arregla como empleado de un supermercado, conoce a Carmen, una maestra de escuela dominical que parece inmune a su encanto de chico malo. Decidido a ganársela, el agnóstico de toda la vida comienza a ir a la iglesia para impresionarla. Sin embargo, un accidente de motocicleta lo deja preguntándose si puede usar su segunda oportunidad para ayudar a otros, lo que lo lleva a darse cuenta de que está destinado a ser un sacerdote católico.</info>
+	</item>
+	<item>
 		<title>EL MISTERIO DEL DRAGON</title>
 		<microhd>90d124db1f88c25c6a6ae27fb75da6f8cfa28a67</microhd>
 		<fullhd>5637c59325a0da0490b21f410615522f3f27bdb5</fullhd>
@@ -4340,6 +4405,19 @@
 		<genre>Fantástico. Aventuras. Acción</genre>
 		<extra>NA</extra>
 		<info>El cartógrafo inglés Jonathan Green recibe la orden de crear un mapa de la lejana Rusia. En su largo viaje, Jonathan vivirá todo tipo de aventuras, desde enfrentamientos con extrañas criaturas y batallas con maestros en artes marciales hasta brujas milenarias ocultas en los rincones más recónditos de la legendaria China. Pero todas las pruebas parecerán un juego de niños cuando tenga que enfrentarse al mayor de los enemigos jamás creado por la magia negra: el gran Rey de los Dragones.</info>
+	</item>
+	<item>
+		<title>EL MUNDO ES VUESTRO</title>
+		<microhd>NA</microhd>
+		<fullhd>a560505d9e9947f2cb7118a48e488d7d870bd00a</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/htzdiCe0WBFxCCcRk45aD65SuRn.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/rN4SV1I4o3OY76BgTwO0AXY44kW.jpg</fanart>
+		<date>2022</date>
+		<genre>Comedia</genre>
+		<extra>Estreno</extra>
+		<info>Rafi (Alfonso Sánchez), completamente arruinado, se cuela en la montería organizada por la Marquesa que reúne a toda la alta sociedad española para venderles su negocio y dar el pelotazo por fin. Dentro está Fali (Alberto López), que ha sido reprogramado, y ya no es un compadre. Juntos descubrirán que la montería no es lo que parece, y que en la finca se está decidiendo el futuro de España.</info>
 	</item>
 	<item>
 		<title>EL NIÑO QUE DOMO EL VIENTO</title>
@@ -4431,6 +4509,19 @@
 		<genre>Drama</genre>
 		<extra>NA</extra>
 		<info>Anthony (Anthony Hopkins), un hombre de 80 años mordaz, algo travieso y que tercamente ha decidido vivir solo, rechaza todos y cada uno de las cuidadoras que su hija Anne (Olivia Colman) intenta contratar para que le ayuden en casa. Está desesperada porque ya no puede visitarle a diario y siente que la mente de su padre empieza a fallar y se desconecta cada vez más de la realidad. Anne sufre la paulatina pérdida de su padre a medida que la mente de éste se deteriora, pero también se aferra al derecho a vivir su propia vida.</info>
+	</item>
+	<item>
+		<title>EL PADRE DE LA NOVIA</title>
+		<microhd>NA</microhd>
+		<fullhd>e5eba98959c08511237034912501ab8f51a7a7e8</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/wuhRy3B36plwnAxAUKD0AgzZC7a.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/oQMqMLIJXZAVMplga9RhDyZInAW.jpg</fanart>
+		<date>2022</date>
+		<genre>Comedia. Drama. Romance</genre>
+		<extra>Estreno</extra>
+		<info>Billy e Ingrid llevan mucho tiempo casados y les sorprende que su hija mayor, Sofía, vuelva a Miami de visita. Pero las sorpresas continúan cuando ella les presenta a su nuevo novio, Adan, y les dice que están pensando mudarse a México. Nueva versión de 'El padre de la novia' (1991) ahora protagonizada por una familia latina que vive en Estados Unidos.</info>
 	</item>
 	<item>
 		<title>EL PADRINO</title>
@@ -5314,7 +5405,7 @@
 		<date>2019</date>
 		<genre>Thriller</genre>
 		<extra>NA</extra>
-		<info>Año 1934. Frank Hamer (Kevin Costner) y su sufrido compañero Manny Gault (Harrelson) son dos Ranger de Texas que sufrieron el reinado de robos de Bonnie & Clyde. Ambos fueron asignados como investigadores especiales de un caso que trajo de cabeza a banqueros y policías por igual, y que se llevó por delante la vida hasta de trece agentes de la ley ante la incredulidad del pueblo.</info>
+		<info>Año 1934. Frank Hamer (Kevin Costner) y su sufrido compañero Manny Gault (Harrelson) son dos Ranger de Texas que sufrieron el reinado de robos de Bonnie &amp; Clyde. Ambos fueron asignados como investigadores especiales de un caso que trajo de cabeza a banqueros y policías por igual, y que se llevó por delante la vida hasta de trece agentes de la ley ante la incredulidad del pueblo.</info>
 	</item>
 	<item>
 		<title>EMMA</title>
@@ -6097,6 +6188,19 @@
 		<info>Forrest Gump (Tom Hanks) sufre desde pequeño un cierto retraso mental. A pesar de todo, gracias a su tenacidad y a su buen corazón será protagonista de acontecimientos cruciales de su país durante varias décadas. Mientras pasan por su vida multitud de cosas en su mente siempre está presente la bella Jenny (Robin Wright), su gran amor desde la infancia, que junto a su madre será la persona más importante en su vida. </info>
 	</item>
 	<item>
+		<title>FORTALEZA: EL OJO DEL FRANCOTIRADOR</title>
+		<microhd>c26cfb170432e80b24d234ec7e5863532d5a91b0</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/9y2ymS09bqTSM7L2DZJi7aIxor6.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/uOGcYv0Su01CFpfhXFVVKia6j3U.jpg</fanart>
+		<date>2022</date>
+		<genre>Acción. Thriller</genre>
+		<extra>Estreno</extra>
+		<info>Semanas después del asalto mortal a Fortress Camp, Robert realiza un atrevido rescate para salvar a Sasha, la viuda de su antiguo némesis Balzary. Pero de vuelta en el búnker de mando del campamento, parece que Sasha puede tener sus propios planes tortuosos. Cuando estalla un nuevo ataque, Robert se enfrenta a un rostro familiar que pensó que nunca volvería a ver.</info>
+	</item>
+	<item>
 		<title>FRACTURA</title>
 		<microhd>586f47f0b2011e833d753c002232696ece5f5a96</microhd>
 		<fullhd>NA</fullhd>
@@ -6340,7 +6444,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/5Ou7l7iA3Ud2DzCmwU3OgqU8jIx.jpg</fanart>
 		<date>2022</date>
 		<genre>Thriller. Drama </genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Cuando dos hombres que viajan por el desierto descubren el pedrusco de oro más grande que han visto en su vida, empiezan a soñar con la riqueza que les traerá, pero la avaricia toma las riendas. Tienen que extraer el oro de la tierra y para ello trazan un plan en el que uno de ellos tiene que ir a por el equipo necesario y el otro se tiene que quedar allí solo a su suerte. </info>
 	</item>
 	<item>
@@ -6381,6 +6485,19 @@
 		<genre>Drama</genre>
 		<extra>Mis</extra>
 		<info>Walt Kowalski (Clint Eastwood), un veterano de la guerra de Corea (1950-1953), es un obrero jubilado del sector del automóvil que ha enviudado recientemente. Su máxima pasión es cuidar de su más preciado tesoro: un coche Gran Torino de 1972. Es un hombre inflexible y cascarrabias, al que le cuesta trabajo asimilar los cambios que se producen a su alrededor, especialmente la llegada de multitud de inmigrantes asiáticos a su barrio. Sin embargo, las circustancias harán que se vea obligado a replantearse sus ideas</info>
+	</item>
+	<item>
+		<title>GRANUJAS A TODO RITMO (THE BLUES BROTHERS)</title>
+		<microhd>39e3f592cef29d5672a800d88bbc87e9394a8930</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/TtkkCYdchVH162OdWenl3SnxZp.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/eIHRJK4Pz0RWO6T8h18mBAS3qvT.jpg</fanart>
+		<date>1980</date>
+		<genre>Comedia. Musical</genre>
+		<extra>Culto</extra>
+		<info>Tras pasar años en la cárcel por robo a mano armada, Jake Blues es puesto en libertad por buen comportamiento. Sale de prisión vestido de la misma forma en la que entró: traje y sombrero negro y gafas oscuras. Vestido de idéntica manera, lo espera en la puerta de la prisión su hermano Elwood, que lo informa de que el orfanato de Santa Elena, el único hogar que conocieron, corre el peligro de desaparecer por razones económicas. Sin dudarlo ni un momento los hermanos se ponen manos a la obra. </info>
 	</item>
 	<item>
 		<title>GREASE</title>
@@ -7912,7 +8029,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/An1nKjXahrChfEbZ3MAE8fsiut1.jpg</fanart>
 		<date>2022</date>
 		<genre>Terror. Fantástico</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Susana (Almudena Amor) tiene que dejar su vida en París, donde trabaja como modelo, para regresar a Madrid, debido a que su abuela Pilar (Vera Valdez) acaba de sufrir un derrame cerebral. Años atrás, cuando los padres de Susana murieron, su abuela la crió como si fuese su propia hija. Susana necesita encontrar a alguien que cuide de Pilar, pero lo que deberían ser solo unos días con su abuela se acabarán convirtiendo en una terrorífica pesadilla</info>
 	</item>
 	<item>
@@ -7966,6 +8083,19 @@
 		<genre>NA</genre>
 		<extra>NA</extra>
 		<info>Adaptación en imagen real del clásico de Disney "La bella y la bestia", que cuenta la historia de Bella (Emma Watson), una joven brillante y enérgica, que sueña con aventuras y un mundo que se extiende más allá de los confines de su pueblo en Francia. Independiente y reservada, Bella no quiere saber nada con el arrogante y engreído Gastón, quien la persigue sin descanso. Todo cambia un día cuando su padre Maurice (Kevin Kline) es encarcelado en el castillo de una horrible Bestia, y Bella se ofrece a intercambiarse con su padre y queda recluida en el castillo. Rápidamente se hace amiga del antiguo personal del lugar, que fue transformado en objetos del hogar tras una maldición lanzada por una hechicera. </info>
+	</item>
+	<item>
+		<title>LA CAJA 507</title>
+		<microhd>NA</microhd>
+		<fullhd>265f66e56331c163f018a9946e08578dbb5c91b0</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/yolTbY4f0E5d4A0fVBL1fbGm6UU.jpg</thumbnail>
+		<fanart>https://i.imgur.com/NUXtyZq.jpg</fanart>
+		<date>2002</date>
+		<genre>Thriller</genre>
+		<extra>Misc</extra>
+		<info>Modesto, un hombre honrado y trabajador, dirige una sucursal bancaria en la Costa del Sol. Un día, unos atracadores entran en el banco, revientan las cajas de seguridad y lo dejan atrapado dentro. Casualmente, al mirar el contenido de la caja 507, descubre que la muerte de su hija, ocurrida hace algunos años, no fue accidental. Del contenido de esa caja depende también la vida y la seguridad de Rafael, un ex-policía corrupto y sin escrúpulos, que tratará de recuperar esos documentos como sea.</info>
 	</item>
 	<item>
 		<title>LA CALLE DEL TERROR PARTE 1 1994</title>
@@ -8146,7 +8276,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/ajEBFTg8odL8O20XQEChEMaJJxn.jpg</fanart>
 		<date>2021</date>
 		<genre>Comedia. Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Una carta de amor al mundo del periodismo, ambientada en la redacción de un periódico estadounidense en una ciudad francesa ficticia del siglo XX, con tres historias interconectadas entre sí.</info>
 	</item>
 	<item>
@@ -8891,6 +9021,19 @@
 		<info>Para mantener durante el resto del año la tasa de criminalidad por debajo del 1%, los Nuevos Padres Fundadores de América ponen a prueba una teoría sociológica que da rienda suelta a todo tipo de agresiones durante una noche en una comunidad aislada. Pero cuando la violencia de los opresores se encuentra con la ira de los marginados, el vandalismo explota más allá de esas fronteras “experimentales” para extenderse por todo el país. Detrás de cada tradición hay una revolución. Descubre cómo toda una nación entera abrazó una brutal celebración anual: 12 horas de impunidad criminal. Bienvenidos a un movimiento que comenzó como un simple experimento.</info>
 	</item>
 	<item>
+		<title>LA REINA DE AFRICA</title>
+		<microhd>4EAC0B8A95E1A08D485B39459BBF3AE2FBCBE370</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/kKFqbL0Sz26hwTXC792TybDlCdi.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/gwe1k68ZFxEo8ZqqR73oobiQwK4.jpg</fanart>
+		<date>1951</date>
+		<genre>Aventuras. Romance</genre>
+		<extra>Mis</extra>
+		<info>Al estallar la Primera Guerra Mundial (1914-1918), Charlie Allnut (Bogart), un rudo capitán de barco con tendencia a la bebida, y Rose Sayer (Hepburn), una estirada y puritana misionera, huyen de las tropas alemanas en una ruinosa embarcación, con la que deben descender un peligroso río. Son, a primera vista, dos seres antagónicos, incompatibles, pero la convivencia y, sobre todo, las penalidades que tendrán que afrontar juntos para sobrevivir harán cambiar radicalmente su relación.</info>
+	</item>
+	<item>
 		<title>LA SEMILLA DEL DIABLO</title>
 		<microhd>b1b5cfbd03953047900ab96271ed1f722dce7f02</microhd>
 		<fullhd>NA</fullhd>
@@ -9264,7 +9407,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/836PkC9ZyqSaptT1HePg2eTK27g.jpg</fanart>
 		<date>2021</date>
 		<genre>Comedia. Drama. Romance</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Es la historia de Alana Kane y Gary Valentine, de cómo se conocen, pasan el tiempo juntos y acaban enamorándose en el Valle de San Fernando en 1973.</info>
 	</item>
 	<item>
@@ -9880,7 +10023,7 @@
 	</item>
 	<item>
 		<title>MAD MAX 2 :  EL GUERRERO DE LA CARRETERA</title>
-		<microhd>NA</microhd>
+		<microhd>c6f92fb64f93e997d1a2b6a20f982ca5ae8607e3</microhd>
 		<fullhd>7a0998549982e5c64ccff253bfb161c746dacb10</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>NA</cuatrok>
@@ -9953,7 +10096,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/nRx0bDFOLzt0RYrP61WJJs4Yno4.jpg</fanart>
 		<date>2021</date>
 		<genre>Thriller. Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Judith lleva una doble vida entre Suiza y Francia. Por un lado, Abdel, con quien está criando a su hija en común. Por el otro, Melvil, con quien tiene dos hijos un poco mayores. Poco a poco, este frágil equilibrio hecho de mentiras, secretos e idas y venidas se va fracturando. Ante el desenmascaramiento, Judith elige la huída hacia adelante. </info>
 	</item>
 	<item>
@@ -13514,7 +13657,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/8wwXPG22aNMpPGuXnfm3galoxbI.jpg</fanart>
 		<date>2022</date>
 		<genre>Aventuras. Acción. Comedia. Saga </genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Después de establecerse en Green Hills, Sonic se muere por demostrar que tiene madera de auténtico héroe. La prueba de fuego llega con el retorno del malvado Robotnik, en esta ocasión con un nuevo compinche, Knuckles, en busca de una esmeralda que tiene el poder de destruir civilizaciones. Sonic forma equipo con su propio compañero de fatigas, Tails, y juntos se lanzan a una aventura que les llevará por todo el mundo en busca de la preciada piedra para evitar que caiga en manos equivocadas. </info>
 	</item>
 	<item>
@@ -14346,7 +14489,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/eAJnHNKKLVLv3ARor9fxUWTyWrS.jpg</fanart>
 		<date>2022</date>
 		<genre>Thriller. Intriga. Acción. Saga</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Después de dos años acechando por las calles de la ciudad como Batman (Robert Pattinson), e infundiendo miedo en las mentes perversas de los criminales, Bruce Wayne está sumido en las profundidades de las sombras de Gotham City. Este vigilante solitario cuenta con pocos aliados de confianza y eso le ha llevado a convertirse en la única encarnación de la venganza entre sus conciudadanos. Cuando un asesino apunta a la élite de Gotham con una serie de maquinaciones sádicas, un rastro de pistas crípticas lleva a Batman a realizar una investigación en el inframundo. </info>
 	</item>
 	<item>
@@ -15885,8 +16028,8 @@
 	</item>
 	<item>
 		<title>WONDER WOMAN</title>
-		<microhd>ff74e1730e4579ac84e84c0a2d8c1e94780643ac</microhd>
-		<fullhd>NA</fullhd>
+		<microhd>216d319a9604aacae65a1d7f37b7b2c91b0cff32</microhd>
+		<fullhd>84bdd623373b1ef5b286961ac47de2f7c79ab6d4</fullhd>
 		<tresd>NA</tresd>
 		<cuatrok>NA</cuatrok>
 		<thumbnail>https://image.tmdb.org/t/p/original/sT72cM7GPNP90K0Ee3YdnxWVsoq.jpg</thumbnail>
@@ -15901,13 +16044,26 @@
 		<microhd>ed5cab5bc5a01e324d430177db8373d616fb11ea</microhd>
 		<fullhd>2551a0952ae186f86c9cee45bc1038ec9366bf5c</fullhd>
 		<tresd>NA</tresd>
-		<cuatrok>48670e580499b3fe7526d74d0f0818d9be57a7fe</cuatrok>
+		<cuatrok>c8653f4605deabbc21f3ae4fa0f53e658026c81c</cuatrok>
 		<thumbnail>https://www.themoviedb.org/t/p/original/oG8rC5WEUFEMsMeBLGJWspJ1Gp5.jpg</thumbnail>
 		<fanart>https://www.themoviedb.org/t/p/original/m6MYSifkYciC4hpjG96zBe39cHR.jpg</fanart>
 		<date>2020</date>
 		<genre>Fantástico. Ciencia ficción. Acción </genre>
 		<extra>NA</extra>
 		<info>En 1984, en plena Guerra Fría, Diana Prince, conocida como Wonder Woman, se enfrenta al empresario Maxwell Lord y a su antigua amiga Barbara Minerva / Cheetah, una villana que posee fuerza y agilidad sobrehumanas. </info>
+	</item>
+	<item>
+		<title>WYATT EARP</title>
+		<microhd>NA</microhd>
+		<fullhd>NA</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>fd846203751f700c1adfdd4d0c1334a342cce516</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/7gkewU8uomZPnMItpg2n0g72ZTD.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/gypNgEwOqchc5cLCYtcwlViDUH8.jpg</fanart>
+		<date>1994</date>
+		<genre> Drama</genre>
+		<extra>Mis</extra>
+		<info>Nacido en una granja de Iowa, Wyatt Earp (Kevin Costner) huye de su hogar, en plena Guerra Civil (1861-1865), para alistarse en el ejército de la Unión, pero su padre (Hackman) lo obliga a volver a casa porque es todavía demasiado joven. Decide entonces estudiar leyes y casarse con Urilla Sutherland (Annabeth Gish), que muere de fiebre tifoidea antes de que puedan tener hijos. Completamente abatido, Earp se da a la bebida y se dedica a robar ganado, pero su padre lo encuentra y lo devuelve al camino recto.</info>
 	</item>
 	<item>
 		<title>X- MEN: DEADPOOL 2</title>
