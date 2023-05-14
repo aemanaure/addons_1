@@ -1,0 +1,11 @@
+<settings version="2">
+    <setting id="ace_port" default="true">6878</setting>
+    <setting id="install_acestream" default="true">false</setting>
+    <setting id="ip_addr" default="true">127.0.0.1</setting>
+    <setting id="last_search" default="true">https://raw.githubusercontent.com/KevinMcfly/canales-Acestream/main/Lista%20completa%20canales%20deportivos%20para%20PC.m3u</setting>
+    <setting id="remerber_last_id">true</setting>
+    <setting id="reproductor_externo">true</setting>
+    <setting id="show_osd">true</setting>
+    <setting id="stop_acestream" default="true">false</setting>
+    <setting id="time_limit">30</setting>
+</settings>
