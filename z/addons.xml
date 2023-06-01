@@ -101,7 +101,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.balandro" name="Balandro" version="3.0.5.01" provider-name="Balandro Team">
+<addon id="plugin.video.balandro" name="Balandro" version="3.0.6.01" provider-name="Balandro Team">
   <requires>
      <import addon="script.module.requests"/>
   </requires>
@@ -116,7 +116,7 @@
       <icon>icon.png</icon>
     </assets>
     <news>
-    [COLOR darkorange][B]Versión  [/COLOR][COLOR yellow]3.0.5.01[/COLOR][COLOR red]  Mod Mayo de 2023[/B][/COLOR]
+    [COLOR darkorange][B]Versión  [/COLOR][COLOR yellow]3.0.6.01[/COLOR][COLOR chartreuse]  Mod Junio de 2023[/B][/COLOR]
 
     [COLOR goldenrod][B]Media Centers Soportados[/COLOR][COLOR plum]  20.x,  19.x,  18.x  y  17.x[/B][/COLOR]
 
@@ -127,6 +127,7 @@
     [COLOR limegreen][B]Contacto:[/B][/COLOR]
         Foro  mimediacenter.info/foro/
         Telegram  t.me/balandro_asesor
+        Team  t.me/Balandro_team
 
     [COLOR blue][B]Agradecimientos:[/B][/COLOR]
         Cita destacada a los miembros de Balandro Team
