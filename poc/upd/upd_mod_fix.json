@@ -5,17 +5,15 @@
             "pelitorrent", 
             "torrents"
         ], 
-        "modules": [
-            "mainmenu"
-        ], 
         "platformcode": [
             "updater"
         ], 
         "root dir": [
+            "info_mod", 
             "version"
         ]
     }, 
     "fix_version": 0, 
-    "hash": "6bb843787bd747594e52b2d897d74a17", 
+    "hash": "4f16dc16d32aecaab76d8ab733a66049", 
     "mod_version": 0
 }
