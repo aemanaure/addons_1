@@ -1,0 +1,20 @@
+{
+    "addon_version": "3.1.01.01", 
+    "files": {
+        "channels": [
+            "pelitorrent", 
+            "torrents"
+        ], 
+        "platformcode": [
+            "patchmod"
+        ], 
+        "root dir": [
+            "info_mod", 
+            "services", 
+            "version"
+        ]
+    }, 
+    "fix_version": 0, 
+    "hash": "e19256a6908cd38c283ede1c42b1ca1c", 
+    "mod_version": 10
+}
