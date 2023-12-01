@@ -1,5 +1,5 @@
 {
-    "addon_version": "3.1.03.01", 
+    "addon_version": "3.1.04.01", 
     "files": {
         "channels": [
             "pelitorrent", 
@@ -15,6 +15,6 @@
         ]
     }, 
     "fix_version": 0, 
-    "hash": "569477b9ce816942f1b6438cc5eaea66", 
-    "mod_version": 1
+    "hash": "a624930e7b055efe3d552529a207b0cf", 
+    "mod_version": 0
 }
