@@ -68,7 +68,7 @@
 	</extension>
 </addon>
 
-<addon id="skin.estuary.MaxEdv3" version="4.0.1" name="Estuary MaxEd v3" provider-name="phil65, Ichabod Fletchman, pepemebe">
+<addon id="skin.estuary.MaxEdv3" version="4.0.2" name="Estuary MaxEd v3" provider-name="phil65, Ichabod Fletchman, pepemebe">
 	<requires>
 		<import addon="xbmc.gui" version="5.16.0"/>
                 <import addon="resource.images.skinbackgrounds.clearMod" version="1.1.9"/>
@@ -118,7 +118,7 @@
 		<disclaimer lang="en_GB">[COLOR red]Estuary MaxEd v3 is a mod skin for Kodi.[/COLOR]</disclaimer>
 		<disclaimer lang="es_ES">[COLOR red]Estuary MaxEd v3 es una modificación del skin para Kodi.[/COLOR]</disclaimer>
 		<news>[COLOR blue][B]Skin Estuary MaxEd v3[/B][/COLOR]
-[COLOR green][B]•4.0.1[/B] Minor bug fix.[/COLOR]
+[COLOR green][B]•4.0.2[/B] Minor bug fix.[/COLOR]
 [COLOR yellow][B]•4.0.0[/B] K20 comp.[/COLOR]
 [COLOR yellow][B]•3.2.9[/B] Update item Menu.[/COLOR]
 [COLOR yellow][B]•3.2.5[/B] Update item Menu.[/COLOR]
