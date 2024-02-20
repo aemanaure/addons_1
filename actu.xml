@@ -646,7 +646,7 @@
 		<fanart>https://image.tmdb.org/t/p/original/4PleBSvEXg3yBt9F2USOK12zh5I.jpg</fanart>
 		<date>2022</date>
 		<genre>Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Como cada verano, Salomé regresa de vacaciones a su pueblo familiar enclavado en los montes portugueses. Allí disfruta con sus tías y primos de un ambiente alegre y festivo hasta que se produce de manera inesperada la muerte de su querida abuela. Mientras los adultos se dedican a pelearse entre ellos debido a la herencia y se enfrentan a los lugareños antes del entierro como si fueran forasteros en su propio pueblo, Salomé comienza a sentir el poder de todas las tradiciones que su Avoa le contó antes de fallecer. Mientras las creencias sobre la existencia de los espíritus siguen vivas, Salomé, desde la inocencia que brinda lo cotidiano, conseguirá unir a su familia bajo una lluvia redentora. </info>
 	</item>
 	<item>
@@ -739,6 +739,19 @@
 		<genre>Drama. Comedia</genre>
 		<extra>Culto</extra>
 		<info>Lester Burnham (Kevin Spacey), un cuarentón en crisis, cansado de su trabajo y de su mujer Carolyn (Annette Bening), despierta de su letargo cuando conoce a la atractiva amiga (Mena Suvari) de su hija (Thora Birch), a la que intentará impresionar a toda costa. </info>
+	</item>
+	<item>
+		<title>AMERICAN FICTION</title>
+		<microhd>NA</microhd>
+		<fullhd>addb32c7e799e4c440e0d54817e2fda46391bce2</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>bb458c14239cb71350e5a9e9b8bceeb356176c39</cuatrok>
+		<thumbnail>https://image.tmdb.org/t/p/original/vf1bpbpCUL7orMx36pqJ5yZrFwr.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/3mpgltEMgPf8zFtPnAWdDVN8ZT1.jpg</fanart>
+		<date>2023</date>
+		<genre>Comedia. Drama</genre>
+		<extra>Estreno</extra>
+		<info>El profesor de inglés y escritor Thelonious 'Monk' Ellison escribe una novela satírica bajo seudónimo, con la intención de denunciar la hipocresía de la industria editorial.</info>
 	</item>
 	<item>
 		<title>AMERICAN GANGSTER</title>
@@ -905,9 +918,22 @@
 		<thumbnail>https://image.tmdb.org/t/p/original/z5gqW3fffzQ16Jv5vDScpypq1FA.jpg</thumbnail>
 		<fanart>https://image.tmdb.org/t/p/original/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg</fanart>
 		<date>2018</date>
-		<genre>Fantastico. Accion</genre>
+		<genre>Fantastico. Accion. Saga</genre>
 		<extra>NA</extra>
 		<info>uando Arthur Curry (Jason Momoa) descubre que es mitad humano y mitad atlante, emprenderá el viaje de su vida en esta aventura que no sólo le obligará a enfrentarse a quién es en realidad, sino también a descubrir si es digno de cumplir con su destino: ser rey, y convertirse en Aquaman.</info>
+	</item>
+	<item>
+		<title>AQUAMAN Y EL REINO PERDIDO</title>
+		<microhd>NA</microhd>
+		<fullhd>85fddce8bb7b8f5520341f2b0811263aea83266c</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>d41b7128eafff6f2ee2954aef8c1d548a06a7e92</cuatrok>
+		<thumbnail>https://image.tmdb.org/t/p/original/3OdMJBOGkp62e0DfY4ZykL9RuCP.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/cnqwv5Uz3UW5f086IWbQKr3ksJr.jpg</fanart>
+		<date>2023</date>
+		<genre>Fantástico. Acción. Ciencia ficción. Saga</genre>
+		<extra>Estreno</extra>
+		<info>Al no poder derrotar a Aquaman la primera vez, Black Manta, todavía impulsado por la necesidad de vengar la muerte de su padre, no se detendrá ante nada para derrotar a Aquaman de una vez por todas. Esta vez Black Manta es más formidable que nunca y ejerce el poder del mítico Tridente Negro, que desata una fuerza antigua y malévola. Para derrotarlo, Aquaman recurrirá a su hermano encarcelado Orm, el ex rey de la Atlántida, para forjar una alianza improbable. Juntos, deben dejar de lado sus diferencias para proteger su reino y salvar a la familia de Aquaman, y al mundo, de una destrucción irreversible.</info>
 	</item>
 	<item>
 		<title>AQUELLOS QUE DESEAN MI MUERTE</title>
@@ -2456,6 +2482,19 @@
 		<info>Año 2267. En un planeta lejano, en la pequeña población de Prentisstown, el joven colono Todd ha crecido creyendo que una raza alienígena asesinó a todas las mujeres y contagió con el "ruido" al resto de los hombres. El ruido permite que entre ellos todos puedan escuchar lo que están pensando. Pero todo cambia cuando un día Todd se encuentra con Viola, la superviviente de una nave espacial que se ha estrellado contra el planeta. Todd se queda perplejo y confuso, pues nunca ha visto a una mujer... y ella no tiene "ruido".</info>
 	</item>
 	<item>
+		<title>CHARLIE Y LA FABRICA DE CHOCOLATE</title>
+		<microhd>NA</microhd>
+		<fullhd>c2e926a61c9cb72f069d0bc235e9ce7c7bb35352</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://image.tmdb.org/t/p/original/voJEk0WNtrcawz2hN9AwdNbvhrp.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/kG5YV1IlRHz4rZTUEXn59nrcrl3.jpg</fanart>
+		<date>2005</date>
+		<genre>Fantástico. Comedia. Infantil. Saga</genre>
+		<extra>Mis</extra>
+		<info>Charlie Bucket (Freddie Highmore), un niño muy bueno de una familia muy pobre, gana un concurso para disfrutar de una visita de un día a la gigantesca fábrica de chocolate del excéntrico Willy Wonka (Johnny Depp) y su equipo de Oompa-Loompas. Cuatro niños más de diferentes partes del mundo lo acompañarán a través de un mundo fantástico y mágico lleno de diferentes sabores.</info>
+	</item>
+	<item>
 		<title>CHERRY</title>
 		<microhd>d3c180f3629363ae51507f4282a8ffda80a25685</microhd>
 		<fullhd>20e839502e9c32daaa221a6fbeed35bb05b3f481</fullhd>
@@ -3221,6 +3260,19 @@
 		<genre>Bélico. Drama</genre>
 		<extra>NA</extra>
 		<info>Cuatro excombatientes afroamericanos -Paul (Delroy Lindo), Otis (Clarke Peters), Eddie (Norm Lewis) y Melvin (Isiah Whitlock, Jr.)- regresan a Vietnam en busca de los restos del jefe de su escuadrón, caído en combate (Chadwick Boseman), y la promesa de un tesoro escondido. Junto al hijo de Paul (Jonathan Majors), se enfrentarán a obstáculos naturales y humanos, y constatarán los estragos causados por la inmoralidad de la guerra de Vietnam.</info>
+	</item>
+	<item>
+		<title>DARK CITY</title>
+		<microhd>99eb9186ba31477c0400921013cf2de4147c19f6</microhd>
+		<fullhd>529401746e6da9e6497d65c0b83a01b48a2055dd</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://image.tmdb.org/t/p/original/npg0scvhSvu28X0Mi2e5KMQoKN6.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/pNuwck4v3dBylK7hhYoWahFiCsL.jpg</fanart>
+		<date>1988</date>
+		<genre>Ciencia ficción. Fantástico.</genre>
+		<extra>Culto</extra>
+		<info>John Murdoch se despierta solo en un extraño hotel y comprueba que ha perdido la memoria y es perseguido como el autor de una serie de sádicos y brutales asesinatos. Mientras intenta juntar las piezas que componen el puzzle de su pasado, descubre un submundo habitado por unos seres conocidos como "los ocultos" que tienen la habilidad de adormecer a las personas y alterar a la ciudad y a sus habitantes.</info>
 	</item>
 	<item>
 		<title>DC LIGA DE SUPERMASCOTAS</title>
@@ -4909,19 +4961,6 @@
 		<info>El joven doctor Frederick Frankenstein, un neurocirujano norteamericano, trata de escapar del estigma legado por su abuelo, quien creó años atrás una horrible criatura. Pero, cuando hereda el castillo de Frankenstein y descubre un extraño manual científico en el que se explica paso a paso cómo devolverle la vida a un cadáver, comienza a crear su propio monstruo.</info>
 	</item>
 	<item>
-		<title>EL JUECIO DEL MOTIN DEL CAINE</title>
-		<microhd>NA</microhd>
-		<fullhd>432140f9fef326356e9397a5b3a62488ee68f3b2</fullhd>
-		<tresd>NA</tresd>
-		<cuatrok>NA</cuatrok>
-		<thumbnail>https://www.themoviedb.org/t/p/original/3uPriqdEUgEAgAFPSQww0p4zDwE.jpg</thumbnail>
-		<fanart>https://www.themoviedb.org/t/p/original/v4Y9Tobk0HfZYmmXqyCdWtBO6qC.jpg</fanart>
-		<date>2023</date>
-		<genre>Drama. Belico</genre>
-		<extra>Estreno</extra>
-		<info>Cuando un capitán de la marina estadounidense muestra una inestabilidad mental que pone en peligro la seguridad de su barco, el primer oficial le releva y se enfrenta a un consejo de guerra por amotinamiento. Greenwald, un abogado escéptico, defiende a regañadientes a Maryk, un oficial de la marina que arrebató el control del barco a su dominante capitán Queeg mientras se encontraba atrapado en una violenta tormenta marina. Greenwald se muestra cada vez más preocupado a medida que avanza el consejo de guerra y se pregunta si lo del Caine fue un verdadero motín o simplemente los valerosos actos de un grupo de marineros que no podían confiar en su inestable líder. </info>
-	</item>
-	<item>
 		<title>EL JUEGO DE LAS LLAVES</title>
 		<microhd>NA</microhd>
 		<fullhd>83b52fb41fba8a886c0b4b5331720129b1011811</fullhd>
@@ -4946,6 +4985,19 @@
 		<genre>Drama</genre>
 		<extra>NA</extra>
 		<info>En 1969 se celebró uno de los juicios más populares de la Historia de Estados Unidos, en el que siete individuos fueron juzgados tras ser acusados de conspirar en contra de la seguridad nacional. Este hecho traería una serie de conflictos sociales (manifestaciones, movimientos ciudadanos) que pasarían a la posteridad en una época de grandes cambios en todos los niveles del pueblo norteamericano.</info>
+	</item>
+	<item>
+		<title>EL JUICIO DEL MOTIN DEL CAINE</title>
+		<microhd>NA</microhd>
+		<fullhd>432140f9fef326356e9397a5b3a62488ee68f3b2</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://www.themoviedb.org/t/p/original/3uPriqdEUgEAgAFPSQww0p4zDwE.jpg</thumbnail>
+		<fanart>https://www.themoviedb.org/t/p/original/v4Y9Tobk0HfZYmmXqyCdWtBO6qC.jpg</fanart>
+		<date>2023</date>
+		<genre>Drama. Belico</genre>
+		<extra>Estreno</extra>
+		<info>Cuando un capitán de la marina estadounidense muestra una inestabilidad mental que pone en peligro la seguridad de su barco, el primer oficial le releva y se enfrenta a un consejo de guerra por amotinamiento. Greenwald, un abogado escéptico, defiende a regañadientes a Maryk, un oficial de la marina que arrebató el control del barco a su dominante capitán Queeg mientras se encontraba atrapado en una violenta tormenta marina. Greenwald se muestra cada vez más preocupado a medida que avanza el consejo de guerra y se pregunta si lo del Caine fue un verdadero motín o simplemente los valerosos actos de un grupo de marineros que no podían confiar en su inestable líder. </info>
 	</item>
 	<item>
 		<title>EL LIBRO DE LA SELVA</title>
@@ -5611,6 +5663,19 @@
 		<info>Manuel (Antonio de la Torre), un influyente vicesecretario autonómico que lo tiene todo a favor para dar el salto a la política nacional, observa cómo su perfecta vida se desmorona a partir de unas filtraciones que le implican en una trama de corrupción junto a Paco, uno de sus mejores amigos. Mientras los medios de comunicación empiezan a hacerse eco de las dimensiones del escándalo, el partido cierra filas y únicamente Paco sale indemne. Manuel es expulsado, señalado por la opinión pública y traicionado por los que hasta hace unas horas eran sus amigos. Aunque el partido pretende que cargue con toda la responsabilidad, Manuel no se resigna a caer solo. Con el único apoyo de su mujer y de su hija, y atrapado en una espiral de supervivencia, Manuel se verá obligado a luchar contra una maquinaria de corrupción que lleva años engrasada, y contra un sistema de partidos en el que los reyes caen, pero los reinos continúan.</info>
 	</item>
 	<item>
+		<title>EL REINO ANIMAL</title>
+		<microhd>NA</microhd>
+		<fullhd>cd46f4f826d46397a080e8d6d380ad7c3ca7ab5c</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>a2017f1de19d088e45f3c5b4a81c60a7742b8d3b</cuatrok>
+		<thumbnail>https://image.tmdb.org/t/p/original/oWh4BiNEmg7d91ZOXPzdkRo0KSO.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/kWDW8eFAss0dvM3D38iPNli7Jg4.jpg</fanart>
+		<date>2023</date>
+		<genre>Ciencia ficción. Aventuras. Drama</genre>
+		<extra>Estreno</extra>
+		<info>En un mundo azotado por una ola de mutaciones que transforman gradualmente a algunos humanos en animales, François hace todo lo posible por salvar a su esposa, afectada por esta misteriosa enfermedad. Mientras la sociedad se ve abocada a un nuevo orden, iniciará junto a Émile, su hijo de 16 años, una búsqueda que los cambiará para siempre. </info>
+	</item>
+	<item>
 		<title>EL REINO DE LOS CIELOS ( EL MONTAJE DEL DIRECTOR)</title>
 		<microhd>NA</microhd>
 		<fullhd>NA</fullhd>
@@ -6051,6 +6116,19 @@
 		<genre>Acción. Thriller</genre>
 		<extra>NA</extra>
 		<info>Año y medio después de la caída de la civilización debido a un brote viral, un ex agente del FBI se ve obligado a proteger a una joven inmune a la enfermedad de un peligroso líder de pandillas que la persigue. </info>
+	</item>
+	<item>
+		<title>EL SUPERVIVIENTE DE AUSCHWITZ</title>
+		<microhd>NA</microhd>
+		<fullhd>d7cb7df578eddb59bf1f634d0b8f202ba7690bfd</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>6c0099010d9e40a7bf7fd6c519ad017c78f5d2fc</cuatrok>
+		<thumbnail>https://image.tmdb.org/t/p/original/oZWJ20tGWZ5xO9CrTCVavmDRy7J.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/82pco9wifPbjfqkZ9y7K8dka7gq.jpg</fanart>
+		<date>2021</date>
+		<genre>Drama</genre>
+		<extra>Estreno</extra>
+		<info>Tras la Segunda Guerra Mundial, Harry Haft es un boxeador que luchó contra sus compañeros en los campos de concentración para sobrevivir. Atormentado por los recuerdos y la culpa, intenta utilizar las peleas de alto nivel contra leyendas del boxeo como Rocky Marciano para volver a encontrar a su primer amor.</info>
 	</item>
 	<item>
 		<title>EL TEST</title>
@@ -12561,7 +12639,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/yoNwUeQXY1ZunGJg2uc4VpUE1OD.jpg</fanart>
 		<date>2023</date>
 		<genre>Comedia</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>Mabel se convierte en una sensación viral de manera involuntaria durante un vuelo a Polinesia. Al desbloquear el teléfono de su esposo dormido en busca de algo inocente, se topa con pruebas de su infidelidad. En medio del avión, desata una confrontación que provoca el pánico y un aterrizaje de emergencia. De regreso en Madrid, se encuentra con que su vida ha cambiado drásticamente. Ahora es conocida como #lalocadelavion en todo el mundo, lo que le cuesta su trabajo, relaciones personales, hogar y privacidad. Mabel lucha por recuperar lo que ha perdido, pero descubre que ser viral tiene sus desafíos únicos.</info>
 	</item>
 	<item>
@@ -13029,7 +13107,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/pUTpUOMnFn7zmANje5jkFTmYNn9.jpg</fanart>
 		<date>2023</date>
 		<genre>Intriga. Thriller. Terror</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>En la Venecia posterior a la Segunda Guerra Mundial, Poirot, ahora retirado y viviendo en su propio exilio, asiste a regañadientes a una sesión de espiritismo, cuando uno de los invitados es asesinado, por lo que depende del ex detective descubrir una vez más al asesino.</info>
 	</item>
 	<item>
@@ -14709,6 +14787,19 @@
 		<info>Una chica corriente (Amy Schumer), que se enfrenta cada día a sus inseguridades, despierta de una caída creyendo que de repente es la mujer más bella y segura del planeta. Con esta nueva confianza en sí misma se siente capaz de vivir su vida sin complejos ni limitaciones pero, ¿qué pasará cuando se dé cuenta de que su apariencia en realidad no ha cambiado?</info>
 	</item>
 	<item>
+		<title>QUE NADIE DUERMA</title>
+		<microhd>NA</microhd>
+		<fullhd>a065a11bdf1db4b5764e84403aa53c3f344f4baf</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>NA</cuatrok>
+		<thumbnail>https://image.tmdb.org/t/p/original/lIPC1FM9KBX8vXRG40iSJoKsZsv.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/kTGR1jaVuumXYQI77EWiZTCiax5.jpg</fanart>
+		<date>2023</date>
+		<genre>Drama. Intriga</genre>
+		<extra>Estreno</extra>
+		<info>Lucía pierde su empleo como programadora informática y decide dar un giro en su vida: convertirse en taxista. Al volante de su taxi, recorriendo las calles de Madrid, esperará pacientemente la ocasión de llevar en él a su vecino desaparecido, del que se ha enamorado.</info>
+	</item>
+	<item>
 		<title>QUE NADIE SE ENTERE</title>
 		<microhd>467ea1750dcc7255d89f6d11a28d23416c74a468</microhd>
 		<fullhd>541421b27abf336afc200ff4b0ccf9eeaec80fb6</fullhd>
@@ -16243,6 +16334,19 @@
 		<info>Sonic, el descarado erizo azul basado en la famosa serie de videojuegos de Sega, vivirá aventuras y desventuras cuando conoce a su amigo humano y policía, Tom Wachowski (James Marsden). Sonic y Tom unirán sus fuerzas para tratar de detener los planes del malvado Dr. Robotnik (Jim Carrey), que intenta atrapar a Sonic con el fin de emplear sus inmensos poderes para dominar el mundo.</info>
 	</item>
 	<item>
+		<title>SONIDOS DE LIBERTAD</title>
+		<microhd>NA</microhd>
+		<fullhd>267607141ef6d919e778ea285f00e9b3d30dce80</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>695f1c34699ffd2373d271797746236198237c99</cuatrok>
+		<thumbnail>https://image.tmdb.org/t/p/original/79wPBxEn6z1WSjAaACR0VCktv15.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/o4SBV32WdZZOd9mV9ng7zUUWG70.jpg</fanart>
+		<date>2023</date>
+		<genre>Drama. Thriller</genre>
+		<extra>Estreno</extra>
+		<info>Narra la historia de Tim Ballard, un ex agente de Seguridad Nacional de Estados Unidos que dejó su trabajo para dedicar su vida (sumergiéndose en el submundo del tráfico sexual de menores a lo largo de Latinoamérica), a intentar salvar las vidas de cientos de niños. </info>
+	</item>
+	<item>
 		<title>SOSPECHOSOS HABITUALES</title>
 		<microhd>413b41e6f431858285f2bc8cf1d78deb9610de11</microhd>
 		<fullhd>828bff9d7083ea897bb6f6b089903df1451c3775</fullhd>
@@ -17227,7 +17331,7 @@
 		<fanart>https://www.themoviedb.org/t/p/original/1AZcHRuWvmuUNhLj3XWcd54V80B.jpg</fanart>
 		<date>2023</date>
 		<genre>Ciencia ficción. Thriller. Drama</genre>
-		<extra>Estreno</extra>
+		<extra>NA</extra>
 		<info>En medio de una guerra futura entre la raza humana y las fuerzas de la inteligencia artificial, Joshua, un duro exagente de las fuerzas especiales que llora la desaparición de su esposa es reclutado para cazar y matar al Creador, el escurridizo arquitecto de la IA avanzada que ha desarrollado una misteriosa arma con el poder de acabar con la guerra... y con la propia humanidad. </info>
 	</item>
 	<item>
@@ -19074,6 +19178,19 @@
 		<genre>Fantástico. Ciencia ficción. Acción </genre>
 		<extra>NA</extra>
 		<info>En 1984, en plena Guerra Fría, Diana Prince, conocida como Wonder Woman, se enfrenta al empresario Maxwell Lord y a su antigua amiga Barbara Minerva / Cheetah, una villana que posee fuerza y agilidad sobrehumanas. </info>
+	</item>
+	<item>
+		<title>WONKA</title>
+		<microhd>NA</microhd>
+		<fullhd>39f39d1c2637fde8cbb62f5f4b84f595b187b0d7</fullhd>
+		<tresd>NA</tresd>
+		<cuatrok>df33dac9d2e12e87c9082e1b1b3db2ad881237e9</cuatrok>
+		<thumbnail>https://image.tmdb.org/t/p/original/8n1yDmCoKLSsJvzUB2dAdEpd5ff.jpg</thumbnail>
+		<fanart>https://image.tmdb.org/t/p/original/uIk2g2bRkNwNywKZIhC5oIU94Kh.jpg</fanart>
+		<date>2023</date>
+		<genre>Musical. Aventuras. Fantástico. Comedia. Saga</genre>
+		<extra>Estreno</extra>
+		<info>Basada en el personaje que protagoniza 'Charlie y la fábrica de chocolate', el libro infantil más emblemático de Roald Dahl y uno de los más vendidos de todos los tiempos, 'Wonka' cuenta la historia de cómo el mayor inventor, mago y chocolatero del mundo se convirtió en el querido Willy Wonka que conocemos hoy en día, centrándose en su juventud y en cómo conoció a un Oompa-Loompa en una de sus primeras aventuras.</info>
 	</item>
 	<item>
 		<title>WYATT EARP</title>
