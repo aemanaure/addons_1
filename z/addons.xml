@@ -172,7 +172,7 @@
     </extension>
 </addon>
 
-<addon id="plugin.video.balandro" name="Balandro" version="4.0.01.01" provider-name="Team Balandro">
+<addon id="plugin.video.balandro" name="Balandro" version="4.0.02.01" provider-name="Team Balandro">
   <requires>
      <import addon="script.module.requests"/>
   </requires>
@@ -187,7 +187,7 @@
       <icon>icon.png</icon>
     </assets>
     <news>
-    [COLOR darkorange][B]Versión  [/COLOR][COLOR yellow]4.0.01.01[/COLOR][COLOR chartreuse]  Mod Enero de 2024[/B][/COLOR]
+    [COLOR darkorange][B]Versión  [/COLOR][COLOR yellow]4.0.02.01[/COLOR][COLOR chartreuse]  Mod Febrero de 2024[/B][/COLOR]
 
     [COLOR goldenrod][B]Media Centers:[/B][/COLOR]
         [COLOR tan][B]Kodi Versiones Oficiales Soportadas:[/B][/COLOR]
