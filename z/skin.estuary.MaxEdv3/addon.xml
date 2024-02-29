@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.estuary.MaxEdv3" version="4.0.2" name="Estuary MaxEd v3" provider-name="phil65, Ichabod Fletchman, pepemebe">
+<addon id="skin.estuary.MaxEdv3" version="4.0.7" name="Estuary MaxEd v3" provider-name="phil65, Ichabod Fletchman, pepemebe">
 	<requires>
 		<import addon="xbmc.gui" version="5.16.0"/>
                 <import addon="resource.images.skinbackgrounds.clearMod" version="1.1.9"/>
@@ -9,7 +9,7 @@
                 <import addon="script.module.horus"  version="1.1.9"/>
                 <import addon="plugin.video.cristalazul"  version="3.0.8"/>
                 <import addon="plugin.video.moestv"  optional="true"/>
-                <import addon="plugin.video.balandro"  version="4.0.00.01"/>
+                <import addon="plugin.video.balandro"  version="4.0.02.01"/>
 	</requires>
 	<extension point="xbmc.gui.skin" debugging="false">
 		<res width="1920" height="1440" aspect="4:3" default="false" folder="xml" />
@@ -29,15 +29,15 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
-			<screenshot>resources/screenshot-01.png</screenshot>
-			<screenshot>resources/screenshot-02.png</screenshot>
-			<screenshot>resources/screenshot-03.png</screenshot>
-			<screenshot>resources/screenshot-04.png</screenshot>
-			<screenshot>resources/screenshot-05.png</screenshot>
-			<screenshot>resources/screenshot-06.png</screenshot>
-			<screenshot>resources/screenshot-07.png</screenshot>
-			<screenshot>resources/screenshot-08.png</screenshot>
-			<screenshot>resources/screenshot-09.png</screenshot>
+			<screenshot>resources/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshot-03.jpg</screenshot>
+			<screenshot>resources/screenshot-04.jpg</screenshot>
+			<screenshot>resources/screenshot-05.jpg</screenshot>
+			<screenshot>resources/screenshot-06.jpg</screenshot>
+			<screenshot>resources/screenshot-07.jpg</screenshot>
+			<screenshot>resources/screenshot-08.jpg</screenshot>
+			<screenshot>resources/screenshot-09.jpg</screenshot>
 		</assets>
 		<summary lang="ca_ES">Aparença Estuary MaxEd v3 (només per Android) per phil65, Ichabod Fletchman, darkozma.</summary>
 		<summary lang="en_GB">Estuary MaxEd v3 skin (only for Android) by phil65, Ichabod Fletchman, darkozma.</summary>
@@ -49,7 +49,8 @@
 		<disclaimer lang="en_GB">[COLOR red]Estuary MaxEd v3 is a mod skin for Kodi.[/COLOR]</disclaimer>
 		<disclaimer lang="es_ES">[COLOR red]Estuary MaxEd v3 es una modificación del skin para Kodi.[/COLOR]</disclaimer>
 		<news>[COLOR blue][B]Skin Estuary MaxEd v3[/B][/COLOR]
-[COLOR green][B]•4.0.2[/B] Minor bug fix.[/COLOR]
+[COLOR green][B]•4.0.7[/B] Rebuild.[/COLOR]
+[COLOR yellow][B]•4.0.2[/B] Minor bug fix.[/COLOR]
 [COLOR yellow][B]•4.0.0[/B] K20 comp.[/COLOR]
 [COLOR yellow][B]•3.2.9[/B] Update item Menu.[/COLOR]
 [COLOR yellow][B]•3.2.5[/B] Update item Menu.[/COLOR]
