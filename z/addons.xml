@@ -68,7 +68,7 @@
 	</extension>
 </addon>
 
-<addon id="skin.estuary.MaxEdv3" version="4.1.1" name="Estuary MaxEd v3" provider-name="phil65, Ichabod Fletchman, pepemebe">
+<addon id="skin.estuary.MaxEdv3" version="4.1.2" name="Estuary MaxEd v3" provider-name="phil65, Ichabod Fletchman, pepemebe">
 	<requires>
 		<import addon="xbmc.gui" version="5.16.0"/>
                 <import addon="resource.images.skinbackgrounds.clearMod" version="1.1.9"/>
@@ -76,9 +76,9 @@
                 <import addon="resource.images.moviegenrefanart.wall-grey" optional="true"/>
                 <import addon="script.extendedinfo" optional="true"/>
                 <import addon="script.module.horus"  version="1.1.9"/>
-                <import addon="plugin.video.cristalazul"  version="3.0.8"/>
+                <import addon="plugin.video.cristalazul"  version="3.0.9"/>
                 <import addon="plugin.video.moestv"  optional="true"/>
-                <import addon="plugin.video.balandro"  version="4.0.02.01"/>
+                <import addon="plugin.video.balandro"  version="4.0.06.01"/>
 	</requires>
 	<extension point="xbmc.gui.skin" debugging="false">
 		<res width="1920" height="1440" aspect="4:3" default="false" folder="xml" />
@@ -118,7 +118,8 @@
 		<disclaimer lang="en_GB">[COLOR red]Estuary MaxEd v3 is a mod skin for Kodi.[/COLOR]</disclaimer>
 		<disclaimer lang="es_ES">[COLOR red]Estuary MaxEd v3 es una modificación del skin para Kodi.[/COLOR]</disclaimer>
 		<news>[COLOR blue][B]Skin Estuary MaxEd v3[/B][/COLOR]
-[COLOR green][B]•4.1.1[/B] Minor bug fix.[/COLOR]
+[COLOR green][B]•4.1.2[/B] Menu fix.[/COLOR]
+[COLOR yellow][B]•4.1.1[/B] Minor bug fix.[/COLOR]
 [COLOR yellow][B]•4.1.0[/B] Bug fix.[/COLOR]
 [COLOR yellow][B]•4.0.8[/B] Rebuild.[/COLOR]
 [COLOR yellow][B]•4.0.2[/B] Minor bug fix.[/COLOR]
